@@ -1,0 +1,20 @@
+a xiii:P1L2, xiii:P2L1, xiii:P3L1
+bad xiii:P1L3
+boy 1:P2L1
+but xiii:P1L3
+died xiii:P3L1
+dog xiii:P1L1, xiii:P2L1, xiii:P3L1, 1:P1L2, 1:P3L1, 12:P1L1, 12:P2L1
+each xiii:P1L2
+had xiii:P1L3
+here xiii:P2L1, xiii:P3L1
+home xiii:P1L1
+igloo 1:P1L4
+is xiii:P2L1
+outside xiii:P1L3
+the xiii:P1L1
+to xiii:P1L3
+treat xiii:P1L2
+walked xiii:P1L1
+wanted xiii:P1L2
+was xiii:P1L3
+we xiii:P1L3

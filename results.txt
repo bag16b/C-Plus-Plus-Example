@@ -1,0 +1,1042 @@
+ do:P1L1God know:P1L7, desire:P4L16
+Let think:P1L8, be:P3L2, your:P1L5
+Rust, know:P1L1, know:P3L4, know:P5L4, 32:P1L1, 5:P1L8, am:P1L1, be:P1L2, be:P3L3, be:P4L2, bury:P1L2, can:P1L6, can:P4L1, chapter:P1L1, charge:P1L15, command:P1L2, could:P1L1, desire:P1L4, desire:P4L1, desire:P5L4, die:P1L6, do:P1L3, do:P9L1, had:P1L1, had:P4L1, have:P1L1, hear:P1L2, hope:P1L6, love:P1L1, may:P1L1, may:P3L2, paris:P4L1, paris:P6L2, paris:P8L4, paris:P10L3, paris:P13L3, paris:P15L3, paris:P21L7, rousillon:P1L1, should:P1L1, should:P4L1, the:P3L3, think:P1L1, vi:P1L1, was:P4L1, were:P1L3, will:P1L3, will:P2L7, will:P5L2, wish:P1L8, would:P1L2, your:P1L3
+So, charge:P1L14, had:P1L2, know:P1L4, vi:P1L6
+You have:P1L1, am:P1L1, am:P3L2, be:P3L2, hear:P1L8, hope:P1L3, know:P1L15, paris:P6L2, paris:P13L2, paris:P21L7, quickly:P1L3, was:P1L1, will:P2L5, will:P5L6, your:P1L2
+[ die:P1L34
+[to desire:P5L2
+] die:P1L34
+abandoned am:P1L10
+ability 32:P1L1
+able desire:P4L4
+above should:P1L1
+abundance am:P1L6
+accuse die:P1L4
+achieves have:P1L6
+acquaint chapter:P1L1
+act 0:P1L1, had:P4L4
+acutely cannot:P1L1
+admiringly think:P1L9
+adoption am:P1L3
+adoptious die:P1L43
+advantage am:P1L12, do:P1L1, think:P1L6
+advice will:P1L3
+advise desire:P4L11
+affect have:P1L14
+affection charge:P1L16
+after hear:P1L6
+afterward dare:P1L7
+again know:P3L5, your:P1L4
+against die:P1L2, know:P1L19, think:P1L11, vi:P1L4
+age had:P4L3
+aid paris:P8L5
+all am:P1L1, am:P4L1, 5:P1L16, desire:P4L3, desire:P6L2, die:P1L7, have:P1L1, hear:P1L8, rousillon:P1L1, vi:P1L2
+almost am:P1L17
+alone think:P1L1, wish:P1L8
+ambition be:P1L1, die:P1L40
+amendment am:P1L8
+among 5:P1L9
+amplest paris:P8L11
+anew in:P1L1
+anon the:P3L1
+another can:P1L10
+answer die:P1L23, paris:P10L2
+anything die:P1L32
+applications would:P1L2
+apprehensive hear:P1L7
+approaches have:P1L11
+approof can:P4L8
+approved paris:P8L10
+arched be:P1L5
+arm would:P1L1
+arm'd paris:P10L2
+as 5:P1L6, am:P1L17, can:P1L10, can:P4L9, do:P1L2, charge:P1L1, desire:P4L1, die:P1L7, had:P1L1, were:P1L6, will:P1L8
+ascribe will:P2L3
+ashamed vi:P1L3
+aside be:P5L1
+ask know:P1L18
+assails know:P1L23
+assault dare:P1L7
+at am:P1L3, can:P1L8, chapter:P1L1, command:P1L2, know't:P1L1, said:P1L2, were:P1L2, would:P1L3
+attempts will:P5L1
+attend desire:P4L14
+attendants paris:P4L1
+austria paris:P8L3
+avail charge:P1L1
+awaked can:P1L6
+away am:P1L1, die:P1L16, know:P5L8, think:P1L8, will:P1L5
+ay know:P1L17
+backward can:P4L4, think:P1L4, will:P2L4
+bad 5:P1L9
+balance chapter:P1L7
+barnes have:P1L1
+barricado know:P1L19
+baser wish:P1L6
+bear'st paris:P21L2
+bear,--'let hear:P1L2
+been will:P5L3
+began hear:P1L3
+beggar will:P1L2
+behaviors vi:P1L8
+belong was:P1L2
+below can:P1L9
+bequeathed would:P1L3
+bertram desire:P1L4, desire:P4L16, desire:P5L1, am:P1L1, bury:P1L1, can:P4L5, have:P4L3, know't:P1L3, paris:P15L3, paris:P19L2, paris:P21L6, rousillon:P1L1, think:P1L12, would:P1L5
+bertram's have:P1L1
+besides die:P1L11
+best desire:P4L13, desire:P5L2, have:P1L10
+better die:P1L27, have:P1L5
+betwixt dare:P1L3
+bid can:P1L8, the:P3L3
+big command:P1L5
+birthright desire:P4L3
+bitter dare:P1L8
+bitterness can:P1L4
+black command:P1L5, rousillon:P1L1
+blazing were:P1L1
+bleak know:P1L4
+blessing shall:P1L1
+blessings have:P1L1
+blest desire:P1L4
+blinking die:P1L44
+blood be:P1L2, desire:P4L1, express:P1L1, have:P1L1, was:P1L3
+blow know:P1L28, know:P3L2
+blowers know:P1L31
+blowing know:P3L5
+blown know:P3L4
+body have:P1L5, wish:P1L4
+bond charge:P1L14
+bones know:P1L3
+born chapter:P1L3, especially:P1L5, was:P1L3, were:P1L1, wish:P1L5
+bosom could:P1L1
+both be:P3L5, had:P4L3, your:P4L1
+bow'd can:P1L11
+braggart die:P1L35, will:P1L1, am:P1L2, charge:P1L1, desire:P4L14, do:P1L3, quickly:P1L4, the:P1L1
+bravest had:P4L2
+braving paris:P6L4
+breach know:P3L6
+breathing paris:P13L3
+breeds am:P1L3, die:P1L8
+bright should:P4L1
+brine have:P1L10
+brings will:P2L8
+brooch die:P1L26
+brother am:P1L3, chapter:P1L2, your:P1L3
+brows be:P1L5
+buried die:P1L6
+by't die:P1L14
+calendar chapter:P1L1
+called think:P1L3
+calls wish:P2L2
+calumnious be:P3L8
+cannot will:P2L7, will:P5L3, am:P1L3, desire:P4L13, die:P1L13
+canon die:P1L13
+cap die:P1L24
+capable be:P4L1, will:P1L2
+captain die:P1L37
+care thank:P1L1, will:P1L2
+carries have:P1L1
+case do:P4L1, do:P9L1
+catalogue am:P1L1
+catastrophe hear:P1L4
+catch'd your:P1L5
+cause 5:P1L2
+caution paris:P8L4
+certainty paris:P8L3
+chapter'll the:P3L1
+chapterf vi:P4L1, vi:P7L1, am:P1L1, be:P3L1, have:P4L1, know't:P6L1, was:P1L1
+chaptermpossible will:P5L1
+chaptern do:P4L1, do:P7L1, be:P4L1, can:P4L1, desire:P4L1, had:P8L1, rousillon:P4L1, should:P4L1
+chapterndeed your:P4L1
+chapterng paris:P4L1, paris:P6L1, paris:P8L1, paris:P10L1, paris:P15L1, paris:P21L1, paris:P23L1, can:P6L1, know't:P3L1, quickly:P3L1
+chapterng's paris:P1L1
+chapternto had:P4L1
+chapterris am:P3L1
+chapters am:P4L1, know:P3L1
+chaptersbel may:P3L1
+chaptersbel's do:P9L1
+chaptert paris:P13L1, paris:P19L1, had:P6L1, know:P5L1, was:P4L1
+charbon be:P3L3
+charitable chapter:P1L3
+cheek die:P1L28, have:P1L13
+cheeks vi:P1L6
+cheese die:P1L9
+cheque'd desire:P4L6
+cherisher be:P1L1
+cherishes be:P1L2
+child would:P1L3
+choice am:P1L3
+choose die:P1L13
+christendoms die:P1L43
+city know:P3L6
+clearness chapter:P1L3
+clew vi:P4L1
+clock can:P1L7
+clown 5:P1L1, am:P1L3, am:P4L2, have:P1L4, 32:P1L3, be:P3L9, command:P1L1, do:P4L2, hope:P1L4, may:P1L3, rousillon:P1L1, will:P1L3
+cold know:P1L4, know:P5L8
+collateral should:P4L1
+comes paris:P10L3, paris:P15L2, be:P4L4, the:P1L2
+comfortable desire:P5L3
+comforts be:P1L1
+command command:P1L2
+commendations have:P1L4
+commit 32:P1L1
+commodity die:P1L21
+commonwealth know:P5L2
+communicate think:P1L1
+companion know:P5L8
+complaints chapter:P1L7
+composed paris:P21L4
+composition think:P1L9
+concerns chapter:P1L2
+concord die:P1L41
+confess vi:P1L7
+constancies hear:P1L9
+consumes die:P1L9
+contempt can:P1L4
+contend desire:P4L2
+contented be:P3L1
+continue paris:P6L3
+copy can:P4L2
+cornets paris:P2L1
+corrupt 5:P1L13
+could be:P3L1, think:P1L11
+counsel will:P1L3
+counsellor die:P1L39
+count am:P1L3, paris:P19L1, would:P1L3
+countess am:P1L1, am:P2L1, 5:P1L12, be:P3L7, chapter:P1L3, charge:P1L5, desire:P1L3, desire:P4L15, do:P1L1, have:P1L2, hope:P1L2, know:P1L1, may:P1L1, observe:P1L3, rousillon:P1L1, the:P1L4, think:P1L4, were:P1L5, will:P1L1, would:P1L2, your:P1L1
+court chapter:P1L1
+court's know:P1L1
+courtier can:P1L4, desire:P4L10, die:P1L24
+courtier's will:P1L2
+cousin paris:P8L3
+coward know:P1L1
+creatures can:P1L10
+credence paris:P8L11
+credible paris:P8L2
+credit desire:P5L6
+crop am:P1L2
+cuckoo the:P1L3
+cupid die:P1L44
+curd express:P1L1
+curious paris:P21L3
+curls be:P1L5
+damned am:P1L1
+date die:P1L27
+daughter am:P3L2, would:P1L1, your:P1L3
+daughter-in-law your:P1L2
+days was:P4L3
+de think:P1L6, would:P1L1
+dead have:P1L2
+dear am:P1L2, die:P1L39
+dearer would:P1L4
+dearest paris:P8L5
+death am:P1L18, think:P1L1
+debate would:P1L3
+deceive will:P5L5
+deer be:P3L6
+defence know:P1L24
+delivered dare:P1L8
+delivering rousillon:P4L1
+demand do:P1L4
+demonstrate can:P4L3
+denial paris:P8L7
+denied paris:P10L3
+derives have:P1L6
+deservings chapter:P1L3
+designs will:P2L5
+desperate die:P1L7
+destiny the:P1L2
+devil am:P1L1
+dian dare:P1L5
+did had:P1L2, had:P4L3, think:P1L1, will:P5L4
+die be:P1L3, chapter:P1L1
+died know't:P1L1
+dies die:P1L10
+diest will:P1L4
+difference dare:P1L3
+disaster die:P1L42
+discharged chapter:P1L5
+discipled had:P4L2
+disclose charge:P1L15
+discord die:P1L41
+disdain hear:P1L8
+disease think:P1L1
+disease--my will:P5L5
+disobedience die:P1L5
+dispositions have:P1L1
+distemper'd am:P1L1
+divers paris:P4L1
+do charge:P1L6, will:P2L2, will:P5L2, command:P1L4, desire:P4L4, die:P1L18, hope:P1L6, were:P1L6, wish:P1L6
+does chapter:P1L6, express:P1L1
+done 5:P1L4, command:P1L3
+dost vi:P1L5
+down know:P1L27, know:P3L4, desire:P4L8
+draw be:P1L4, were:P1L3
+drily die:P1L30
+drives am:P1L1
+drudge be:P1L1
+duke's am:P1L12, do:P1L1, paris:P4L1, vi:P1L7
+dulcet die:P1L41
+dull will:P2L5
+duty chapter:P1L1, paris:P21L7
+e'er dare:P1L9
+ears am:P1L1, hear:P1L1, paris:P6L2, think:P1L2
+earthquake were:P1L2
+eats die:P1L30
+education have:P1L1
+effects wish:P1L7
+either paris:P10L6
+else will:P1L4
+eminent can:P1L11
+empire desire:P4L2
+endeavours chapter:P1L2
+enemies hope:P1L3
+enemy have:P1L3, have:P4L1, desire:P4L4, die:P1L37, know:P1L18
+enough 32:P1L2, think:P1L10
+enter paris:P2L1, paris:P15L3, rousillon:P1L1, be:P4L5, will:P2L1, wish:P1L10
+enwombed am:P1L2
+epitaph can:P4L8
+equal can:P1L6, paris:P6L3
+ere can:P1L3, were:P1L3
+ergo be:P1L4
+estates dare:P1L3
+even will:P3L1
+ever know:P5L7, be:P3L8, was:P1L1, will:P5L3
+evils know:P1L2
+excellent think:P1L8
+exception can:P1L8
+excess have:P4L1
+excessive have:P1L3
+exeunt desire:P5L8, would:P1L7
+exit will:P1L1, will:P5L7, am:P1L2, desire:P4L17, wish:P2L3
+expire hear:P1L10
+exploit paris:P13L3
+extend dare:P1L4
+eye am:P3L1, be:P1L5, was:P4L5, will:P2L7
+eyes vi:P1L7
+face 5:P1L2, paris:P21L2
+fair 5:P1L2, have:P1L2, know:P1L7
+fairer have:P1L2
+faith know:P1L2, am:P4L3, die:P1L42
+fall desire:P4L9
+famed know't:P1L2
+famous think:P1L5
+fancy be:P4L3
+far am:P1L18, had:P1L2
+farewell desire:P4L9, desire:P5L6, will:P1L5, wish:P3L2
+fashion die:P1L25
+fashions hear:P1L10
+father desire:P1L4, desire:P5L7, had:P1L1, had:P6L2, am:P1L3, have:P1L11
+father's paris:P21L2, know't:P1L1
+father,--o am:P1L15
+fathers hear:P1L9
+fault 5:P1L17
+faults was:P4L4
+favour be:P4L2, have:P1L1
+feed will:P2L7
+feeding die:P1L10
+felt wish:P1L5
+few desire:P4L3
+fight think:P1L4
+file die:P1L10, 5:P1L6, am:P1L3, be:P6L1, desire:P4L3, have:P1L4, know:P3L5, know:P5L8, paris:P4L1, paris:P6L3, paris:P8L4, the:P3L1, will:P3L1, wish:P1L7, would:P1L2
+find 5:P1L17, am:P1L2, the:P1L1, vi:P1L1
+finds am:P1L12, do:P1L2
+first paris:P6L5, paris:P8L8, paris:P16L1, dare:P1L7, had:P1L2, know:P5L5, quickly:P1L4
+fistula think:P1L15
+fit know:P1L2
+fix'd will:P5L6
+fixed know:P1L2
+flame hear:P1L6
+flesh be:P1L2, am:P1L1, have:P1L1
+florence paris:P10L3
+florentine paris:P8L4
+florentines paris:P6L2
+flourish paris:P2L1, would:P1L7
+follow wish:P1L7
+follow'd can:P4L3
+folly 32:P1L1, know:P1L5
+fond 5:P1L4, die:P1L43
+fondness your:P1L5
+fool know:P1L1
+foregone was:P4L3
+foreign am:P1L4
+forged desire:P5L2
+formerly die:P1L31
+forsooth am:P1L1
+forswear't vi:P7L1
+fortune dare:P1L2, paris:P6L3, will:P2L8
+fought paris:P6L3
+foul chapter:P1L3
+foul-mouthed be:P3L8
+found die:P1L24, chapter:P1L1, desire:P4L10, have:P1L3, know:P5L7, were:P1L2, would:P1L1
+france paris:P4L1
+frank paris:P21L3
+free will:P2L4
+freely paris:P10L5
+french die:P1L29
+friends hope:P1L1, will:P1L7, wish:P1L7
+friendship had:P1L1
+from have:P1L8, am:P1L4, know:P1L30, paris:P8L3, rousillon:P4L1
+full know:P1L4, the:P1L1
+furnish desire:P4L8
+garments hear:P1L9
+gave 5:P1L8
+general know:P1L7, know:P3L6, know:P5L5, 32:P1L1, 5:P1L13, am:P1L1, am:P3L2, chapter:P1L1, charge:P1L6, desire:P5L3, die:P1L13, especially:P1L4, have:P1L14, observe:P1L4, quickly:P1L3, said:P1L1, the:P1L5, the:P3L1, think:P1L2, vi:P1L3, vi:P4L1, wish:P2L2, your:P1L2, your:P4L1
+generally am:P1L3
+gentlemen paris:P10L4
+gentlewoman am:P1L2
+gentry paris:P13L2
+gerard think:P1L6, would:P1L1
+get chapter:P1L6, have:P1L8, the:P1L5, will:P1L7
+gifts have:P1L2
+give quickly:P1L1
+gives am:P1L1, will:P2L4
+gloss die:P1L21
+go have:P1L4, am:P1L1, charge:P1L14, may:P1L1, think:P1L4
+god 5:P1L16, dare:P1L4, shall:P1L1, your:P1L3
+god's express:P1L1
+goddess dare:P1L2, die:P1L38
+goers can:P4L4
+goes be:P6L1
+going am:P1L1
+gone be:P4L3, chapter:P1L6, the:P1L5, were:P1L6
+goodly die:P1L15, vi:P4L1
+goodness desire:P4L2, have:P1L6
+gossips die:P1L44
+got know:P5L4
+gown command:P1L5
+grace think:P1L1
+grafted hear:P1L1
+great think:P1L1, am:P1L17, hope:P1L5, know:P1L1
+grecians 5:P1L3
+grief have:P1L3, have:P4L1
+groan am:P1L5
+gross vi:P1L2
+grossly vi:P1L8
+grow hear:P1L2
+guide die:P1L38
+haggish had:P4L3
+hand can:P1L9
+hangs die:P1L5
+happen chapter:P1L2
+hast will:P1L6
+haste paris:P21L3
+have paris:P6L3, paris:P8L7, paris:P10L5, 32:P1L1, am:P1L18, chapter:P1L5, die:P1L35, especially:P1L4, have:P1L15, know:P1L17, think:P1L10, vi:P4L1, were:P1L1, would:P1L1
+hawking be:P1L5
+he am:P1L1, be:P1L1, can:P1L10, can:P4L1, chapter:P1L2, desire:P4L13, die:P1L5, especially:P1L7, had:P1L2, had:P4L2, had:P8L2, hear:P1L1, know:P1L1, know't:P1L2, know't:P6L1, paris:P10L2, paris:P15L2, should:P1L1, the:P3L3, think:P1L5, will:P1L8
+he's be:P4L3
+head desire:P4L9, vi:P1L2
+heads be:P3L5
+heart be:P4L1, command:P1L5, have:P1L12, were:P1L3
+heart's be:P4L1
+hearts be:P3L4
+heel hear:P1L4
+held chapter:P1L1
+helen am:P1L1, observe:P1L4, the:P3L3, wish:P3L2, would:P1L1, your:P1L2
+helena know:P1L4, know:P5L9, am:P1L1, am:P3L3, chapter:P1L1, charge:P1L3, desire:P6L1, die:P1L17, especially:P1L3, have:P1L13, observe:P1L1, rousillon:P1L1, think:P1L3, will:P2L1, wish:P1L3, your:P1L1
+helena] desire:P5L2
+hellish vi:P1L10
+herd be:P3L6
+here paris:P8L2, paris:P15L2, be:P4L4, chapter:P1L6
+heritage do:P9L2
+herself do:P1L1, think:P1L2
+hide can:P1L3
+high will:P2L6
+highways die:P1L7
+himself die:P1L5
+hind be:P1L2
+his can:P1L5, can:P4L6, am:P1L1, be:P1L5, be:P4L2, chapter:P1L1, dare:P1L4, desire:P4L14, die:P1L10, had:P8L1, hear:P1L3, paris:P8L9, should:P4L1, think:P1L1, were:P1L3, would:P1L3
+hither am:P1L1
+hold am:P1L4, desire:P5L6
+honest thank:P1L1
+honestly chapter:P1L5
+honesty am:P1L17, command:P1L3, have:P1L6
+honour can:P1L3
+honourable am:P1L2
+hope am:P1L8
+horns be:P3L6
+hour be:P1L4
+how know:P1L18, know:P3L1, am:P1L16, desire:P1L2, die:P1L18, think:P1L3
+howe'er vi:P7L1
+howsome'er be:P3L4
+humble die:P1L40
+humbled can:P4L1
+humility can:P1L12, command:P1L5, die:P1L40
+hung chapter:P1L7
+hurt command:P1L3
+i know:P1L3, be:P3L6
+idle die:P1L11
+idolatrous be:P4L3
+if 5:P1L9, am:P1L1, can:P1L5, think:P1L10, wish:P3L2
+ignorance will:P1L5
+ill die:P1L20
+immortal am:P1L18
+impress'd was:P4L2
+in't charge:P1L14, have:P1L1, wish:P1L4
+increase die:P1L15, know:P5L4
+indeed have:P1L1, think:P1L8
+infallible die:P1L4
+informed chapter:P1L6
+inherit paris:P21L5
+inherits have:P1L2
+inhibited die:P1L12
+instruction will:P1L1
+intents will:P5L6
+invention vi:P1L3
+is't vi:P1L11
+itself die:P1L6, be:P1L1, can:P1L7
+jarring die:P1L41
+jest can:P1L1
+join will:P2L9
+jowl be:P3L5
+joy 5:P1L5
+judgments hear:P1L8
+just die:P1L25
+k paris:P2L1, paris:P4L2, paris:P6L7, paris:P8L12, paris:P13L4, paris:P19L3, paris:P21L8, can:P4L10, know't:P1L5, quickly:P1L5
+keep chapter:P1L5, desire:P4L5, die:P1L13, know:P1L21
+kept die:P1L22, especially:P1L4, know:P5L7
+key desire:P4L6
+kind the:P1L3, vi:P1L9
+king think:P1L8, 5:P1L5, am:P1L2
+king's think:P1L1, am:P1L20, will:P5L5
+kiss will:P2L9
+kisses be:P1L4
+knave be:P3L8, chapter:P1L6, hope:P1L3, were:P1L6
+knaveries 32:P1L2
+knaves hope:P1L6
+knew can:P1L7
+knight dare:P1L6
+knowledge think:P1L10
+labourers quickly:P1L1
+lack am:P1L6, 32:P1L1, quickly:P1L4
+lacks hear:P1L6
+lady desire:P5L6
+ladyship's may:P1L1
+lafeu desire:P1L1, desire:P4L12, desire:P5L5, am:P1L1, have:P1L1, heard:P1L1, paris:P15L3, rousillon:P1L1, think:P1L2
+lamentation have:P1L2
+land am:P1L1
+languishes think:P1L13
+lasted had:P4L2
+lately think:P1L9
+lawfully do:P1L1
+learning know:P1L1
+least quickly:P1L4
+leisure would:P1L3, will:P1L6
+lend quickly:P1L4, would:P1L1
+less die:P1L22
+lest have:P1L14
+let die:P1L20, know:P1L17
+level dare:P1L5
+levity can:P1L3
+lie will:P2L2
+lies can:P4L7
+life's desire:P4L6
+light should:P4L1
+like die:P1L9, be:P3L6, can:P1L4, will:P2L9
+likelihoods chapter:P1L6
+likes die:P1L21, will:P2L9
+liking die:P1L18
+limit die:P1L7
+line be:P4L2
+lion be:P1L2
+little die:P1L2, wish:P3L2
+lived think:P1L10
+livelihood have:P1L13
+lives can:P4L8
+living have:P1L3, have:P4L1, am:P1L20, know't:P6L1
+loneliness vi:P1L1
+long had:P4L2
+longer die:P1L22
+looks die:P1L30
+loose die:P1L13
+lords can:P1L1
+lose die:P1L18, know:P3L6
+losing am:P1L13
+loss know:P5L3, chapter:P1L2
+lost know:P5L5
+lottery were:P1L2
+love charge:P1L6, be:P1L1, dare:P1L3, desire:P4L3, do:P1L2, paris:P8L9, vi:P1L3, will:P2L6, will:P5L4
+love's was:P4L2
+loved dare:P1L1, quickly:P1L3
+loves be:P1L3, die:P1L35
+low can:P1L11
+lying die:P1L22
+madam am:P1L2, am:P4L3, 32:P1L4, 5:P1L15, charge:P1L4, do:P1L6, have:P1L5, have:P4L4, hope:P1L5, observe:P1L2, the:P3L3, think:P1L3, will:P1L2, your:P1L2
+made know:P3L6, know:P5L5, am:P1L18, die:P1L11
+maiden express:P1L1, have:P1L10
+majesty paris:P8L10, would:P1L6
+majesty's am:P1L8, paris:P21L7
+makes will:P2L7, have:P1L2, have:P4L2, will:P1L5, think:P1L9
+making can:P1L12
+manners desire:P4L1
+many am:P1L1, chapter:P1L6
+many-colour'd am:P1L2
+marriage be:P3L2, may:P1L2, the:P1L2
+marry die:P1L20, have:P1L3, know:P3L5
+mars especially:P1L2, chapter:P1L5
+master am:P1L2, die:P1L35
+mated be:P1L2
+matter dare:P1L1
+may know:P1L19, know:P5L7, paris:P8L10, paris:P13L1, be:P3L5, can:P1L1, chapter:P1L2, desire:P4L8, do:P1L1, have:P1L3, the:P3L3, were:P1L3, will:P5L5
+mayst paris:P21L5
+mean your:P1L3, paris:P10L4
+meditating know:P1L15
+melancholy hear:P1L3
+men be:P3L1, know:P3L2, the:P1L1
+mend were:P1L2
+mercy express:P1L1
+mere hear:P1L9
+merit will:P5L4
+messenger am:P1L1
+metal know:P5L6
+methinks were:P1L1
+methought said:P1L1
+might wish:P1L5, can:P4L2, chapter:P1L1, dare:P1L4, die:P1L18, know:P3L2, were:P1L1, your:P1L2
+mightiest will:P2L8
+military know:P3L1
+mind have:P1L3
+mine am:P1L2, do:P9L1, will:P2L7
+minute can:P1L7
+miss will:P5L4
+mistress charge:P1L8, desire:P5L4, die:P1L36, am:P1L2
+mites die:P1L8
+moderate have:P1L2
+modesty chapter:P1L2
+monarch know:P1L9
+monsieur chapter:P1L3, wish:P2L2
+months know't:P1L4
+moral paris:P21L4
+mortal have:P4L2
+mortality think:P1L11
+most die:P1L4, dare:P1L8, paris:P8L2
+mother your:P1L2, your:P4L1, am:P1L4, desire:P5L4, die:P1L36, said:P1L1
+mother's am:P1L5
+mothers your:P4L1, die:P1L4
+mounts will:P2L6
+mourningly think:P1L9
+move paris:P8L4
+much die:P1L9, desire:P5L4, do:P1L2, had:P6L1, know't:P1L2, think:P1L4
+murders die:P1L6
+myself had:P1L1
+mystery vi:P1L1
+narbon think:P1L6, would:P1L1
+native am:P1L4, will:P2L9
+naturalize will:P1L1
+nature am:P1L3, die:P1L3, know:P5L2, paris:P21L3, will:P2L8, would:P1L2
+nature's was:P1L1, was:P4L1
+nay am:P1L4, paris:P8L2
+ne'er am:P1L5, die:P1L20
+necessity am:P1L4
+needs am:P1L1, especially:P1L4, will:P1L2
+new hear:P1L8
+nine 5:P1L9
+no am:P1L1, am:P1L4, command:P1L2, command:P1L4, dare:P1L2, have:P1L1, know:P1L11, know:P3L1, have:P1L14, 5:P1L17, be:P3L2, do:P9L1, would:P1L4
+noble charge:P1L8, am:P1L1
+none will:P1L7, desire:P4L4, was:P4L4, know:P1L27
+nor can:P1L4, chapter:P1L4
+note am:P1L1, charge:P1L15
+now die:P1L27, am:P2L2, be:P4L3, can:P4L3, vi:P1L2, your:P1L5
+nursery paris:P13L2
+o 5:P1L16, desire:P6L2
+obey'd can:P1L9
+obstinacy vi:P1L10
+off die:P1L22
+offendress die:P1L8
+oft will:P2L2, hear:P1L3, know:P1L4
+often am:P1L2
+oil hear:P1L6
+old die:P1L24, be:P3L3
+on know:P1L5, had:P4L3, can:P4L7, desire:P4L9, die:P1L3, hear:P1L4, paris:P10L6
+on't was:P4L5
+once know:P5L6
+one 5:P1L9, am:P1L1, be:P3L5, be:P6L1, die:P1L18, know:P1L1, vi:P1L7, were:P1L1
+only am:P1L12, dare:P1L4, vi:P1L9, will:P2L4
+oppress'd am:P1L5
+or your:P1L4, your:P4L1, am:P1L1, can:P1L5, dare:P1L7, was:P4L4, were:P1L2, will:P1L3
+ours was:P1L1
+ourselves will:P2L2, chapter:P1L4
+out die:P1L7, had:P4L4, know:P1L21, were:P1L3, would:P1L1
+out,--'let hear:P1L5
+over command:P1L5
+overlooking would:P1L4
+owing do:P1L3
+own think:P1L2, die:P1L10, can:P1L2, desire:P4L6, do:P9L1
+page wish:P1L10, wish:P2L1
+paid do:P1L3
+pains will:P5L2
+palace paris:P1L1
+pale your:P1L4
+papist be:P3L4
+pardon charge:P1L4, am:P1L2
+parents am:P1L1
+paring die:P1L10
+paris paris:P21L5
+parolles know:P1L2, know:P3L3, be:P4L5, chapter:P1L3, die:P1L1, especially:P1L1, like:P1L1, paris:P15L3, think:P1L1, wish:P1L1, wish:P2L2, wish:P3L1
+part paris:P10L6, die:P1L3
+parts paris:P21L4
+passage am:P1L16
+passion vi:P1L4, was:P4L2
+passions charge:P1L16
+past chapter:P1L1
+pastime hear:P1L4
+pear die:P1L31
+pears die:P1L30
+peevish die:P1L11
+persecuted am:P1L11
+phoenix die:P1L37
+physician know't:P1L1
+physicians am:P1L10
+pie die:P1L27
+pity wish:P1L2, have:P1L4
+plague be:P1L3
+plagues be:P1L1
+plead paris:P8L10
+please the:P3L3
+pleasure observe:P1L2
+pluck desire:P4L8, were:P1L3
+policy know:P3L1
+politic know:P5L2
+poorer wish:P1L5
+porridge die:P1L28
+power desire:P4L5, will:P2L6
+poysam be:P3L3
+practises am:P1L11
+praise have:P1L10, can:P4L1
+prayers will:P1L6, desire:P4L8
+predominant especially:P1L7
+prejudicates paris:P8L6
+preserve know:P5L3
+pretty die:P1L43, be:P1L3, desire:P5L6
+priam's 5:P1L5
+pride can:P1L5
+principal die:P1L16
+process am:P1L12
+proclamation vi:P1L4
+profession think:P1L5
+project will:P5L5
+promises have:P1L1
+prophet be:P3L10
+proposes think:P1L8
+proud die:P1L11, can:P1L12
+publish chapter:P1L4
+pull will:P2L4
+pulse your:P1L4
+purifying 5:P1L15
+puritan command:P1L3, be:P3L3
+put am:P1L1, dare:P1L2
+qualities have:P1L3, dare:P1L5
+queen know:P1L7, dare:P1L5
+question know:P1L18
+quicklier know:P3L4
+quoth 5:P1L2, hear:P1L5
+radiance should:P4L1
+ranks can:P1L11
+ransom dare:P1L7
+rather have:P1L14, am:P1L5, paris:P21L3, desire:P4L5
+rational know:P5L3
+reason am:P4L1, have:P1L3
+received paris:P8L2
+religion be:P3L5
+reliques be:P4L4
+remedies will:P2L2
+remember will:P1L7
+remembrance can:P4L6, have:P1L11, think:P1L1
+remembrances was:P4L3
+repairs had:P6L1
+reported paris:P6L6
+request die:P1L23
+requires have:P1L5
+rescue dare:P1L7
+resistance know:P1L25
+rest would:P1L1
+retrograde especially:P1L9
+return can:P1L2, wish:P1L9
+rich am:P1L1
+richer can:P4L7
+richly die:P1L25
+right have:P1L2, think:P1L6
+rightly was:P1L2
+room quickly:P1L1
+rose was:P1L2
+rounds am:P3L1
+rousillon rousillon:P1L1, am:P1L3, paris:P19L1
+royal can:P4L9
+rule die:P1L3
+running think:P1L8
+sacked 5:P1L3
+sad am:P1L16
+safety think:P1L8
+said die:P1L2, dare:P1L2
+sake am:P1L20, hope:P1L1
+salt vi:P1L2
+sanctified die:P1L7
+sanctify be:P4L4
+saw said:P1L1
+say will:P1L6, vi:P1L5, express:P1L2, have:P1L1
+scatter'd hear:P1L1
+scene would:P2L1, will:P6L1, chapter:P1L1
+scope will:P2L4
+scorn can:P1L2
+seal was:P4L1
+season have:P1L10
+second paris:P10L7, quickly:P1L2
+see die:P1L20, paris:P10L4, vi:P1L8, be:P1L4, will:P2L7, know:P1L4
+seeds am:P1L4
+seem paris:P8L6
+seen am:P1L2
+self-love die:P1L12
+senoys paris:P6L2
+sense will:P5L2, vi:P1L2, dare:P1L1
+senses hear:P1L7
+sentence 5:P1L8
+serpent said:P1L1
+servants desire:P5L3
+serve will:P1L1, paris:P13L1, 5:P1L16
+service paris:P10L5, do:P9L1, had:P4L1
+set think:P1L11
+several would:P1L2
+severed be:P3L4
+shallow hope:P1L5
+shape desire:P4L1
+share desire:P4L3
+sharpness can:P1L5
+she 5:P1L2, dare:P1L1, do:P1L1, have:P1L1, think:P1L1
+she'll do:P1L4
+shield your:P1L3
+should command:P1L2, die:P1L6, vi:P1L11, am:P1L19
+show will:P5L4, wish:P1L8, was:P4L1
+shown vi:P1L8
+shut wish:P1L6
+sick was:P4L5, paris:P13L2
+sickness would:P1L2
+sighed 5:P1L6
+silence desire:P4L6
+simpleness have:P1L6
+sin vi:P1L9, die:P1L12
+since know't:P1L1, after:P1L1
+sings the:P1L3
+sir am:P1L2, can:P4L6, die:P1L18, paris:P6L6, quickly:P1L3, the:P1L5, think:P1L5, were:P1L6
+sirrah chapter:P1L6, 5:P1L13, am:P1L2
+sit know:P1L2, be:P1L4
+sithence chapter:P1L2
+sitting know:P1L27
+six know't:P1L4
+skilful think:P1L10
+skill am:P1L16
+sky will:P2L3
+slip am:P1L4
+slow will:P2L5
+slowness do:P1L1
+snuff hear:P1L6
+soldier know:P1L17
+soldiership had:P1L2
+sole would:P1L3
+solely know:P1L1
+some know:P1L17, know't:P1L4, quickly:P1L1
+something chapter:P1L3
+son charge:P1L6, dare:P1L1, rousillon:P4L1, vi:P1L3, your:P1L3
+son's would:P1L4
+song 5:P1L13
+soon have:P4L2
+sooner may:P1L2
+sorrow dare:P1L9, have:P1L15
+sorrows have:P1L12
+sovereign die:P1L38
+space will:P2L8
+spares am:P1L1
+speak vi:P1L9, can:P1L8, die:P1L3, think:P1L3
+speech desire:P4L7, can:P4L9
+speedily chapter:P1L1
+speedy paris:P8L5
+spirits hear:P1L7
+spoke think:P1L9
+stain know:P1L17
+stall could:P1L1
+stand paris:P10L6
+star were:P1L2, chapter:P1L3
+stars wish:P1L6
+start said:P1L2
+state charge:P1L16
+steal had:P4L3
+steely know:P1L3
+steward will:P1L1, am:P2L3, do:P1L5, rousillon:P1L1, the:P3L2
+still think:P1L10
+stir am:P1L5
+stomach die:P1L10
+stood 5:P1L6
+stranger dare:P1L1
+stretched am:P1L17
+strive your:P1L4
+strives am:P1L3
+strong was:P4L2
+strove will:P5L3
+succeed desire:P1L4
+suited die:P1L25
+superfluous know:P1L5
+suppose will:P5L2
+surplice command:P1L4
+surprised dare:P1L6
+suspected vi:P1L11
+t die:P1L2, know:P5L8
+table be:P4L1
+take know:P1L3
+takes charge:P1L15, have:P1L12
+talk had:P6L2, the:P3L1
+tax'd desire:P4L7
+team am:P1L1
+tears have:P1L8, think:P1L1, vi:P1L2
+tell vi:P1L5, am:P1L2, charge:P1L2, have:P1L3
+ten 5:P1L11, die:P1L14, know:P5L7
+th vi:P1L7
+than do:P1L3, am:P1L6, can:P4L7, desire:P4L5, die:P1L28, have:P1L15, may:P1L2, paris:P21L3, think:P1L2
+thank would:P1L6
+thanks paris:P21L7, wish:P1L9
+that be:P1L4, be:P4L2, were:P1L1
+that's think:P1L6
+thee will:P1L2, chapter:P1L1, desire:P4L2, paris:P21L4
+their can:P1L2, can:P4L1, be:P3L4, dare:P1L3, have:P1L5, hear:P1L9, vi:P1L9, will:P5L2, would:P1L3
+them can:P1L2, can:P4L3, 32:P1L1, chapter:P1L4, have:P1L3, hear:P1L1, was:P4L4, wish:P1L7
+then vi:P1L6, chapter:P1L2, 5:P1L8, was:P4L4
+there know:P1L27, know:P3L1, know:P5L4, am:P1L6, be:P3L2, die:P1L35, do:P1L2, have:P1L3, hear:P1L2
+there's die:P1L2, 5:P1L11
+therefore vi:P1L5
+these was:P1L1, can:P4L2, know:P1L2, think:P1L1
+thine will:P1L4, am:P3L1, charge:P1L1, desire:P4L4, hope:P1L3, vi:P1L7
+things hear:P1L8, will:P2L9
+think should:P1L1, think:P1L2, chapter:P1L1, know:P1L1, wish:P1L8
+thorn was:P1L1
+those think:P1L2, am:P1L1, will:P5L1
+thou will:P1L2, be:P3L8, desire:P1L4, have:P1L3, paris:P21L2, vi:P1L5
+though command:P1L3, know:P1L23, be:P1L3
+thought think:P1L3, was:P4L4, have:P1L14
+thousand die:P1L35
+thrust will:P1L3
+thus be:P1L1
+thy desire:P1L4, desire:P4L1, express:P1L1, had:P1L1, have:P1L3, may:P1L2, paris:P21L2, vi:P1L4, will:P1L6
+tie vi:P1L10
+till shall:P1L1, know:P5L4, can:P1L2
+time am:P1L11, can:P1L8, die:P1L23, had:P4L1
+times can:P4L2, know:P5L7, am:P1L3
+tis die:P1L2, 32:P1L4, am:P1L2, desire:P4L10, do:P1L1, have:P1L10, know:P5L8, paris:P6L6, paris:P8L2, vi:P1L2
+tis!--whose am:P1L16
+tithe-woman 5:P1L17
+title do:P1L2
+to-day can:P1L1
+together be:P3L6
+tomb can:P4L7
+tongue vi:P1L10, can:P1L9
+too have:P1L5, paris:P21L5, be:P4L1, know:P5L8
+tooth-pick die:P1L26
+top can:P1L11
+tottering chapter:P1L7
+touch dare:P1L8
+traitors have:P1L5
+traitress die:P1L39
+trick be:P4L2
+tried had:P1L2
+troy 5:P1L3
+true vi:P1L5, can:P1L7, the:P1L1
+truth vi:P1L11, was:P4L1
+tuscan paris:P10L5
+twas be:P1L3
+twere am:P1L1
+two dare:P1L3
+twould were:P1L2
+tyranny have:P1L12
+unclean have:P1L3
+under especially:P1L2, am:P1L10, chapter:P1L3, desire:P4L6
+undermine know:P1L28
+underminers know:P1L30
+understand will:P1L3, desire:P1L2
+unfold know:P1L24
+unknown 32:P1L4
+unnoted can:P1L2
+unseason'd desire:P4L10
+unsuitable die:P1L25
+unthankfulness will:P1L4
+us had:P4L3, wish:P1L6, paris:P8L4, am:P1L4, know:P1L24, was:P1L3, will:P2L4
+used can:P1L10
+uses will:P1L8
+valiant know:P1L23
+valour think:P1L9
+vassal chapter:P1L1
+vendible die:P1L23
+very die:P1L9, think:P1L8
+virgin die:P1L5, know:P5L4
+virginity know:P1L15, know:P3L4, know:P5L3, die:P1L3
+virgins know:P3L2, know:P5L6, dare:P1L5
+virtue think:P1L10, am:P1L4, desire:P4L1
+virtue's know:P1L3
+virtues have:P1L4
+virtuous have:P1L3
+vouch'd paris:P8L3
+waiting know:P1L5
+want desire:P4L13
+wanted am:P1L5
+war paris:P6L4
+warlike know:P1L25
+wars especially:P1L4
+way know:P1L1, speak:P1L1
+we chapter:P1L2, will:P2L3, chapter:P1L4, wish:P1L5, know:P1L4, was:P1L1, was:P4L4, desire:P1L2, paris:P8L2
+we'ld 5:P1L17
+weak know:P1L24
+wear die:P1L26, command:P1L4
+wears die:P1L24
+wed should:P1L1
+weigh will:P5L2
+welcome paris:P21L5, would:P1L3
+well am:P1L2, am:P2L2, can:P4L3, paris:P13L1, paris:P21L4, were:P1L3, wish:P1L4
+were your:P1L2, your:P4L1, can:P1L5, am:P1L2, be:P3L2, chapter:P1L3, dare:P1L5, desire:P6L2, know:P5L5, know't:P6L1, was:P4L4
+wet am:P1L1
+what's said:P1L1, paris:P15L2, wish:P1L2
+when will:P1L5, will:P2L5, will:P3L1, am:P1L5, can:P1L7, chapter:P1L3, especially:P1L7, had:P1L1, hear:P1L5, know:P1L3, think:P1L4
+where am:P1L5, dare:P1L4, have:P1L2, was:P4L2
+wherein paris:P8L5
+whereof charge:P1L15
+while die:P1L23
+who can:P1L9, will:P5L3, paris:P13L2, be:P4L4
+whom must:P1L1
+why am:P1L5, am:P3L2, 5:P1L3, especially:P1L2, have:P1L3, think:P1L2
+wickedness may:P1L2
+wife be:P1L1
+wife's hope:P1L1
+wilt will:P1L2, be:P3L8, have:P1L3
+wind know:P1L4
+wing think:P1L10
+wisdom paris:P8L9, know:P1L5
+wish chapter:P1L1
+wish'd hear:P1L10
+wished think:P1L1
+wishes wish:P1L6, desire:P5L2
+wishing wish:P1L4
+wit had:P8L2
+withal chapter:P1L1, know:P1L4
+withered die:P1L30
+within die:P1L14
+without dare:P1L6, do:P1L1
+woman 5:P1L15, may:P3L2, were:P1L1
+woman's command:P1L2
+words think:P1L2
+wore had:P4L4
+work am:P1L19, charge:P1L1
+world charge:P1L15, 5:P1L16, die:P1L42, have:P1L3, may:P1L1
+worn would:P1L1
+worse die:P1L16
+worship's am:P4L1
+worth die:P1L22
+worthiness am:P1L5
+would am:P1L5, 5:P1L16, be:P1L2, can:P4L3, can:P6L2, dare:P1L4, paris:P8L6, your:P1L2
+wound vi:P4L1, chapter:P1L2
+wrong desire:P4L4
+year die:P1L14, 5:P1L17
+yes your:P1L2
+you'll were:P1L6
+you're hope:P1L5
+you: be:P3L6, observe:P1L4, have:P1L3, chapter:P1L3
+young am:P1L15, can:P1L1, be:P3L3, paris:P19L2
+younger can:P4L2, hear:P1L7
+yours 32:P1L2
+yourself chapter:P1L6
+yourselves know:P3L6
+youth was:P1L2, was:P4L2, had:P8L1, paris:P21L2

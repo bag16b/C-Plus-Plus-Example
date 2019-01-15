@@ -1,0 +1,550 @@
+CHAPTER II
+CONDITIONS WHICH INTERFERE WITH REPAIR
+
+SURGICAL BACTERIOLOGY
+
+Want of rest--Irritation--Unhealthy tissues--Pathogenic bacteria.
+    SURGICAL BACTERIOLOGY--General characters of
+    bacteria--Classification of bacteria--Conditions of bacterial
+    life--Pathogenic powers of bacteria--Results of bacterial
+    growth--Death of bacteria--Immunity--Antitoxic sera--Identification
+    of bacteria--Pyogenic bacteria.
+
+In the management of wounds and other surgical conditions it is
+necessary to eliminate various extraneous influences which tend to delay
+or arrest the natural process of repair.
+
+Of these, one of the most important is undue movement of the affected
+part. "The first and great requisite for the restoration of injured
+parts is _rest_," said John Hunter; and physiological and mechanical
+rest as the chief of natural therapeutic agents was the theme of John
+Hilton's classical work--_Rest and Pain_. In this connection it must be
+understood that "rest" implies more than the mere state of physical
+repose: all physiological as well as mechanical function must be
+prevented as far as is possible. For instance, the constituent bones of
+a joint affected with tuberculosis must be controlled by splints or
+other appliances so that no movement can take place between them, and
+the limb may not be used for any purpose; physiological rest may be
+secured to an inflamed colon by making an artificial anus in the caecum;
+the activity of a diseased kidney may be diminished by regulating the
+quantity and quality of the fluids taken by the patient.
+
+Another source of interference with repair in wounds is _irritation_,
+either by mechanical agents such as rough, unsuitable dressings,
+bandages, or ill-fitting splints; or by chemical agents in the form of
+strong lotions or other applications.
+
+An _unhealthy or devitalised condition of the patient's tissues_ also
+hinders the reparative process. Bruised or lacerated skin heals less
+kindly than skin cut with a smooth, sharp instrument; and persistent
+
+venous congestion of a part, such as occurs, for example, in the leg
+when the veins are varicose, by preventing the access of healthy blood,
+tends to delay the healing of open wounds. The existence of grave
+constitutional disease, such as Bright's disease, diabetes, syphilis,
+scurvy, or alcoholism, also impedes healing.
+
+Infection by disease-producing micro-organisms or _pathogenic bacteria_
+is, however, the most potent factor in disturbing the natural process of
+repair in wounds.
+
+SURGICAL BACTERIOLOGY
+
+The influence of micro-organisms in the causation of disease, and the
+role played by them in interfering with the natural process of repair,
+are so important that the science of applied bacteriology has now come
+to dominate every department of surgery, and it is from the standpoint
+of bacteriology that nearly all surgical questions have to be
+considered.
+
+The term _sepsis_ as now used in clinical surgery no longer retains its
+original meaning as synonymous with "putrefaction," but is employed to
+denote all conditions in which bacterial infection has taken place, and
+more particularly those in which pyogenic bacteria are present. In the
+same way the term _aseptic_ conveys the idea of freedom from all forms
+of bacteria, putrefactive or otherwise; and the term _antiseptic_ is
+used to denote a power of counteracting bacteria and their products.
+
+#General Characters of Bacteria.#--A _bacterium_ consists of a finely
+granular mass of protoplasm, enclosed in a thin gelatinous envelope.
+Many forms are motile--some in virtue of fine thread-like flagella, and
+others through contractility of the protoplasm. The great majority
+multiply by simple fission, each parent cell giving rise to two daughter
+cells, and this process goes on with extraordinary rapidity. Other
+varieties, particularly bacilli, are propagated by the formation of
+_spores_. A spore is a minute mass of protoplasm surrounded by a dense,
+tough membrane, developed in the interior of the parent cell. Spores are
+remarkable for their tenacity of life, and for the resistance they offer
+to the action of heat and chemical germicides.
+
+Bacteria are most conveniently classified according to their shape. Thus
+we recognise (1) those that are globular--_cocci_; (2) those that
+resemble a rod--_bacilli_; (3) the spiral or wavy forms--_spirilla_.
+
+_Cocci_ or _micrococci_ are minute round bodies, averaging about 1 u in
+diameter. The great majority are non-motile. They multiply by fission;
+and when they divide in such a way that the resulting cells remain in
+pairs, are called _diplococci_, of which the bacteria of gonorrhoea and
+pneumonia are examples (Fig. 5). When they divide irregularly, and form
+grape-like bunches, they are known as _staphylococci_, and to this
+
+variety the commonest pyogenic or pus-forming organisms belong (Fig. 2).
+When division takes place only in one axis, so that long chains are
+formed, the term _streptococcus_ is applied (Fig. 3). Streptococci are
+met with in erysipelas and various other inflammatory and suppurative
+processes of a spreading character.
+
+_Bacilli_ are rod-shaped bacteria, usually at least twice as long as
+they are broad (Fig. 4). Some multiply by fission, others by
+sporulation. Some forms are motile, others are non-motile. Tuberculosis,
+tetanus, anthrax, and many other surgical diseases are due to different
+forms of bacilli.
+
+_Spirilla_ are long, slender, thread-like cells, more or less spiral or
+wavy. Some move by a screw-like contraction of the protoplasm, some by
+flagellae. The spirochaete associated with syphilis (Fig. 36) is the most
+important member of this group.
+
+#Conditions of Bacterial Life.#--Bacteria require for their growth and
+development a suitable food-supply in the form of proteins,
+carbohydrates, and salts of calcium and potassium which they break up
+into simpler elements. An alkaline medium favours bacterial growth; and
+moisture is a necessary condition; spores, however, can survive the want
+of water for much longer periods than fully developed bacteria. The
+necessity for oxygen varies in different species. Those that require
+oxygen are known as _aerobic bacilli_ or _aerobes_; those that cannot
+live in the presence of oxygen are spoken of as _anaerobes_. The great
+majority of bacteria, however, while they prefer to have oxygen, are
+able to live without it, and are called _facultative anaerobes_.
+
+The most suitable temperature for bacterial life is from 95 o to 102 o F.,
+roughly that of the human body. Extreme or prolonged cold paralyses but
+does not kill micro-organisms. Few, however, survive being raised to a
+temperature of 134 1/2 o F. Boiling for ten to twenty minutes will kill all
+bacteria, and the great majority of spores. Steam applied in an
+autoclave under a pressure of two atmospheres destroys even the most
+resistant spores in a few minutes. Direct sunlight, electric light, or
+even diffuse daylight, is inimical to the growth of bacteria, as are
+also Rontgen rays and radium emanations.
+
+#Pathogenic Properties of Bacteria.#--We are now only concerned with
+pathogenic bacteria--that is, bacteria capable of producing disease in
+the human subject. This capacity depends upon two sets of factors--(1)
+certain features peculiar to the invading bacteria, and (2) others
+peculiar to the host. Many bacteria have only the power of living upon
+dead matter, and are known as _saphrophytes_. Such as do nourish in
+living tissue are, by distinction, known as _parasites_. The power a
+given parasitic micro-organism has of multiplying in the body and giving
+rise to disease is spoken of as its _virulence_, and this varies not
+only with different species, but in the same species at different times
+and under varying circumstances. The actual number of organisms
+introduced is also an important factor in determining their pathogenic
+power. Healthy tissues can resist the invasion of a certain number of
+bacteria of a given species, but when that number is exceeded, the
+organisms get the upper hand and disease results. When the organisms
+gain access directly to the blood-stream, as a rule they produce their
+effects more certainly and with greater intensity than when they are
+introduced into the tissues.
+
+Further, the virulence of an organism is modified by the condition of
+the patient into whose tissues it is introduced. So long as a person is
+in good health, the tissues are able to resist the attacks of moderate
+numbers of most bacteria. Any lowering of the vitality of the
+individual, however, either locally or generally, at once renders him
+more susceptible to infection. Thus bruised or torn tissue is much more
+liable to infection with pus-producing organisms than tissues clean-cut
+with a knife; also, after certain diseases, the liability to infection
+by the organisms of diphtheria, pneumonia, or erysipelas is much
+increased. Even such slight depression of vitality as results from
+bodily fatigue, or exposure to cold and damp, may be sufficient to turn
+the scale in the battle between the tissues and the bacteria. Age is an
+important factor in regard to the action of certain bacteria. Young
+subjects are attacked by diphtheria, tuberculosis, acute osteomyelitis,
+and some other diseases with greater frequency and severity than those
+of more advanced years.
+
+In different races, localities, environment, and seasons, the pathogenic
+powers of certain organisms, such as those of erysipelas, diphtheria,
+and acute osteomyelitis, vary considerably.
+
+There is evidence that a _mixed infection_--that is, the introduction of
+more than one species of organism, for example, the tubercle bacillus
+and a pyogenic staphylococcus--increases the severity of the resulting
+disease. If one of the varieties gain the ascendancy, the poisons
+produced by the others so devitalise the tissue cells, and diminish
+their power of resistance, that the virulence of the most active
+organisms is increased. On the other hand, there is reason to believe
+that the products of certain organisms antagonise one another--for
+example, an attack of erysipelas may effect the cure of a patch of
+tuberculous lupus.
+
+Lastly, in patients suffering from chronic wasting diseases, bacteria
+may invade the internal organs by the blood-stream in enormous numbers
+and with great rapidity, during the period of extreme debility which
+shortly precedes death. The discovery of such collections of organisms
+on post-mortem examination may lead to erroneous conclusions being drawn
+as to the cause of death.
+
+#Results of Bacterial Growth.#--Some organisms, such as those of tetanus
+and erysipelas, and certain of the pyogenic bacteria, show little
+tendency to pass far beyond the point at which they gain an entrance to
+the body. Others, on the contrary--for example, the tubercle bacillus
+and the organism of acute osteomyelitis--although frequently remaining
+localised at the seat of inoculation, tend to pass to distant parts,
+lodging in the capillaries of joints, bones, kidney, or lungs, and there
+producing their deleterious effects.
+
+In the human subject, multiplication in the blood-stream does not occur
+to any great extent. In some general acute pyogenic infections, such as
+osteomyelitis, cellulitis, etc., pure cultures of staphylococci or of
+streptococci may be obtained from the blood. In pneumococcal and typhoid
+infections, also, the organisms may be found in the blood.
+
+It is by the vital changes they bring about in the parts where they
+settle that micro-organisms disturb the health of the patient. In
+deriving nourishment from the complex organic compounds in which they
+nourish, the organisms evolve, probably by means of a ferment, certain
+chemical products of unknown composition, but probably colloidal in
+nature, and known as _toxins_. When these poisons are absorbed into the
+general circulation they give rise to certain groups of symptoms--such
+as rise of temperature, associated circulatory and respiratory
+derangements, interference with the gastro-intestinal functions and also
+with those of the nervous system--which go to make up the condition
+known as blood-poisoning, toxaemia, or _bacterial intoxication_. In
+addition to this, certain bacteria produce toxins that give rise to
+definite and distinct groups of symptoms--such as the convulsions of
+tetanus, or the paralyses that follow diphtheria.
+
+_Death of Bacteria._--Under certain circumstances, it would appear that
+the accumulation of the toxic products of bacterial action tends to
+interfere with the continued life and growth of the organisms
+themselves, and in this way the natural cure of certain diseases is
+brought about. Outside the body, bacteria may be killed by starvation,
+by want of moisture, by being subjected to high temperature, or by the
+action of certain chemical agents of which carbolic acid, the
+perchloride and biniodide of mercury, and various chlorine preparations
+are the most powerful.
+
+#Immunity.#--Some persons are insusceptible to infection by certain
+diseases, from which they are said to enjoy a _natural immunity_. In
+many acute diseases one attack protects the patient, for a time at
+least, from a second attack--_acquired immunity_.
+
+_Phagocytosis._--In the production of immunity the leucocytes and
+certain other cells play an important part in virtue of the power they
+possess of ingesting bacteria and of destroying them by a process of
+intra-cellular digestion. To this process Metchnikoff gave the name of
+_phagocytosis_, and he recognised two forms of _phagocytes_: (1) the
+_microphages_, which are the polymorpho-nuclear leucocytes of the blood;
+and (2) the _macrophages_, which include the larger hyaline leucocytes,
+endothelial cells, and connective-tissue corpuscles.
+
+During the process of phagocytosis, the polymorpho-nuclear leucocytes in
+the circulating blood increase greatly in numbers (_leucocytosis_), as
+well as in their phagocytic action, and in the course of destroying the
+bacteria they produce certain ferments which enter the blood serum.
+These are known as _opsonins_ or _alexins_, and they act on the bacteria
+by a process comparable to narcotisation, and render them an easy prey
+for the phagocytes.
+
+_Artificial or Passive Immunity._--A form of immunity can be induced by
+the introduction of protective substances obtained from an animal which
+has been actively immunised. The process by which passive immunity is
+acquired depends upon the fact that as a result of the reaction between
+the specific virus of a particular disease (the _antigen_) and the
+tissues of the animal attacked, certain substances--_antibodies_--are
+produced, which when transferred to the body of a susceptible animal
+protect it against that disease. The most important of these antibodies
+are the _antitoxins_. From the study of the processes by which immunity
+is secured against the effects of bacterial action the serum and vaccine
+methods of treating certain infective diseases have been evolved. The
+_serum treatment_ is designed to furnish the patient with a sufficiency
+of antibodies to neutralise the infection. The anti-diphtheritic and the
+anti-tetanic act by neutralising the specific toxins of the
+disease--_antitoxic serums_; the anti-streptcoccic and the serum for
+anthrax act upon the bacteria--_anti-bacterial serums_.
+
+A _polyvalent_ serum, that is, one derived from an animal which has been
+immunised by numerous strains of the organism derived from various
+sources, is much more efficacious than when a single strain has been
+used.
+
+_Clinical Use of Serums._--Every precaution must be taken to prevent
+organismal contamination of the serum or of the apparatus by means of
+which it is injected. Syringes are so made that they can be sterilised
+by boiling. The best situations for injection are under the skin of the
+abdomen, the thorax, or the buttock, and the skin should be purified at
+the seat of puncture. If the bulk of the full dose is large, it should
+be divided and injected into different parts of the body, not more than
+20 c.c. being injected at one place. The serum may be introduced
+directly into a vein, or into the spinal canal, _e.g._ anti-tetanic
+serum. The immunity produced by injections of antitoxic sera lasts only
+for a comparatively short time, seldom longer than a few weeks.
+
+_"Serum Disease" and Anaphylaxis._--It is to be borne in mind that some
+patients exhibit a supersensitiveness with regard to protective sera, an
+injection being followed in a few days by the appearance of an
+urticarial or erythematous rash, pain and swelling of the joints, and a
+variable degree of fever. These symptoms, to which the name _serum
+disease_ is applied, usually disappear in the course of a few days.
+
+The term _anaphylaxis_ is applied to an allied condition of
+supersensitiveness which appears to be induced by the injection of
+certain substances, including toxins and sera, that are capable of
+acting as antigens. When a second injection is given after an interval
+of some days, if anaphylaxis has been established by the first dose, the
+patient suddenly manifests toxic symptoms of the nature of profound
+shock which may even prove fatal. The conditions which render a person
+liable to develop anaphylaxis and the mechanism by which it is
+established are as yet imperfectly understood.
+
+_Vaccine Treatment._--The vaccine treatment elaborated by A. E. Wright
+consists in injecting, while the disease is still active, specially
+prepared dead cultures of the causative organisms, and is based on the
+fact that these "vaccines" render the bacteria in the tissues less able
+to resist the attacks of the phagocytes. The method is most successful
+when the vaccine is prepared from organisms isolated from the patient
+himself, _autogenous vaccine_, but when this is impracticable, or takes
+a considerable time, laboratory-prepared polyvalent _stock vaccines_ may
+be used.
+
+_Clinical Use of Vaccines._--Vaccines should not be given while a
+patient is in a negative phase, as a certain amount of the opsonin in
+the blood is used up in neutralising the substances injected, and this
+may reduce the opsonic index to such an extent that the vaccines
+themselves become dangerous. As a rule, the propriety of using a vaccine
+can be determined from the general condition of the patient. The initial
+dose should always be a small one, particularly if the disease is acute,
+and the subsequent dosage will be regulated by the effect produced. If
+marked constitutional disturbance with rise of temperature follows the
+use of a vaccine, it indicates a negative phase, and calls for a
+diminution in the next dose. If, on the other hand, the local as well as
+the general condition of the patient improves after the injection, it
+indicates a positive phase, and the original dose may be repeated or
+even increased. Vaccines are best introduced subcutaneously, a part
+being selected which is not liable to pressure, as there is sometimes
+considerable local reaction. Repeated doses may be necessary at
+intervals of a few days.
+
+The vaccine treatment has been successfully employed in various
+tuberculous lesions, in pyogenic infections such as acne, boils,
+sycosis, streptococcal, pneumococcal, and gonococcal conditions, in
+infections of the accessory air sinuses, and in other diseases caused by
+bacteria.
+
+PYOGENIC BACTERIA
+
+From the point of view of the surgeon the most important varieties of
+micro-organisms are those that cause inflammation and suppuration--the
+_pyogenic bacteria_. This group includes a great many species, and these
+are so widely distributed that they are to be met with under all
+conditions of everyday life.
+
+The nature of the inflammatory and suppurative processes will be
+considered in detail later; suffice it here to say that they are brought
+about by the action of one or other of the organisms that we have now to
+consider.
+
+It is found that the _staphylococci_, which cluster into groups, tend to
+produce localised lesions; while the chain-forms--_streptococci_--give
+rise to diffuse, spreading conditions. Many varieties of pyogenic
+bacteria have now been differentiated, the best known being the
+staphylococcus aureus, the streptococcus, and the bacillus coli
+communis.
+
+[Illustration: FIG. 2.--Staphylococcus aureus in Pus from case of
+Osteomyelitis. x 1000 diam. Gram's stain.]
+
+_Staphylococcus Aureus._--This is the commonest organism found in
+localised inflammatory and suppurative conditions. It varies greatly in
+its virulence, and is found in such widely different conditions as skin
+pustules, boils, carbuncles, and some acute inflammations of bone. As
+seen by the microscope it occurs in grape-like clusters, fission of the
+individual cells taking place irregularly (Fig. 2). When grown in
+artificial media, the colonies assume an orange-yellow colour--hence the
+name _aureus_. It is of high vitality and resists more prolonged
+exposure to high temperatures than most non-sporing bacteria. It is
+capable of lying latent in the tissues for long periods, for example, in
+the marrow of long bones, and of again becoming active and causing a
+fresh outbreak of suppuration. This organism is widely distributed: it
+is found on the skin, in the mouth, and in other situations in the body,
+and as it is present in the dust of the air and on all objects upon
+which dust has settled, it is a continual source of infection unless
+means are taken to exclude it from wounds.
+
+The _staphylococcus albus_ is much less common than the aureus, but has
+the same properties and characters, save that its growth on artificial
+media assumes a white colour. It is the common cause of stitch
+abscesses, the skin being its normal habitat.
+
+[Illustration: FIG. 3.--Streptococci in Pus from an acute abscess in
+subcutaneous tissue. x 1000 diam. Gram's stain.]
+
+_Streptococcus Pyogenes._--This organism also varies greatly in its
+virulence; in some instances--for example in erysipelas--it causes a
+sharp attack of acute spreading inflammation, which soon subsides
+without showing any tendency to end in suppuration; under other
+conditions it gives rise to a generalised infection which rapidly proves
+fatal. The streptococcus has less capacity of liquefying the tissues
+than the staphylococcus, so that pus formation takes place more slowly.
+At the same time its products are very potent in destroying the tissues
+in their vicinity, and so interfering with the exudation of leucocytes
+which would otherwise exercise their protective influence. Streptococci
+invade the lymph spaces, and are associated with acute spreading
+conditions such as phlegmonous or erysipelatous inflammations and
+suppurations, lymphangitis and suppuration in lymph glands, and
+inflammation of serous and synovial membranes, also with a form of
+pneumonia which is prone to follow on severe operations in the mouth and
+throat. Streptococci are also concerned in the production of spreading
+gangrene and pyaemia.
+
+Division takes place in one axis, so that chains of varying length are
+formed (Fig. 3). It is less easily cultivated by artificial media than
+the staphylococcus; it forms a whitish growth.
+
+[Illustration: FIG. 4.--Bacillus coli communis in Urine, from a case of
+Cystitis. x 1000 diam. Leishman's stain.]
+
+_Bacillus Coli Communis._--This organism, which is a normal inhabitant
+of the intestinal tract, shows a great tendency to invade any organ or
+tissue whose vitality is lowered. It is causatively associated with such
+conditions as peritonitis and peritoneal suppuration resulting from
+strangulated hernia, appendicitis, or perforation in any part of the
+alimentary canal. In cystitis, pyelitis, abscess of the kidney,
+suppuration in the bile-ducts or liver, and in many other abdominal
+conditions, it plays a most important part. The discharge from wounds
+infected by this organism has usually a foetid, or even a faecal odour,
+and often contains gases resulting from putrefaction.
+
+It is a small rod-shaped organism with short flagellae, which render it
+motile (Fig. 4). It closely resembles the typhoid bacillus, but is
+distinguished from it by its behaviour in artificial culture media.
+
+[Illustration: FIG. 5.--Fraenkel's Pneumococci in Pus from Empyema
+following Pneumonia. x 100 diam. Stained with Muir's capsule stain.]
+
+_Pneumo-bacteria._--Two forms of organism associated with
+pneumonia--_Fraenkel's pneumococcus_ (one of the diplococci) (Fig. 5)
+and _Friedlander's pneumo-bacillus_ (a short rod-shaped form)--are
+frequently met with in inflammations of the serous and synovial
+membranes, in suppuration in the liver, and in various other
+inflammatory and suppurative conditions.
+
+_Bacillus Typhosus._--This organism has been found in pure culture in
+suppurative conditions of bone, of cellular tissue, and of internal
+organs, especially during convalescence from typhoid fever. Like the
+staphylococcus, it is capable of lying latent in the tissues for long
+periods.
+
+_Other Pyogenic Bacteria._--It is not necessary to do more than name
+some of the other organisms that are known to be pyogenic, such as the
+bacillus pyocyaneus, which is found in green and blue pus, the
+micrococcus tetragenus, the gonococcus, actinomyces, the glanders
+bacillus, and the tubercle bacillus. Most of these will receive further
+mention in connection with the diseases to which they give rise.
+
+#Leucocytosis.#--Most bacterial diseases, as well as certain other
+pathological conditions, are associated with an increase in the number
+of leucocytes in the blood throughout the circulatory system. This
+condition of the blood, which is known as _leucocytosis_, is believed to
+be due to an excessive output and rapid formation of leucocytes by the
+bone marrow, and it probably has as its object the arrest and
+destruction of the invading organisms or toxins. To increase the
+resisting power of the system to pathogenic organisms, an artificial
+leucocytosis may be induced by subcutaneous injection of a solution of
+nucleinate of soda (16 minims of a 5 per cent. solution).
+
+The _normal_ number of leucocytes per cubic millimetre varies in
+different individuals, and in the same individual under different
+conditions, from 5000 to 10,000: 7500 is a normal average, and anything
+above 12,000 is considered abnormal. When leucocytosis is present, the
+number may range from 12,000 to 30,000 or even higher; 40,000 is looked
+upon as a high degree of leucocytosis. According to Ehrlich, the
+following may be taken as the standard proportion of the various forms
+of leucocytes in normal blood: polynuclear neutrophile leucocytes, 70 to
+72 per cent.; lymphocytes, 22 to 25 per cent.; eosinophile cells, 2 to 4
+per cent.; large mononuclear and transitional leucocytes, 2 to 4 per
+cent.; mast-cells, 0.5 to 2 per cent.
+
+In estimating the clinical importance of a leucocytosis, it is not
+sufficient merely to count the aggregate number of leucocytes present. A
+differential count must be made to determine which variety of cells is
+in excess. In the majority of surgical affections it is chiefly the
+granular polymorpho-nuclear neutrophile leucocytes that are in excess
+(_ordinary leucocytosis_). In some cases, and particularly in parasitic
+diseases such as trichiniasis and hydatid disease, the eosinophile
+leucocytes also show a proportionate increase (_eosinophilia_). The term
+_lymphocytosis_ is applied when there is an increase in the number of
+circulating lymphocytes, as occurs, for example, in lymphatic leucaemia,
+and in certain cases of syphilis.
+
+Leucocytosis is met with in nearly all acute infective diseases, and in
+acute pyogenic inflammatory affections, particularly in those attended
+with suppuration. In exceptionally acute septic conditions the extreme
+virulence of the toxins may prevent the leucocytes reacting, and
+leucocytosis may be absent. The absence of leucocytosis in a disease in
+which it is usually present is therefore to be looked upon as a grave
+omen, particularly when the general symptoms are severe. In some cases
+of malignant disease the number of leucocytes is increased to 15,000 or
+20,000. A few hours after a severe haemorrhage also there is usually a
+leucocytosis of from 15,000 to 30,000, which lasts for three or four
+days (Lyon). In cases of haemorrhage the leucocytosis is increased by
+infusion of fluids into the circulation. After all operations there is
+at least a transient leucocytosis (_post-operative leucocytosis_)
+(F. I. Dawson).
+
+The leucocytosis begins soon after the infection manifests itself--for
+example, by shivering, rigor, or rise of temperature. The number of
+leucocytes rises somewhat rapidly, increases while the condition is
+progressing, and remains high during the febrile period, but there is no
+constant correspondence between the number of leucocytes and the height
+of the temperature. The arrest of the inflammation and its resolution
+are accompanied by a fall in the number of leucocytes, while the
+occurrence of suppuration is attended with a further increase in their
+number.
+
+In interpreting the "blood count," it is to be kept in mind that a
+_physiological leucocytosis_ occurs within three or four hours of taking
+a meal, especially one rich in proteins, from 1500 to 2000 being added
+to the normal number. In this _digestion leucocytosis_ the increase is
+chiefly in the polynuclear neutrophile leucocytes. Immediately before
+and after delivery, particularly in primiparae, there is usually a
+moderate degree of leucocytosis. If the labour is normal and the
+puerperium uncomplicated, the number of leucocytes regains the normal in
+about a week. Lactation has no appreciable effect on the number of
+leucocytes. In new-born infants the leucocyte count is abnormally high,
+ranging from 15,000 to 20,000. In children under one year of age, the
+normal average is from 10,000 to 20,000.
+
+_Absence of Leucocytosis--Leucopenia._--In certain infective diseases
+the number of leucocytes in the circulating blood is abnormally
+low--3000 or 4000--and this condition is known as _leucopenia_. It
+occurs in typhoid fever, especially in the later stages of the disease,
+in tuberculous lesions unaccompanied by suppuration, in malaria, and in
+most cases of uncomplicated influenza. The occurrence of leucocytosis in
+any of these conditions is to be looked upon as an indication that a
+mixed infection has taken place, and that some suppurative process is
+present.
+
+The absence of leucocytosis in some cases of virulent septic poisoning
+has already been referred to.
+
+It will be evident that too much reliance must not be placed upon a
+single observation, particularly in emergency cases. Whenever possible,
+a series of observations should be made, the blood being examined about
+four hours after meals, and about the same hour each day.
+
+The clinical significance of the blood count in individual diseases will
+be further referred to.
+
+_The Iodine or Glycogen Reaction._--The leucocyte count may be
+supplemented by staining films of the blood with a watery solution of
+iodine and potassium iodide. In all advancing purulent conditions, in
+septic poisonings, in pneumonia, and in cancerous growths associated
+with ulceration, a certain number of the polynuclear leucocytes are
+stained a brown or reddish-brown colour, due to the action of the iodine
+on some substance in the cells of the nature of glycogen. This reaction
+is absent in serous effusions, in unmixed tuberculous infections, in
+uncomplicated typhoid fever, and in the early stages of cancerous
+growths.
+

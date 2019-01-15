@@ -1,0 +1,1311 @@
+#conditions ii:P19L1
+#general ii:P13L1
+#immunity.#--some ii:P30L1
+#leucocytosis.#--most ii:P58L1
+#pathogenic ii:P21L1
+#results ii:P26L1
+0.5 ii:P59L11
+1/2 ii:P20L4
+10,000 ii:P59L3, ii:P63L12
+100 ii:P54L2
+1000 ii:P45L2, ii:P48L2, ii:P51L2
+102 ii:P20L1
+12,000 ii:P59L4
+134 ii:P20L4
+15,000 ii:P61L8, ii:P63L11
+1500 ii:P63L3
+16 ii:P58L10
+2.--staphylococcus ii:P45L1
+20 ii:P35L8
+20,000 ii:P61L9, ii:P63L11
+2000 ii:P63L3
+22 ii:P59L9
+25 ii:P59L9
+3 ii:P14L3, ii:P16L3, ii:P50L2
+3.--streptococci ii:P48L1
+30,000 ii:P59L5, ii:P61L10
+36 ii:P18L3
+4 ii:P17L2, ii:P53L2, ii:P59L9
+4.--bacillus ii:P51L1
+40,000 ii:P59L5
+4000--and ii:P64L3
+5 ii:P15L5, ii:P55L2, ii:P58L10
+5.--fraenkel's ii:P54L1
+5000 ii:P59L3
+70 ii:P59L8
+72 ii:P59L9
+7500 ii:P59L3
+95 ii:P20L1
+[illustration ii:P45L1, ii:P48L1, ii:P51L1, ii:P54L1
+a ii:P5L9, ii:P7L3, ii:P8L1, ii:P12L7, ii:P13L1, ii:P14L3, ii:P15L3, ii:P16L5, ii:P18L2, ii:P19L2, ii:P20L3, ii:P21L7, ii:P22L2, ii:P24L1, ii:P28L4, ii:P30L2, ii:P31L3, ii:P32L6, ii:P33L4, ii:P34L1, ii:P35L9, ii:P36L2, ii:P37L4, ii:P38L1, ii:P39L1, ii:P42L3, ii:P46L11, ii:P47L3, ii:P49L2, ii:P50L3, ii:P51L1, ii:P52L1, ii:P53L1, ii:P55L3, ii:P58L9, ii:P59L3, ii:P60L1, ii:P61L5, ii:P62L7, ii:P63L1, ii:P64L7, ii:P66L1, ii:P68L2
+abdomen ii:P35L5
+abdominal ii:P52L7
+able ii:P19L11, ii:P22L3, ii:P38L4
+abnormal ii:P59L4
+abnormally ii:P63L10, ii:P64L2
+about ii:P15L1, ii:P28L1, ii:P29L5, ii:P43L3, ii:P63L9, ii:P66L3
+above ii:P59L4
+abscess ii:P48L1, ii:P52L6
+abscesses ii:P47L4
+absence ii:P61L5, ii:P64L1, ii:P65L1
+absent ii:P61L5, ii:P68L8
+absorbed ii:P28L6
+accessory ii:P40L4
+accompanied ii:P62L7
+according ii:P14L1, ii:P59L6
+accumulation ii:P29L2
+acid ii:P29L7
+acne ii:P40L2
+acquired ii:P33L4
+act ii:P32L5, ii:P33L14
+acting ii:P37L4
+actinomyces ii:P57L4
+action ii:P13L11, ii:P22L13, ii:P29L2, ii:P32L3, ii:P33L10, ii:P43L3, ii:P68L6
+active ii:P24L6, ii:P38L2, ii:P46L11
+actively ii:P33L3
+activity ii:P5L13
+actual ii:P21L11
+acute ii:P22L14, ii:P23L3, ii:P26L5, ii:P27L2, ii:P30L3, ii:P39L7, ii:P46L4, ii:P48L1, ii:P49L3, ii:P61L1
+added ii:P63L3
+addition ii:P28L12
+advanced ii:P22L16
+advancing ii:P68L3
+aerobes ii:P19L8
+aerobic ii:P19L8
+affected ii:P5L1
+affections ii:P60L4, ii:P61L2
+after ii:P22L8, ii:P37L4, ii:P39L12, ii:P61L9, ii:P62L1, ii:P63L6, ii:P66L4
+again ii:P46L11
+against ii:P33L8
+age ii:P22L12, ii:P63L11
+agents ii:P5L4, ii:P6L2, ii:P29L7
+aggregate ii:P60L2
+air ii:P40L4, ii:P46L14
+albus ii:P47L1
+alcoholism ii:P8L5
+alexins ii:P32L5
+alimentary ii:P52L6
+alkaline ii:P19L4
+all ii:P5L7, ii:P11L5, ii:P12L3, ii:P20L4, ii:P42L4, ii:P46L14, ii:P61L1, ii:P68L3
+allied ii:P37L1
+already ii:P65L2
+also ii:P7L1, ii:P8L5, ii:P20L9, ii:P21L12, ii:P22L8, ii:P27L5, ii:P28L9, ii:P49L1, ii:P60L8, ii:P61L9
+always ii:P39L7
+amount ii:P39L2
+an ii:P5L12, ii:P7L1, ii:P19L4, ii:P20L5, ii:P21L12, ii:P22L1, ii:P24L9, ii:P26L3, ii:P31L2, ii:P32L6, ii:P33L2, ii:P34L1, ii:P36L2, ii:P37L1, ii:P39L4, ii:P46L7, ii:P48L1, ii:P58L2, ii:P60L9, ii:P64L7
+anaerobes ii:P19L9
+anaphylaxis ii:P37L1
+anaphylaxis._--it ii:P36L1
+and ii:P4L1, ii:P5L2, ii:P7L3, ii:P11L1, ii:P12L3, ii:P13L3, ii:P15L3, ii:P16L4, ii:P17L4, ii:P19L1, ii:P20L5, ii:P21L4, ii:P22L11, ii:P23L1, ii:P24L3, ii:P25L3, ii:P26L2, ii:P27L4, ii:P28L6, ii:P29L3, ii:P31L1, ii:P32L3, ii:P33L5, ii:P35L5, ii:P36L1, ii:P37L3, ii:P38L3, ii:P39L3, ii:P40L3, ii:P42L2, ii:P43L1, ii:P44L5, ii:P46L2, ii:P47L2, ii:P49L9, ii:P52L4, ii:P55L3, ii:P56L2, ii:P57L3, ii:P58L5, ii:P59L2, ii:P60L6, ii:P61L1, ii:P62L4, ii:P63L6, ii:P64L5, ii:P66L4, ii:P68L3
+animal ii:P33L2, ii:P34L1
+another ii:P6L1
+another--for ii:P24L8
+anthrax ii:P17L4, ii:P33L16
+anti-diphtheritic ii:P33L13
+anti-streptcoccic ii:P33L15
+anti-tetanic ii:P33L14, ii:P35L9
+antibodies ii:P33L8
+antigen ii:P33L5
+antigens ii:P37L4
+antiseptic ii:P12L6
+antitoxic ii:P35L10
+antitoxins ii:P33L9
+anus ii:P5L12
+anything ii:P59L3
+apparatus ii:P35L2
+appear ii:P29L1
+appearance ii:P36L3
+appears ii:P37L2
+appendicitis ii:P52L5
+appliances ii:P5L10
+applications ii:P6L4
+applied ii:P11L3, ii:P16L3, ii:P20L5, ii:P36L6, ii:P37L1, ii:P60L9
+appreciable ii:P63L9
+are ii:P8L2, ii:P11L3, ii:P12L4, ii:P13L3, ii:P14L1, ii:P15L1, ii:P16L2, ii:P17L1, ii:P18L1, ii:P19L8, ii:P20L8, ii:P21L1, ii:P22L3, ii:P28L6, ii:P29L9, ii:P30L1, ii:P31L6, ii:P32L5, ii:P33L9, ii:P35L3, ii:P37L3, ii:P39L14, ii:P42L2, ii:P43L2, ii:P46L16, ii:P49L8, ii:P50L1, ii:P57L2, ii:P58L2, ii:P60L5, ii:P61L7, ii:P62L7, ii:P68L5
+arrest ii:P4L3, ii:P58L6, ii:P62L6
+artificial ii:P5L12, ii:P33L1, ii:P46L7, ii:P47L2, ii:P50L2, ii:P53L3, ii:P58L8
+as ii:P5L4, ii:P6L2, ii:P8L1, ii:P12L1, ii:P15L6, ii:P17L1, ii:P19L8, ii:P20L8, ii:P21L6, ii:P22L2, ii:P23L2, ii:P25L6, ii:P26L1, ii:P27L2, ii:P28L6, ii:P32L2, ii:P33L4, ii:P37L4, ii:P39L2, ii:P40L2, ii:P46L3, ii:P49L12, ii:P52L4, ii:P57L2, ii:P58L1, ii:P59L6, ii:P60L7, ii:P61L6, ii:P64L3
+ascendancy ii:P24L4
+aseptic ii:P12L5
+associated ii:P18L3, ii:P28L8, ii:P49L11, ii:P52L3, ii:P55L1, ii:P58L2, ii:P68L4
+assume ii:P46L7
+assumes ii:P47L3
+at ii:P17L1, ii:P21L10, ii:P22L5, ii:P26L3, ii:P30L3, ii:P35L5, ii:P39L16, ii:P49L8, ii:P61L13
+atmospheres ii:P20L6
+attack ii:P24L9, ii:P30L3, ii:P49L3
+attack--_acquired ii:P30L4
+attacked ii:P22L14, ii:P33L6
+attacks ii:P22L3, ii:P38L5
+attended ii:P61L2, ii:P62L8
+aureus ii:P44L5, ii:P45L1, ii:P46L8, ii:P47L1
+aureus._--this ii:P46L1
+autoclave ii:P20L6
+autogenous ii:P38L7
+average ii:P59L3, ii:P63L12
+averaging ii:P15L1
+axis ii:P16L2, ii:P50L1
+bacilli ii:P13L7, ii:P17L1, ii:P19L8
+bacillus ii:P24L2, ii:P26L4, ii:P44L5, ii:P52L1, ii:P53L2, ii:P56L1, ii:P57L3
+bacteria--_anti-bacterial ii:P33L16
+bacteria--classification ii:P3L3
+bacteria--conditions ii:P3L3
+bacteria--immunity--antitoxic ii:P3L5
+bacteria--pyogenic ii:P3L6
+bacteria--results ii:P3L4
+bacteria--that ii:P21L2
+bacteria.#--a ii:P13L1
+bacteria.#--we ii:P21L1
+bacteria._--it ii:P57L1
+bacteria._--under ii:P29L1
+bacterial ii:P3L3, ii:P12L3, ii:P19L1, ii:P20L1, ii:P26L1, ii:P28L11, ii:P29L2, ii:P33L10, ii:P58L1
+bacteriology ii:P2L1, ii:P10L1, ii:P11L3
+bacteriology--general ii:P3L2
+bacterium ii:P13L1
+bandages ii:P6L3
+based ii:P38L3
+battle ii:P22L12
+become ii:P39L5
+becoming ii:P46L11
+been ii:P33L3, ii:P34L1, ii:P37L5, ii:P40L1, ii:P44L4, ii:P56L1, ii:P65L2
+before ii:P63L5
+begins ii:P62L1
+behaviour ii:P53L3
+being ii:P20L3, ii:P25L5, ii:P29L6, ii:P35L8, ii:P36L3, ii:P39L15, ii:P44L4, ii:P47L4, ii:P63L3, ii:P66L3
+believe ii:P24L7
+believed ii:P58L4
+belong ii:P16L1
+best ii:P35L4, ii:P39L14, ii:P44L4
+between ii:P5L10, ii:P22L12, ii:P33L4, ii:P62L5
+beyond ii:P26L3
+bile-ducts ii:P52L7
+biniodide ii:P29L8
+blood ii:P8L2, ii:P27L4, ii:P31L6, ii:P32L2, ii:P39L3, ii:P58L3, ii:P59L8, ii:P63L1, ii:P64L2, ii:P66L3, ii:P67L1, ii:P68L2
+blood-poisoning ii:P28L11
+blood-stream ii:P21L16, ii:P25L2, ii:P27L1
+bodily ii:P22L11
+body ii:P20L2, ii:P21L8, ii:P26L4, ii:P29L5, ii:P33L7, ii:P35L7, ii:P46L13
+boiling ii:P20L4, ii:P35L4
+boils ii:P40L2, ii:P46L4
+bone ii:P46L4, ii:P56L2, ii:P58L6
+bones ii:P5L8, ii:P26L7, ii:P46L11
+borne ii:P36L1
+break ii:P19L3
+bright's ii:P8L4
+bring ii:P28L1
+broad ii:P17L2
+brought ii:P29L5, ii:P43L2
+brown ii:P68L6
+bruised ii:P7L2, ii:P22L6
+bulk ii:P35L6
+bunches ii:P15L6
+but ii:P12L2, ii:P20L2, ii:P21L10, ii:P28L5, ii:P38L7, ii:P47L1, ii:P53L2, ii:P62L4
+buttock ii:P35L5
+by ii:P5L9, ii:P6L2, ii:P8L2, ii:P9L1, ii:P11L2, ii:P13L5, ii:P15L2, ii:P17L2, ii:P18L2, ii:P21L7, ii:P22L1, ii:P24L5, ii:P25L2, ii:P28L1, ii:P29L5, ii:P30L1, ii:P31L3, ii:P32L6, ii:P33L1, ii:P34L2, ii:P35L2, ii:P36L3, ii:P37L2, ii:P38L1, ii:P39L8, ii:P40L4, ii:P43L3, ii:P46L5, ii:P50L2, ii:P52L9, ii:P53L3, ii:P58L5, ii:P61L11, ii:P62L2, ii:P64L5, ii:P68L2
+c.c ii:P35L8
+caecum ii:P5L12
+calcium ii:P19L3
+called ii:P15L4, ii:P19L11
+calls ii:P39L10
+can ii:P5L10, ii:P19L5, ii:P21L13, ii:P33L1, ii:P35L3, ii:P39L6
+canal ii:P35L9, ii:P52L6
+cancerous ii:P68L4
+cannot ii:P19L8
+capable ii:P21L2, ii:P37L3, ii:P46L10, ii:P56L4
+capacity ii:P21L3, ii:P49L6
+capillaries ii:P26L7
+capsule ii:P54L2
+carbohydrates ii:P19L3
+carbolic ii:P29L7
+carbuncles ii:P46L4
+case ii:P45L1, ii:P51L1
+cases ii:P60L6, ii:P61L7, ii:P64L6, ii:P65L1, ii:P66L2
+causation ii:P11L1
+causative ii:P38L3
+causatively ii:P52L3
+cause ii:P25L6, ii:P42L2, ii:P47L3
+caused ii:P40L4
+causes ii:P49L2
+causing ii:P46L11
+cell ii:P13L5
+cells ii:P13L6, ii:P15L3, ii:P18L1, ii:P24L5, ii:P31L2, ii:P46L6, ii:P59L9, ii:P60L3, ii:P68L7
+cellular ii:P56L2
+cellulitis ii:P27L3
+cent ii:P58L10, ii:P59L9
+certain ii:P21L4, ii:P22L8, ii:P23L2, ii:P24L8, ii:P26L2, ii:P28L4, ii:P29L1, ii:P30L1, ii:P31L2, ii:P32L4, ii:P33L6, ii:P37L3, ii:P39L2, ii:P58L1, ii:P60L11, ii:P64L1, ii:P68L5
+certainly ii:P21L17
+chain-forms--_streptococci_--give ii:P44L2
+chains ii:P16L2, ii:P50L1
+changes ii:P28L1
+character ii:P16L5
+characters ii:P3L2, ii:P13L1, ii:P47L2
+chemical ii:P6L3, ii:P13L11, ii:P28L5, ii:P29L7
+chiefly ii:P60L4, ii:P63L5
+children ii:P63L11
+chlorine ii:P29L8
+chronic ii:P25L1
+circulating ii:P32L2, ii:P60L10, ii:P64L2
+circulation ii:P28L7, ii:P61L12
+circulatory ii:P28L8, ii:P58L3
+circumstances ii:P21L11, ii:P29L1
+classical ii:P5L5
+classified ii:P14L1
+clean-cut ii:P22L7
+clinical ii:P12L1, ii:P35L1, ii:P39L1, ii:P60L1, ii:P67L1
+closely ii:P53L2
+cluster ii:P44L1
+clusters ii:P46L5
+cocci ii:P15L1
+cold ii:P20L2, ii:P22L11
+coli ii:P44L5, ii:P51L1, ii:P52L1
+collections ii:P25L4
+colloidal ii:P28L5
+colon ii:P5L12
+colonies ii:P46L7
+colour ii:P47L3, ii:P68L6
+colour--hence ii:P46L7
+come ii:P11L3
+common ii:P47L1
+commonest ii:P16L1, ii:P46L1
+communis ii:P44L6, ii:P51L1
+communis._--this ii:P52L1
+comparable ii:P32L6
+comparatively ii:P35L11
+complex ii:P28L3
+composition ii:P28L5
+compounds ii:P28L3
+concerned ii:P21L1, ii:P49L16
+conclusions ii:P25L5
+condition ii:P7L1, ii:P19L5, ii:P22L1, ii:P28L10, ii:P37L1, ii:P39L6, ii:P58L4, ii:P62L3, ii:P64L3
+conditions ii:P1L1, ii:P4L1, ii:P12L3, ii:P37L7, ii:P40L3, ii:P42L5, ii:P44L3, ii:P46L2, ii:P49L5, ii:P52L4, ii:P55L6, ii:P56L2, ii:P58L2, ii:P59L3, ii:P61L3, ii:P64L7, ii:P68L3
+congestion ii:P8L1
+connection ii:P5L5, ii:P57L6
+connective-tissue ii:P31L8
+consider ii:P43L4
+considerable ii:P38L8, ii:P39L16
+considerably ii:P23L3
+considered ii:P11L6, ii:P43L2, ii:P59L4
+consists ii:P13L1, ii:P38L2
+constant ii:P62L5
+constituent ii:P5L8
+constitutional ii:P8L4, ii:P39L9
+contains ii:P52L10
+contamination ii:P35L2
+continual ii:P46L15
+continued ii:P29L3
+contractility ii:P13L4
+contraction ii:P18L2
+contrary--for ii:P26L4
+controlled ii:P5L9
+convalescence ii:P56L3
+conveniently ii:P14L1
+conveys ii:P12L5
+convulsions ii:P28L13
+corpuscles ii:P31L8
+correspondence ii:P62L5
+count ii:P60L2, ii:P63L1, ii:P67L1, ii:P68L1
+counteracting ii:P12L7
+course ii:P32L3, ii:P36L6
+cubic ii:P59L1
+cultivated ii:P50L2
+culture ii:P53L3, ii:P56L1
+cultures ii:P27L3, ii:P38L3
+cure ii:P24L9, ii:P29L4
+cut ii:P7L3
+cystitis ii:P51L2, ii:P52L6
+damp ii:P22L11
+dangerous ii:P39L5
+daughter ii:P13L5
+dawson ii:P61L14
+daylight ii:P20L8
+days ii:P36L3, ii:P37L5, ii:P39L17, ii:P61L11
+dead ii:P21L6, ii:P38L3
+death ii:P25L4, ii:P29L1
+debility ii:P25L3
+definite ii:P28L13
+degree ii:P36L5, ii:P59L6, ii:P63L7
+delay ii:P4L2, ii:P8L3
+deleterious ii:P26L8
+delivery ii:P63L6
+dense ii:P13L8
+department ii:P11L4
+depends ii:P21L3, ii:P33L4
+depression ii:P22L10
+derangements ii:P28L9
+derived ii:P34L1
+deriving ii:P28L3
+designed ii:P33L12
+destroying ii:P31L3, ii:P32L3, ii:P49L8
+destroys ii:P20L6
+destruction ii:P58L7
+detail ii:P43L2
+determine ii:P60L3
+determined ii:P39L6
+determining ii:P21L12
+develop ii:P37L8
+developed ii:P13L9, ii:P19L6
+development ii:P19L2
+devitalise ii:P24L5
+devitalised ii:P7L1
+diabetes ii:P8L4
+diam ii:P45L2, ii:P48L2, ii:P51L2, ii:P54L2
+diameter ii:P15L2
+different ii:P17L4, ii:P19L7, ii:P21L10, ii:P23L1, ii:P35L7, ii:P46L3, ii:P59L2
+differential ii:P60L3
+differentiated ii:P44L4
+diffuse ii:P20L8, ii:P44L3
+digestion ii:P31L4, ii:P63L4
+diminish ii:P24L5
+diminished ii:P5L13
+diminution ii:P39L11
+diphtheria ii:P22L9, ii:P23L2, ii:P28L14
+diplococci ii:P15L4, ii:P55L2
+direct ii:P20L7
+directly ii:P21L16, ii:P35L9
+disappear ii:P36L6
+discharge ii:P52L8
+discovery ii:P25L4
+disease ii:P8L4, ii:P11L1, ii:P21L2, ii:P24L4, ii:P33L5, ii:P36L1, ii:P38L2, ii:P39L7, ii:P60L7, ii:P61L5, ii:P64L4
+disease--_antitoxic ii:P33L15
+disease-producing ii:P9L1
+diseased ii:P5L13
+diseases ii:P17L4, ii:P22L8, ii:P25L1, ii:P29L4, ii:P30L2, ii:P33L11, ii:P40L4, ii:P57L6, ii:P58L1, ii:P60L7, ii:P61L1, ii:P64L1, ii:P67L1
+distant ii:P26L6
+distinct ii:P21L7, ii:P28L13, ii:P53L3
+distributed ii:P42L4, ii:P46L12
+disturb ii:P28L2
+disturbance ii:P39L9
+disturbing ii:P9L2
+divide ii:P15L3
+divided ii:P35L7
+division ii:P16L2, ii:P50L1
+do ii:P21L6, ii:P57L1
+does ii:P20L3, ii:P27L1
+dominate ii:P11L4
+dosage ii:P39L8
+dose ii:P35L6, ii:P37L5, ii:P39L7
+drawn ii:P25L5
+dressings ii:P6L2
+due ii:P17L4, ii:P58L5, ii:P68L6
+during ii:P25L3, ii:P32L1, ii:P56L3, ii:P62L4
+e ii:P38L1
+e.g ii:P35L9
+each ii:P13L5, ii:P66L4
+early ii:P68L9
+easily ii:P50L2
+easy ii:P32L6
+effect ii:P24L9, ii:P39L8, ii:P63L9
+effects ii:P21L17, ii:P26L8, ii:P33L10
+efficacious ii:P34L3
+effusions ii:P68L8
+ehrlich ii:P59L6
+either ii:P6L2, ii:P22L5
+elaborated ii:P38L1
+electric ii:P4L2, ii:P19L4, ii:P20L7
+emanations ii:P20L9
+emergency ii:P66L2
+employed ii:P12L2, ii:P40L1
+empyema ii:P54L1
+enclosed ii:P13L2
+end ii:P31L8, ii:P49L4
+enjoy ii:P30L2
+enormous ii:P25L2
+enter ii:P32L4
+entrance ii:P26L3
+envelope ii:P13L2
+environment ii:P23L1
+eosinophile ii:P59L9, ii:P60L7
+eosinophilia ii:P60L8
+erroneous ii:P25L5
+erysipelas ii:P16L4, ii:P22L9, ii:P23L2, ii:P24L9, ii:P26L2
+erysipelas--it ii:P49L2
+erysipelatous ii:P49L12
+erythematous ii:P36L4
+especially ii:P56L3, ii:P63L3, ii:P64L4
+established ii:P37L5
+estimating ii:P60L1
+etc ii:P27L3
+even ii:P20L6, ii:P22L10, ii:P37L7, ii:P39L14, ii:P52L9, ii:P59L5
+every ii:P11L4
+everyday ii:P42L5
+evidence ii:P24L1
+evident ii:P66L1
+evolve ii:P28L4
+evolved ii:P33L11
+examination ii:P25L5
+examined ii:P66L3
+example ii:P8L1, ii:P24L2, ii:P26L4, ii:P46L10, ii:P49L2, ii:P60L10, ii:P62L2
+examples ii:P15L5
+exceeded ii:P21L14
+exceptionally ii:P61L3
+excess ii:P8L3, ii:P36L2, ii:P58L5, ii:P60L4
+exclude ii:P46L16
+exercise ii:P49L10
+exposure ii:P22L11, ii:P46L9
+extent ii:P4L2, ii:P13L6, ii:P20L2, ii:P25L3, ii:P27L2, ii:P39L4, ii:P61L3
+exudation ii:P49L9
+f ii:P20L1, ii:P61L14
+fact ii:P33L4, ii:P38L4
+factor ii:P9L2, ii:P21L12, ii:P22L13
+factors--(1 ii:P21L3
+facultative ii:P19L11
+faecal ii:P52L9
+fall ii:P62L7
+far ii:P5L8, ii:P26L3
+fatal ii:P37L7, ii:P49L6
+fatigue ii:P22L11
+favours ii:P19L4
+features ii:P21L4
+febrile ii:P28L4, ii:P32L4, ii:P62L4
+fever ii:P36L5, ii:P56L3, ii:P64L4, ii:P68L9
+few ii:P20L3, ii:P35L11, ii:P36L3, ii:P39L17, ii:P61L9
+fig ii:P15L5, ii:P16L1, ii:P17L2, ii:P18L3, ii:P45L1, ii:P46L6, ii:P48L1, ii:P50L2, ii:P51L1, ii:P53L2, ii:P54L1, ii:P55L2
+films ii:P68L2
+fine ii:P13L3
+finely ii:P13L1
+first ii:P5L2, ii:P37L5
+fission ii:P13L5, ii:P15L2, ii:P17L2, ii:P46L5
+flagella ii:P13L3
+flagellae ii:P18L3, ii:P53L1
+fluids ii:P5L14, ii:P61L12
+foetid ii:P52L9
+follow ii:P28L14, ii:P49L15
+followed ii:P36L3
+following ii:P54L2, ii:P59L7
+follows ii:P39L9
+food-supply ii:P19L2
+for ii:P5L2, ii:P8L1, ii:P13L10, ii:P19L1, ii:P20L1, ii:P24L2, ii:P30L3, ii:P32L7, ii:P33L15, ii:P35L4, ii:P39L10, ii:P46L10, ii:P56L4, ii:P60L10, ii:P61L10
+form ii:P6L3, ii:P15L5, ii:P19L2, ii:P33L1, ii:P49L14
+form)--are ii:P55L3
+formation ii:P13L7, ii:P49L7, ii:P58L5
+formed ii:P16L3, ii:P50L2
+forms ii:P12L5, ii:P13L3, ii:P17L3, ii:P31L5, ii:P50L3, ii:P55L1, ii:P59L7
+forms--_spirilla ii:P14L3
+found ii:P27L5, ii:P44L1, ii:P46L1, ii:P56L1, ii:P57L3
+four ii:P61L10, ii:P63L2, ii:P66L4
+freedom ii:P12L5
+frequency ii:P22L15
+frequently ii:P26L5, ii:P55L4
+fresh ii:P46L12
+friedlander's ii:P55L3
+from ii:P11L4, ii:P12L5, ii:P20L1, ii:P22L10, ii:P25L1, ii:P27L4, ii:P28L3, ii:P30L2, ii:P33L2, ii:P34L1, ii:P38L6, ii:P39L6, ii:P42L1, ii:P45L1, ii:P46L16, ii:P48L1, ii:P51L1, ii:P52L4, ii:P53L3, ii:P54L1, ii:P56L3, ii:P59L3, ii:P61L10, ii:P63L3
+full ii:P35L6
+fully ii:P19L6
+function ii:P5L7
+functions ii:P28L9
+furnish ii:P33L12
+further ii:P22L1, ii:P57L5, ii:P62L8, ii:P67L2
+gain ii:P21L16, ii:P24L4, ii:P26L3
+gangrene ii:P49L17
+gases ii:P52L10
+gastro-intestinal ii:P28L9
+gave ii:P31L4
+gelatinous ii:P13L2
+general ii:P27L2, ii:P28L7, ii:P39L6, ii:P61L7
+generalised ii:P49L5
+generally ii:P22L5
+germicides ii:P13L11
+get ii:P21L15
+give ii:P28L7, ii:P57L6
+given ii:P21L8, ii:P37L4, ii:P39L1
+gives ii:P49L5
+giving ii:P13L5, ii:P21L8
+glanders ii:P57L4
+glands ii:P49L13
+globular--_cocci ii:P14L2
+glycogen ii:P68L1
+go ii:P28L10
+goes ii:P13L6
+gonococcal ii:P15L4, ii:P40L3, ii:P57L4
+good ii:P22L3
+gram's ii:P45L2, ii:P48L2
+granular ii:P13L2, ii:P60L5
+grape-like ii:P15L6, ii:P46L5
+grave ii:P8L3, ii:P61L6
+great ii:P5L2, ii:P13L4, ii:P15L2, ii:P19L9, ii:P20L5, ii:P21L17, ii:P22L15, ii:P25L3, ii:P27L2, ii:P32L2, ii:P42L3, ii:P46L2, ii:P49L1, ii:P52L2
+green ii:P57L3
+group ii:P18L4, ii:P42L3
+groups ii:P28L7, ii:P44L1
+grown ii:P46L6
+growth ii:P19L1, ii:P20L8, ii:P29L3, ii:P47L2, ii:P50L3
+growth--death ii:P3L5
+growth.#--some ii:P26L1
+growths ii:P68L4
+habitat ii:P47L4
+haemorrhage ii:P61L9
+hand ii:P21L15, ii:P24L7, ii:P39L11
+has ii:P11L3, ii:P12L3, ii:P21L8, ii:P33L3, ii:P34L1, ii:P37L5, ii:P40L1, ii:P46L15, ii:P47L1, ii:P49L6, ii:P52L9, ii:P56L1, ii:P58L6, ii:P63L9, ii:P64L8, ii:P65L2
+have ii:P11L5, ii:P19L10, ii:P21L5, ii:P33L11, ii:P43L3, ii:P44L4
+he ii:P31L5
+healing ii:P7L2, ii:P8L2, ii:P21L13, ii:P22L3, ii:P28L2
+heat ii:P13L11
+height ii:P62L5
+here ii:P43L2
+hernia ii:P52L5
+high ii:P29L6, ii:P46L8, ii:P59L6, ii:P62L4, ii:P63L10
+higher ii:P59L5
+hilton's ii:P5L5
+him ii:P22L5
+himself ii:P38L7
+hinders ii:P7L2
+host ii:P21L5
+hour ii:P66L4
+hours ii:P61L9, ii:P63L2, ii:P66L4
+however ii:P9L2, ii:P19L5, ii:P20L3, ii:P22L5
+human ii:P20L2, ii:P21L3, ii:P27L1
+hunter ii:P5L3
+hyaline ii:P31L7
+hydatid ii:P60L7
+i ii:P61L14
+idea ii:P12L5
+if ii:P24L4, ii:P35L6, ii:P37L5, ii:P39L7, ii:P63L7
+ill-fitting ii:P6L3
+immediately ii:P63L5
+immunised ii:P33L3, ii:P34L2
+immunity ii:P30L2, ii:P31L1, ii:P33L1, ii:P35L10
+immunity._--a ii:P33L1
+impedes ii:P8L5
+imperfectly ii:P37L9
+implies ii:P5L6
+importance ii:P60L1
+important ii:P5L1, ii:P11L3, ii:P18L4, ii:P21L12, ii:P22L13, ii:P31L2, ii:P33L8, ii:P42L1, ii:P52L8
+impracticable ii:P38L7
+improves ii:P39L12
+in ii:P4L1, ii:P5L5, ii:P6L1, ii:P8L1, ii:P9L2, ii:P11L1, ii:P12L1, ii:P13L2, ii:P15L1, ii:P16L2, ii:P19L2, ii:P20L5, ii:P21L2, ii:P22L3, ii:P23L1, ii:P25L1, ii:P26L7, ii:P27L1, ii:P28L1, ii:P29L4, ii:P30L2, ii:P31L2, ii:P32L1, ii:P36L1, ii:P38L2, ii:P39L2, ii:P40L1, ii:P43L2, ii:P45L1, ii:P46L1, ii:P48L1, ii:P49L1, ii:P50L1, ii:P51L1, ii:P52L5, ii:P53L3, ii:P54L1, ii:P55L4, ii:P56L1, ii:P57L3, ii:P58L2, ii:P59L1, ii:P60L1, ii:P61L1, ii:P62L7, ii:P63L1, ii:P64L2, ii:P65L1, ii:P66L2, ii:P67L1, ii:P68L3
+include ii:P31L7
+includes ii:P42L3
+including ii:P37L3
+increase ii:P32L2, ii:P58L2, ii:P60L8, ii:P62L8, ii:P63L4
+increased ii:P22L10, ii:P24L7, ii:P39L14, ii:P61L8
+increases ii:P62L3
+index ii:P39L4
+indicates ii:P39L10
+indication ii:P64L7
+individual ii:P22L5, ii:P46L6, ii:P59L2, ii:P67L1
+individuals ii:P59L2
+induced ii:P33L1, ii:P37L2, ii:P58L9
+infants ii:P63L10
+infected ii:P52L9
+infection ii:P9L1, ii:P12L3, ii:P22L6, ii:P30L1, ii:P33L13, ii:P46L15, ii:P49L5, ii:P62L1, ii:P64L8
+infection_--that ii:P24L1
+infections ii:P27L2, ii:P40L2, ii:P68L8
+infective ii:P33L11, ii:P61L1, ii:P64L1
+inflamed ii:P5L12
+inflammation ii:P42L2, ii:P49L3, ii:P62L6
+inflammations ii:P46L4, ii:P49L12, ii:P55L4
+inflammatory ii:P16L4, ii:P43L1, ii:P46L2, ii:P55L6, ii:P61L2
+influence ii:P11L1, ii:P49L10
+influences ii:P4L2
+influenza ii:P64L6
+infusion ii:P61L12
+ingesting ii:P31L3
+inhabitant ii:P52L1
+inimical ii:P20L8
+initial ii:P39L6
+injected ii:P35L3, ii:P39L3
+injecting ii:P38L2
+injection ii:P35L4, ii:P36L3, ii:P37L2, ii:P39L12, ii:P58L9
+injections ii:P35L10
+injured ii:P5L2
+inoculation ii:P26L6
+instance ii:P5L8
+instances--for ii:P49L2
+instrument ii:P7L3
+insusceptible ii:P30L1
+intensity ii:P21L17
+interfere ii:P1L1, ii:P29L3
+interference ii:P6L1, ii:P28L9
+interfering ii:P11L2, ii:P49L9
+interior ii:P13L9
+internal ii:P25L2, ii:P56L2
+interpreting ii:P63L1
+interval ii:P37L4
+intervals ii:P39L17
+intestinal ii:P52L2
+into ii:P19L4, ii:P21L18, ii:P22L2, ii:P28L6, ii:P35L7, ii:P44L1, ii:P61L12
+intoxication ii:P28L11
+intra-cellular ii:P31L4
+introduced ii:P21L12, ii:P22L2, ii:P35L8, ii:P39L14
+introduction ii:P24L1, ii:P33L2
+invade ii:P25L2, ii:P49L11, ii:P52L2
+invading ii:P21L4, ii:P58L7
+invasion ii:P21L13
+iodide ii:P68L3
+iodine ii:P68L1
+irregularly ii:P15L5, ii:P46L6
+irritation ii:P6L1
+is ii:P4L1, ii:P5L1, ii:P6L1, ii:P9L2, ii:P11L4, ii:P12L2, ii:P13L8, ii:P16L3, ii:P18L3, ii:P19L5, ii:P20L1, ii:P21L2, ii:P22L1, ii:P24L1, ii:P28L1, ii:P29L4, ii:P33L3, ii:P34L1, ii:P35L3, ii:P36L1, ii:P37L1, ii:P38L2, ii:P39L2, ii:P44L1, ii:P46L1, ii:P47L1, ii:P49L15, ii:P50L2, ii:P52L1, ii:P53L1, ii:P56L4, ii:P57L1, ii:P58L4, ii:P59L3, ii:P60L1, ii:P61L1, ii:P62L3, ii:P63L1, ii:P64L2, ii:P68L8
+isolated ii:P38L6
+it ii:P4L1, ii:P5L5, ii:P11L4, ii:P19L11, ii:P22L2, ii:P28L1, ii:P29L1, ii:P33L8, ii:P35L3, ii:P37L8, ii:P39L10, ii:P43L2, ii:P44L1, ii:P46L2, ii:P47L3, ii:P49L5, ii:P50L2, ii:P52L3, ii:P53L1, ii:P56L4, ii:P58L6, ii:P60L1, ii:P61L6, ii:P63L1, ii:P64L3, ii:P66L1
+its ii:P12L1, ii:P21L9, ii:P46L3, ii:P47L2, ii:P49L1, ii:P53L3, ii:P58L6, ii:P62L6
+itself--for ii:P62L1
+john ii:P5L3
+joint ii:P5L9
+joints ii:P26L7, ii:P36L4
+kept ii:P63L1
+kidney ii:P5L13, ii:P26L7, ii:P52L6
+kill ii:P20L3
+killed ii:P29L5
+kindly ii:P7L3
+knife ii:P22L8
+known ii:P15L6, ii:P19L8, ii:P21L6, ii:P28L6, ii:P32L5, ii:P44L4, ii:P57L2, ii:P58L4, ii:P64L3
+laboratory-prepared ii:P38L8
+labour ii:P63L7
+lacerated ii:P7L2
+lactation ii:P63L9
+large ii:P35L6, ii:P59L10
+larger ii:P31L7
+lastly ii:P25L1
+lasts ii:P35L10, ii:P61L10
+latent ii:P46L10, ii:P56L4
+later ii:P43L2, ii:P64L4
+lead ii:P25L5
+least ii:P17L1, ii:P30L4, ii:P61L13
+leg ii:P8L1
+leishman's ii:P51L2
+length ii:P50L1
+lesions ii:P40L2, ii:P44L2, ii:P64L5
+less ii:P7L2, ii:P18L1, ii:P38L4, ii:P47L1, ii:P49L6, ii:P50L2
+leucaemia ii:P60L10
+leucocyte ii:P63L10, ii:P68L1
+leucocytes ii:P31L1, ii:P32L1, ii:P49L9, ii:P58L3, ii:P59L1, ii:P60L2, ii:P61L4, ii:P62L3, ii:P63L5, ii:P64L2, ii:P68L5
+leucocytosis ii:P32L2, ii:P58L4, ii:P59L4, ii:P60L1, ii:P61L1, ii:P62L1, ii:P63L2, ii:P64L6, ii:P65L1
+leucocytosis--leucopenia._--in ii:P64L1
+leucopenia ii:P64L3
+liability ii:P22L8
+liable ii:P22L7, ii:P37L8, ii:P39L15
+life ii:P13L10, ii:P20L1, ii:P29L3, ii:P42L5
+life--pathogenic ii:P3L4
+life.#--bacteria ii:P19L1
+light ii:P20L7
+like ii:P56L3
+limb ii:P5L11
+liquefying ii:P49L6
+little ii:P26L2
+live ii:P19L9
+liver ii:P52L7, ii:P55L5
+living ii:P21L5
+local ii:P39L11
+localised ii:P26L6, ii:P44L2, ii:P46L2
+localities ii:P23L1
+locally ii:P22L5
+lodging ii:P26L7
+long ii:P16L2, ii:P17L1, ii:P18L1, ii:P22L2, ii:P46L10, ii:P56L4
+longer ii:P12L1, ii:P19L6, ii:P35L11
+looked ii:P59L5, ii:P61L6, ii:P64L7
+lotions ii:P6L4
+low--3000 ii:P64L3
+lowered ii:P52L3
+lowering ii:P22L4
+lungs ii:P26L7
+lupus ii:P24L10
+lying ii:P46L10, ii:P56L4
+lymph ii:P49L11
+lymphangitis ii:P49L13
+lymphatic ii:P60L10
+lymphocytes ii:P59L9, ii:P60L10
+lymphocytosis ii:P60L9
+lyon ii:P61L11
+macrophages ii:P31L7
+made ii:P35L3, ii:P60L3, ii:P66L3
+majority ii:P13L4, ii:P15L2, ii:P19L10, ii:P20L5, ii:P60L4
+make ii:P28L10
+making ii:P5L12
+malaria ii:P64L5
+malignant ii:P61L8
+management ii:P4L1
+manifests ii:P37L6, ii:P62L1
+many ii:P13L3, ii:P17L4, ii:P21L5, ii:P30L3, ii:P42L3, ii:P44L3, ii:P52L7
+marked ii:P39L9
+marrow ii:P46L11, ii:P58L6
+mass ii:P13L2
+mast-cells ii:P59L11
+matter ii:P21L6
+may ii:P5L11, ii:P22L11, ii:P24L9, ii:P25L2, ii:P27L4, ii:P29L5, ii:P35L8, ii:P37L7, ii:P38L8, ii:P39L4, ii:P58L9, ii:P59L5, ii:P61L4, ii:P68L1
+meal ii:P63L3
+meals ii:P66L4
+meaning ii:P12L2
+means ii:P28L4, ii:P35L2, ii:P46L16
+mechanical ii:P5L3, ii:P6L2
+mechanism ii:P37L8
+media ii:P46L7, ii:P47L3, ii:P50L2, ii:P53L3
+medium ii:P19L4
+member ii:P18L4
+membrane ii:P13L9
+membranes ii:P49L14, ii:P55L5
+mention ii:P57L6
+mercury ii:P29L8
+mere ii:P5L6
+merely ii:P60L2
+met ii:P16L4, ii:P42L4, ii:P55L4, ii:P61L1
+metchnikoff ii:P31L4
+method ii:P38L5
+methods ii:P33L11
+micro-organism ii:P21L8
+micro-organisms ii:P9L1, ii:P11L1, ii:P20L3, ii:P28L2, ii:P42L2
+micrococci ii:P15L1
+micrococcus ii:P57L4
+microphages ii:P31L6
+microscope ii:P46L5
+millimetre ii:P59L1
+mind ii:P36L1, ii:P63L1
+minims ii:P58L10
+minute ii:P13L8, ii:P15L1
+minutes ii:P20L4
+mixed ii:P24L1, ii:P64L8
+moderate ii:P22L3, ii:P63L7
+modified ii:P22L1
+moisture ii:P19L5, ii:P29L6
+mononuclear ii:P59L10
+more ii:P5L6, ii:P12L4, ii:P18L1, ii:P21L17, ii:P22L6, ii:P24L2, ii:P34L3, ii:P35L7, ii:P46L8, ii:P49L7, ii:P57L1
+most ii:P5L1, ii:P9L2, ii:P14L1, ii:P18L3, ii:P20L1, ii:P22L4, ii:P24L6, ii:P29L9, ii:P33L8, ii:P38L5, ii:P42L1, ii:P46L9, ii:P52L8, ii:P57L5, ii:P64L6
+motile ii:P17L3, ii:P53L2
+motile--some ii:P13L3
+mouth ii:P46L13, ii:P49L15
+move ii:P18L2
+movement ii:P5L1
+much ii:P19L6, ii:P22L6, ii:P34L3, ii:P47L1, ii:P66L1
+muir's ii:P54L2
+multiplication ii:P27L1
+multiply ii:P13L5, ii:P15L2, ii:P17L2
+multiplying ii:P21L8
+must ii:P5L5, ii:P35L1, ii:P60L3, ii:P66L1
+name ii:P31L4, ii:P36L5, ii:P46L8, ii:P57L1
+narcotisation ii:P32L6
+natural ii:P4L3, ii:P5L4, ii:P9L2, ii:P11L2, ii:P29L4, ii:P30L2
+nature ii:P28L6, ii:P37L6, ii:P43L1, ii:P68L7
+nearly ii:P11L5, ii:P61L1
+necessary ii:P4L2, ii:P19L5, ii:P39L16, ii:P57L1
+necessity ii:P19L7
+negative ii:P39L2
+nervous ii:P28L10
+neutralise ii:P33L13
+neutralising ii:P33L14, ii:P39L3
+neutrophile ii:P59L8, ii:P60L5, ii:P63L5
+new-born ii:P63L10
+next ii:P39L11
+no ii:P5L10, ii:P12L1, ii:P62L4, ii:P63L9
+non-motile ii:P15L2, ii:P17L3
+non-sporing ii:P46L9
+normal ii:P47L4, ii:P52L1, ii:P59L1, ii:P63L4
+not ii:P5L11, ii:P20L3, ii:P21L9, ii:P27L1, ii:P35L7, ii:P39L1, ii:P57L1, ii:P60L1, ii:P66L1
+nourish ii:P21L6, ii:P28L4
+nourishment ii:P28L3
+now ii:P11L3, ii:P12L1, ii:P21L1, ii:P43L3, ii:P44L4
+nucleinate ii:P58L10
+number ii:P21L11, ii:P58L2, ii:P59L1, ii:P60L2, ii:P61L8, ii:P62L2, ii:P63L4, ii:P64L2, ii:P68L5
+numbers ii:P22L4, ii:P25L2, ii:P32L2
+numerous ii:P34L2
+o ii:P20L1
+object ii:P58L6
+objects ii:P46L14
+observation ii:P66L2
+observations ii:P66L3
+obtained ii:P27L4, ii:P33L2
+occur ii:P27L1
+occurrence ii:P62L8, ii:P64L6
+occurs ii:P8L1, ii:P46L5, ii:P60L10, ii:P63L2, ii:P64L4
+odour ii:P52L9
+of ii:P3L1, ii:P4L1, ii:P5L1, ii:P6L1, ii:P7L1, ii:P8L1, ii:P9L2, ii:P11L1, ii:P12L5, ii:P13L1, ii:P15L4, ii:P16L5, ii:P17L5, ii:P18L2, ii:P19L1, ii:P20L2, ii:P21L1, ii:P22L1, ii:P23L2, ii:P24L1, ii:P25L3, ii:P26L1, ii:P27L3, ii:P28L2, ii:P29L1, ii:P31L1, ii:P32L1, ii:P33L1, ii:P34L2, ii:P35L1, ii:P36L3, ii:P37L1, ii:P38L3, ii:P39L1, ii:P40L4, ii:P42L1, ii:P43L1, ii:P44L3, ii:P45L1, ii:P46L4, ii:P47L3, ii:P49L3, ii:P50L1, ii:P51L1, ii:P52L2, ii:P55L1, ii:P56L2, ii:P57L2, ii:P58L3, ii:P59L1, ii:P60L1, ii:P61L4, ii:P62L2, ii:P63L2, ii:P64L1, ii:P65L1, ii:P66L3, ii:P67L1, ii:P68L2
+offer ii:P13L10
+often ii:P52L10
+omen ii:P61L7
+on ii:P13L6, ii:P24L7, ii:P25L5, ii:P26L4, ii:P32L5, ii:P38L3, ii:P39L11, ii:P46L13, ii:P47L2, ii:P49L15, ii:P63L9, ii:P68L7
+once ii:P22L5
+one ii:P5L1, ii:P16L2, ii:P24L2, ii:P30L3, ii:P34L1, ii:P35L8, ii:P39L7, ii:P43L3, ii:P50L1, ii:P55L2, ii:P63L3
+only ii:P16L2, ii:P21L1, ii:P35L10
+open ii:P8L3
+operations ii:P49L15, ii:P61L12
+opsonic ii:P39L4
+opsonin ii:P39L2
+opsonins ii:P32L5
+or ii:P4L3, ii:P5L9, ii:P6L3, ii:P7L1, ii:P8L5, ii:P9L1, ii:P12L6, ii:P14L3, ii:P15L1, ii:P16L1, ii:P18L1, ii:P19L8, ii:P20L2, ii:P22L5, ii:P26L7, ii:P27L3, ii:P28L11, ii:P29L6, ii:P32L5, ii:P33L1, ii:P35L2, ii:P36L4, ii:P38L7, ii:P39L13, ii:P43L3, ii:P49L12, ii:P52L2, ii:P58L7, ii:P59L5, ii:P61L8, ii:P62L2, ii:P63L2, ii:P64L3, ii:P68L1
+orange-yellow ii:P46L7
+ordinary ii:P60L6
+organ ii:P52L2
+organic ii:P28L3
+organism ii:P22L1, ii:P24L2, ii:P26L5, ii:P34L2, ii:P46L1, ii:P49L1, ii:P52L1, ii:P53L1, ii:P55L1, ii:P56L1
+organismal ii:P35L2
+organisms ii:P16L1, ii:P21L11, ii:P22L7, ii:P23L2, ii:P24L7, ii:P25L4, ii:P26L1, ii:P27L5, ii:P28L4, ii:P29L3, ii:P38L3, ii:P43L3, ii:P57L2, ii:P58L7
+organs ii:P25L2, ii:P56L3
+original ii:P12L2, ii:P39L13
+osteomyelitis ii:P22L14, ii:P23L3, ii:P27L3, ii:P45L2
+osteomyelitis--although ii:P26L5
+other ii:P4L1, ii:P5L10, ii:P6L4, ii:P13L6, ii:P16L4, ii:P17L4, ii:P22L15, ii:P24L7, ii:P31L2, ii:P39L11, ii:P40L4, ii:P43L3, ii:P46L13, ii:P49L4, ii:P52L7, ii:P55L5, ii:P57L1, ii:P58L1
+others ii:P13L4, ii:P17L2, ii:P21L4, ii:P24L5, ii:P26L4
+otherwise ii:P12L6, ii:P49L10
+outbreak ii:P46L12
+output ii:P58L5
+outside ii:P29L5
+oxygen ii:P19L7
+pain ii:P5L5, ii:P36L4
+pairs ii:P15L4
+paralyses ii:P20L2, ii:P28L14
+parasites ii:P21L7
+parasitic ii:P21L8, ii:P60L6
+parent ii:P13L5
+part ii:P5L2, ii:P8L1, ii:P31L2, ii:P39L14, ii:P52L5
+particular ii:P33L5
+particularly ii:P12L4, ii:P13L7, ii:P39L7, ii:P60L6, ii:P61L2, ii:P63L6, ii:P66L2
+parts ii:P5L3, ii:P26L6, ii:P28L1, ii:P35L7
+pass ii:P26L3
+passive ii:P33L1
+patch ii:P24L9
+pathogenic ii:P9L1, ii:P21L2, ii:P23L1, ii:P58L8
+pathological ii:P58L2
+patient ii:P5L14, ii:P22L2, ii:P28L2, ii:P30L3, ii:P33L12, ii:P37L6, ii:P38L6, ii:P39L2
+patient's ii:P7L1
+patients ii:P25L1, ii:P36L2
+peculiar ii:P21L4
+per ii:P58L10, ii:P59L1
+perchloride ii:P29L8
+perforation ii:P52L5
+period ii:P25L3, ii:P62L4
+periods ii:P19L6, ii:P46L10, ii:P56L5
+peritoneal ii:P52L4
+peritonitis ii:P52L4
+persistent ii:P7L3
+person ii:P22L2, ii:P37L7
+persons ii:P30L1
+phagocytes ii:P31L5, ii:P32L7, ii:P38L5
+phagocytic ii:P32L3
+phagocytosis ii:P31L5, ii:P32L1
+phagocytosis._--in ii:P31L1
+phase ii:P39L2
+phlegmonous ii:P49L12
+physical ii:P5L6
+physiological ii:P5L3, ii:P63L2
+place ii:P5L10, ii:P12L3, ii:P16L2, ii:P35L8, ii:P46L6, ii:P49L7, ii:P50L1, ii:P64L8
+placed ii:P66L1
+play ii:P31L2
+played ii:P11L2
+plays ii:P52L8
+pneumo-bacillus ii:P55L3
+pneumo-bacteria._--two ii:P55L1
+pneumococcal ii:P27L4, ii:P40L3
+pneumococci ii:P54L1
+pneumococcus ii:P55L2
+pneumonia ii:P15L5, ii:P22L9, ii:P49L15, ii:P54L2, ii:P68L4
+pneumonia--_fraenkel's ii:P55L2
+point ii:P26L3, ii:P42L1
+poisoning ii:P65L1
+poisonings ii:P68L4
+poisons ii:P24L4, ii:P28L6
+polymorpho-nuclear ii:P31L6, ii:P32L1, ii:P60L5
+polynuclear ii:P59L8, ii:P63L5, ii:P68L5
+polyvalent ii:P34L1, ii:P38L8
+positive ii:P39L13
+possess ii:P31L3
+possible ii:P5L8, ii:P66L2
+post-mortem ii:P25L5
+post-operative ii:P61L13
+potassium ii:P19L3, ii:P68L3
+potent ii:P9L2, ii:P49L8
+power ii:P12L7, ii:P21L5, ii:P24L6, ii:P31L2, ii:P58L8
+powerful ii:P29L9
+powers ii:P3L4, ii:P23L2
+precaution ii:P35L1
+precedes ii:P25L4
+prefer ii:P19L10
+preparations ii:P29L8
+prepared ii:P38L3
+presence ii:P19L9
+present ii:P12L4, ii:P46L14, ii:P59L4, ii:P60L2, ii:P61L6, ii:P64L9
+pressure ii:P20L6, ii:P39L15
+prevent ii:P35L1, ii:P61L4
+prevented ii:P5L8
+preventing ii:P8L2
+prey ii:P32L6
+primiparae ii:P63L6
+probably ii:P28L4, ii:P58L6
+process ii:P4L3, ii:P7L2, ii:P9L2, ii:P11L2, ii:P13L6, ii:P31L3, ii:P32L1, ii:P33L3, ii:P64L8
+processes ii:P16L5, ii:P33L9, ii:P43L1
+produce ii:P21L16, ii:P28L12, ii:P32L4, ii:P44L2
+produced ii:P24L5, ii:P33L7, ii:P35L10, ii:P39L8
+producing ii:P21L2, ii:P26L8
+production ii:P31L1, ii:P49L16
+products ii:P12L7, ii:P24L8, ii:P28L5, ii:P29L2, ii:P49L8
+profound ii:P37L6
+progressing ii:P62L4
+prolonged ii:P20L2, ii:P46L8
+prone ii:P49L15
+propagated ii:P13L7
+properties ii:P21L1, ii:P47L2
+proportion ii:P59L7
+proportionate ii:P60L8
+propriety ii:P39L5
+protect ii:P33L8
+protective ii:P33L2, ii:P36L2, ii:P49L10
+protects ii:P30L3
+proteins ii:P19L2, ii:P63L3
+protoplasm ii:P13L2, ii:P18L2
+prove ii:P37L7
+proves ii:P49L5
+puerperium ii:P63L8
+puncture ii:P35L6
+pure ii:P27L3, ii:P56L1
+purified ii:P35L5
+purpose ii:P5L11
+purulent ii:P68L3
+pus ii:P45L1, ii:P48L1, ii:P49L7, ii:P54L1, ii:P57L3
+pus-forming ii:P16L1
+pus-producing ii:P22L7
+pustules ii:P46L4
+putrefaction ii:P12L2, ii:P52L10
+putrefactive ii:P12L6
+pyaemia ii:P49L17
+pyelitis ii:P52L6
+pyocyaneus ii:P57L3
+pyogenes._--this ii:P49L1
+pyogenic ii:P12L4, ii:P16L1, ii:P24L3, ii:P26L2, ii:P27L2, ii:P40L2, ii:P41L1, ii:P42L3, ii:P44L3, ii:P57L1, ii:P61L2
+quality ii:P5L14
+quantity ii:P5L14
+questions ii:P11L5
+races ii:P23L1
+radium ii:P20L9
+raised ii:P20L3
+range ii:P59L5
+ranging ii:P63L11
+rapid ii:P58L5
+rapidity ii:P13L6, ii:P25L3
+rapidly ii:P49L5, ii:P62L3
+rash ii:P36L4
+rays ii:P20L9
+reacting ii:P61L4
+reaction ii:P33L4, ii:P39L16, ii:P68L7
+reaction._--the ii:P68L1
+reason ii:P24L7
+receive ii:P57L5
+recognise ii:P14L2
+recognised ii:P31L5
+reddish-brown ii:P68L6
+reduce ii:P39L4
+referred ii:P65L2, ii:P67L2
+regains ii:P63L8
+regard ii:P22L13, ii:P36L2
+regulated ii:P39L8
+regulating ii:P5L13
+reliance ii:P66L1
+remain ii:P15L3
+remaining ii:P26L5
+remains ii:P62L4
+remarkable ii:P13L10
+render ii:P32L6, ii:P37L7, ii:P38L4, ii:P53L1
+renders ii:P22L5
+repair ii:P1L1, ii:P4L3, ii:P6L1, ii:P9L3, ii:P11L2
+reparative ii:P7L2
+repeated ii:P39L13
+repose ii:P5L7
+require ii:P19L1
+requisite ii:P5L2
+resemble ii:P14L3
+resembles ii:P53L2
+resist ii:P21L13, ii:P22L3, ii:P38L5
+resistance ii:P13L10, ii:P24L6
+resistant ii:P20L7
+resisting ii:P58L8
+resists ii:P46L8
+resolution ii:P62L6
+respiratory ii:P28L8
+rest ii:P5L3
+rest--irritation--unhealthy ii:P3L1
+restoration ii:P5L2
+result ii:P33L4
+resulting ii:P15L3, ii:P24L3, ii:P52L4
+results ii:P21L15, ii:P22L10
+retains ii:P12L1
+rich ii:P63L3
+rigor ii:P62L2
+rise ii:P13L5, ii:P21L9, ii:P28L7, ii:P39L9, ii:P44L3, ii:P49L5, ii:P57L6, ii:P62L2
+rises ii:P62L3
+rod--_bacilli ii:P14L3
+rod-shaped ii:P17L1, ii:P53L1, ii:P55L3
+role ii:P11L2
+rontgen ii:P20L9
+rough ii:P6L2
+roughly ii:P20L2
+round ii:P15L1
+rule ii:P21L16, ii:P39L5
+said ii:P5L3, ii:P30L2
+salts ii:P19L3
+same ii:P12L5, ii:P21L10, ii:P47L2, ii:P49L8, ii:P59L2, ii:P66L4
+saphrophytes ii:P21L6
+save ii:P47L2
+say ii:P43L2
+scale ii:P22L12
+science ii:P11L3
+screw-like ii:P18L2
+scurvy ii:P8L5
+seasons ii:P23L1
+seat ii:P26L6, ii:P35L6
+second ii:P30L4, ii:P37L4
+secured ii:P5L12, ii:P33L10
+seen ii:P46L5
+seldom ii:P35L11
+selected ii:P39L15
+sepsis ii:P12L1
+septic ii:P61L3, ii:P65L1, ii:P68L4
+sera ii:P35L10, ii:P36L2, ii:P37L3
+sera--identification ii:P3L5
+series ii:P66L3
+serous ii:P49L14, ii:P55L4, ii:P68L8
+serum ii:P32L4, ii:P33L10, ii:P34L1, ii:P35L2, ii:P36L1
+serums ii:P33L15
+serums._--every ii:P35L1
+sets ii:P21L3
+settle ii:P28L2
+settled ii:P46L15
+severe ii:P49L15, ii:P61L7
+severity ii:P22L15, ii:P24L3
+shape ii:P14L1
+sharp ii:P7L3, ii:P49L3
+shivering ii:P62L2
+shock ii:P37L7
+short ii:P35L11, ii:P53L1, ii:P55L3
+shortly ii:P25L4
+should ii:P35L5, ii:P39L1, ii:P66L3
+show ii:P26L2, ii:P60L8
+showing ii:P49L4
+shows ii:P52L2
+significance ii:P67L1
+simple ii:P13L5
+simpler ii:P19L4
+single ii:P34L3, ii:P66L2
+sinuses ii:P40L4
+situations ii:P35L4, ii:P46L13
+skin ii:P7L2, ii:P35L4, ii:P46L3, ii:P47L4
+slender ii:P18L1
+slight ii:P22L10
+slowly ii:P49L7
+small ii:P39L7, ii:P53L1
+smooth ii:P7L3
+so ii:P5L10, ii:P11L3, ii:P16L2, ii:P22L2, ii:P24L5, ii:P35L3, ii:P42L4, ii:P49L7, ii:P50L1
+soda ii:P58L10
+solution ii:P58L9, ii:P68L2
+some ii:P17L2, ii:P18L2, ii:P22L15, ii:P27L2, ii:P36L1, ii:P37L5, ii:P46L4, ii:P49L2, ii:P57L2, ii:P60L6, ii:P61L7, ii:P64L8, ii:P65L1, ii:P68L7
+sometimes ii:P39L15
+somewhat ii:P62L3
+soon ii:P49L3, ii:P62L1
+source ii:P6L1, ii:P46L15
+sources ii:P34L3
+spaces ii:P49L11
+specially ii:P38L2
+species ii:P19L7, ii:P21L10, ii:P24L2, ii:P42L3
+specific ii:P33L5
+spinal ii:P35L9
+spiral ii:P14L3, ii:P18L1
+spirilla ii:P18L1
+spirochaete ii:P18L3
+splints ii:P5L9, ii:P6L3
+spoken ii:P19L9, ii:P21L9
+spore ii:P13L8
+spores ii:P13L8, ii:P19L5, ii:P20L5
+sporulation ii:P17L3
+spreading ii:P16L5, ii:P44L3, ii:P49L3
+stages ii:P64L4, ii:P68L9
+stain.] ii:P45L2, ii:P48L2, ii:P51L2, ii:P54L2
+stained ii:P54L2, ii:P68L6
+staining ii:P68L2
+standard ii:P59L7
+standpoint ii:P11L4
+staphylococci ii:P15L6, ii:P27L3, ii:P44L1
+staphylococcus ii:P44L5, ii:P46L1, ii:P47L1, ii:P49L7, ii:P50L3, ii:P56L4
+staphylococcus--increases ii:P24L3
+starvation ii:P29L5
+state ii:P5L6
+steam ii:P20L5
+sterilised ii:P35L3
+still ii:P38L2
+stitch ii:P47L3
+stock ii:P38L8
+strain ii:P34L3
+strains ii:P34L2
+strangulated ii:P52L5
+streptococcal ii:P40L3
+streptococci ii:P16L3, ii:P27L4, ii:P49L10
+streptococcus ii:P16L3, ii:P44L5, ii:P49L1
+strong ii:P6L4
+study ii:P33L9
+subcutaneous ii:P48L2, ii:P58L9
+subcutaneously ii:P39L14
+subject ii:P21L3, ii:P27L1
+subjected ii:P29L6
+subjects ii:P22L14
+subsequent ii:P39L8
+subsides ii:P49L3
+substance ii:P68L7
+substances ii:P33L2, ii:P37L3, ii:P39L3
+substances--_antibodies_--are ii:P33L6
+successful ii:P38L5
+successfully ii:P40L1
+such ii:P6L2, ii:P8L1, ii:P15L3, ii:P21L6, ii:P22L10, ii:P23L2, ii:P25L4, ii:P26L1, ii:P27L2, ii:P39L4, ii:P40L2, ii:P46L3, ii:P49L12, ii:P52L3, ii:P57L2, ii:P60L7
+suddenly ii:P37L6
+suffering ii:P25L1
+suffice ii:P43L2
+sufficiency ii:P33L12
+sufficient ii:P22L11, ii:P60L2
+suitable ii:P19L2, ii:P20L1
+sunlight ii:P20L7
+supersensitiveness ii:P36L2, ii:P37L2
+supplemented ii:P68L2
+suppuration ii:P46L12, ii:P49L4, ii:P52L4, ii:P55L5, ii:P61L3, ii:P62L8, ii:P64L5
+suppuration--the ii:P42L2
+suppurations ii:P49L13
+suppurative ii:P16L4, ii:P43L1, ii:P46L2, ii:P55L6, ii:P56L2, ii:P64L8
+surgeon ii:P42L1
+surgery ii:P11L4, ii:P12L1
+surgical ii:P2L1, ii:P3L2, ii:P4L1, ii:P10L1, ii:P11L5, ii:P17L4, ii:P60L4
+surrounded ii:P13L8
+survive ii:P19L5, ii:P20L3
+susceptible ii:P22L6, ii:P33L7
+swelling ii:P36L4
+sycosis ii:P40L3
+symptoms ii:P36L5, ii:P37L6, ii:P61L7
+symptoms--such ii:P28L7
+synonymous ii:P12L2
+synovial ii:P49L14, ii:P55L4
+syphilis ii:P8L4, ii:P18L3, ii:P60L11
+syringes ii:P35L3
+system ii:P58L3
+system--which ii:P28L10
+take ii:P5L10
+taken ii:P5L14, ii:P12L3, ii:P35L1, ii:P46L16, ii:P59L7, ii:P64L8
+takes ii:P16L2, ii:P38L7, ii:P49L7, ii:P50L1
+taking ii:P46L6, ii:P63L2
+temperature ii:P20L1, ii:P28L8, ii:P29L6, ii:P39L9, ii:P62L2
+temperatures ii:P46L9
+ten ii:P20L4
+tenacity ii:P13L10
+tend ii:P4L2, ii:P26L6, ii:P44L1
+tendency ii:P26L3, ii:P49L4, ii:P52L2
+tends ii:P8L3, ii:P29L2
+term ii:P12L1, ii:P16L3, ii:P37L1, ii:P60L8
+tetanus ii:P17L4, ii:P26L1, ii:P28L14
+tetragenus ii:P57L4
+than ii:P5L6, ii:P7L3, ii:P19L6, ii:P21L17, ii:P22L7, ii:P24L2, ii:P34L3, ii:P35L7, ii:P46L9, ii:P47L1, ii:P49L7, ii:P50L2, ii:P57L1
+that ii:P5L6, ii:P11L3, ii:P14L2, ii:P15L3, ii:P16L2, ii:P19L7, ii:P20L2, ii:P21L14, ii:P24L1, ii:P28L2, ii:P29L1, ii:P33L4, ii:P34L1, ii:P35L3, ii:P36L1, ii:P37L3, ii:P38L4, ii:P39L4, ii:P42L2, ii:P43L2, ii:P44L1, ii:P47L2, ii:P49L7, ii:P50L1, ii:P57L2, ii:P60L5, ii:P63L1, ii:P64L7, ii:P66L1
+the ii:P4L1, ii:P5L1, ii:P6L3, ii:P7L1, ii:P8L1, ii:P9L2, ii:P11L1, ii:P12L1, ii:P13L4, ii:P14L3, ii:P15L2, ii:P16L1, ii:P18L2, ii:P19L2, ii:P20L1, ii:P21L3, ii:P22L1, ii:P23L1, ii:P24L1, ii:P25L2, ii:P26L2, ii:P27L1, ii:P28L1, ii:P29L2, ii:P30L3, ii:P31L1, ii:P32L1, ii:P33L2, ii:P34L2, ii:P35L2, ii:P36L3, ii:P37L1, ii:P38L2, ii:P39L2, ii:P40L1, ii:P42L1, ii:P43L1, ii:P44L1, ii:P46L1, ii:P47L1, ii:P49L6, ii:P50L3, ii:P52L2, ii:P53L2, ii:P55L2, ii:P56L3, ii:P57L2, ii:P58L2, ii:P59L1, ii:P60L1, ii:P61L3, ii:P62L1, ii:P63L1, ii:P64L2, ii:P65L1, ii:P66L3, ii:P67L1, ii:P68L1
+their ii:P12L7, ii:P13L10, ii:P14L1, ii:P19L1, ii:P21L12, ii:P24L6, ii:P26L8, ii:P32L3, ii:P49L9, ii:P62L8
+them ii:P5L10, ii:P11L2, ii:P31L3, ii:P32L6
+theme ii:P5L4
+themselves ii:P29L4, ii:P39L5
+therapeutic ii:P5L4
+there ii:P24L1, ii:P26L7, ii:P39L15, ii:P60L9, ii:P61L9, ii:P62L4, ii:P63L6
+therefore ii:P61L6
+these ii:P5L1, ii:P28L6, ii:P32L5, ii:P33L8, ii:P36L5, ii:P38L4, ii:P42L3, ii:P57L5, ii:P64L7
+they ii:P13L10, ii:P15L2, ii:P17L2, ii:P19L3, ii:P21L16, ii:P26L3, ii:P28L1, ii:P30L2, ii:P31L2, ii:P32L4, ii:P35L3, ii:P42L4, ii:P43L2, ii:P57L6
+thin ii:P13L2
+this ii:P5L5, ii:P13L6, ii:P15L6, ii:P18L4, ii:P21L3, ii:P28L12, ii:P29L4, ii:P31L4, ii:P38L7, ii:P39L3, ii:P42L3, ii:P46L12, ii:P52L9, ii:P58L3, ii:P63L4, ii:P64L3, ii:P68L7
+thorax ii:P35L5
+those ii:P12L4, ii:P14L2, ii:P19L7, ii:P22L15, ii:P23L2, ii:P26L1, ii:P28L10, ii:P42L2, ii:P61L2
+thread-like ii:P13L3, ii:P18L1
+three ii:P61L10, ii:P63L2
+throat ii:P49L16
+through ii:P13L4
+throughout ii:P58L3
+thus ii:P14L1, ii:P22L6
+time ii:P30L3, ii:P35L11, ii:P38L8, ii:P49L8
+times ii:P21L10
+tissue ii:P21L7, ii:P22L6, ii:P24L5, ii:P48L2, ii:P52L3, ii:P56L2
+tissues ii:P7L1, ii:P21L13, ii:P22L2, ii:P33L6, ii:P38L4, ii:P46L10, ii:P49L6, ii:P56L4
+tissues--pathogenic ii:P3L1
+to ii:P4L2, ii:P5L12, ii:P8L3, ii:P11L4, ii:P12L2, ii:P13L5, ii:P14L1, ii:P15L6, ii:P17L4, ii:P19L10, ii:P20L1, ii:P21L4, ii:P22L3, ii:P24L7, ii:P25L5, ii:P26L3, ii:P27L2, ii:P28L7, ii:P29L2, ii:P30L1, ii:P31L4, ii:P32L6, ii:P33L7, ii:P35L1, ii:P36L1, ii:P37L1, ii:P38L5, ii:P39L4, ii:P42L4, ii:P43L2, ii:P44L1, ii:P46L9, ii:P49L4, ii:P52L2, ii:P57L1, ii:P58L4, ii:P59L3, ii:P60L2, ii:P61L6, ii:P63L1, ii:P64L7, ii:P65L2, ii:P67L2, ii:P68L6
+too ii:P66L1
+torn ii:P22L6
+tough ii:P13L9
+toxaemia ii:P28L11
+toxic ii:P29L2, ii:P37L6
+toxins ii:P28L6, ii:P33L14, ii:P37L3, ii:P58L7, ii:P61L4
+tract ii:P52L2
+transferred ii:P33L7
+transient ii:P61L13
+transitional ii:P59L10
+treating ii:P33L11
+treatment ii:P33L12, ii:P38L1, ii:P40L1
+treatment._--the ii:P38L1
+trichiniasis ii:P60L7
+tubercle ii:P24L2, ii:P26L4, ii:P57L5
+tuberculosis ii:P5L9, ii:P17L3, ii:P22L14
+tuberculous ii:P24L10, ii:P40L2, ii:P64L5, ii:P68L8
+turn ii:P22L11
+twenty ii:P20L4
+twice ii:P17L1
+two ii:P13L5, ii:P20L6, ii:P21L3, ii:P31L5
+typhoid ii:P27L4, ii:P53L2, ii:P56L3, ii:P64L4, ii:P68L9
+typhosus._--this ii:P56L1
+u ii:P15L1
+ulceration ii:P68L5
+unaccompanied ii:P64L5
+uncomplicated ii:P63L8, ii:P64L6, ii:P68L9
+under ii:P20L6, ii:P21L11, ii:P35L4, ii:P42L4, ii:P49L4, ii:P59L2, ii:P63L11
+understood ii:P5L6, ii:P37L9
+undue ii:P5L1
+unhealthy ii:P7L1
+unknown ii:P28L5
+unless ii:P46L15
+unmixed ii:P68L8
+unsuitable ii:P6L2
+up ii:P19L3, ii:P28L10, ii:P39L3
+upon ii:P21L3, ii:P33L4, ii:P46L14, ii:P59L6, ii:P61L6, ii:P64L7, ii:P66L1
+upper ii:P21L15
+urine ii:P51L1
+urticarial ii:P36L4
+use ii:P35L1, ii:P39L1
+used ii:P5L11, ii:P12L1, ii:P34L4, ii:P38L9, ii:P39L3
+using ii:P39L5
+usually ii:P17L1, ii:P36L6, ii:P52L9, ii:P61L6, ii:P63L6
+vaccine ii:P33L10, ii:P38L1, ii:P39L5, ii:P40L1
+vaccines ii:P38L4, ii:P39L4
+vaccines._--vaccines ii:P39L1
+variable ii:P36L5
+varicose ii:P8L2
+varies ii:P19L7, ii:P21L9, ii:P46L2, ii:P49L1, ii:P59L1
+varieties ii:P13L7, ii:P24L4, ii:P42L1, ii:P44L3
+variety ii:P16L1, ii:P60L3
+various ii:P4L2, ii:P16L4, ii:P29L8, ii:P34L2, ii:P40L1, ii:P55L5, ii:P59L7
+vary ii:P23L3
+varying ii:P21L11, ii:P50L1
+vein ii:P35L9
+veins ii:P8L2
+venous ii:P8L1
+very ii:P49L8
+vicinity ii:P49L9
+view ii:P42L1
+virtue ii:P13L3, ii:P31L2
+virulence ii:P21L9, ii:P22L1, ii:P24L6, ii:P46L3, ii:P49L2, ii:P61L4
+virulent ii:P65L1
+virus ii:P33L5
+vital ii:P28L1
+vitality ii:P22L4, ii:P46L8, ii:P52L3
+want ii:P3L1, ii:P19L5, ii:P29L6
+was ii:P5L4
+wasting ii:P25L1
+water ii:P19L6
+watery ii:P68L2
+wavy ii:P14L3, ii:P18L2
+way ii:P12L5, ii:P15L3, ii:P29L4
+we ii:P14L2, ii:P43L3
+week ii:P63L9
+weeks ii:P35L11
+well ii:P5L7, ii:P32L3, ii:P39L11, ii:P58L1
+when ii:P8L2, ii:P15L3, ii:P16L2, ii:P21L14, ii:P28L6, ii:P33L7, ii:P34L3, ii:P37L4, ii:P38L6, ii:P46L6, ii:P59L4, ii:P60L9, ii:P61L7
+whenever ii:P66L2
+where ii:P28L1
+which ii:P1L1, ii:P4L2, ii:P12L3, ii:P15L4, ii:P19L3, ii:P25L3, ii:P26L3, ii:P28L3, ii:P29L7, ii:P30L2, ii:P31L6, ii:P32L4, ii:P33L2, ii:P34L1, ii:P35L3, ii:P36L5, ii:P37L2, ii:P39L15, ii:P44L1, ii:P46L15, ii:P49L3, ii:P52L1, ii:P53L1, ii:P57L3, ii:P58L4, ii:P60L3, ii:P61L6
+while ii:P19L10, ii:P38L2, ii:P39L1, ii:P44L2, ii:P62L3
+white ii:P47L3
+whitish ii:P50L3
+whose ii:P22L2, ii:P52L3
+widely ii:P42L4, ii:P46L3
+will ii:P20L4, ii:P39L8, ii:P43L1, ii:P57L5, ii:P66L1, ii:P67L1
+with ii:P1L1, ii:P5L9, ii:P6L1, ii:P7L3, ii:P11L2, ii:P12L2, ii:P13L6, ii:P16L4, ii:P18L3, ii:P21L1, ii:P22L7, ii:P25L3, ii:P28L9, ii:P29L3, ii:P33L12, ii:P36L2, ii:P39L9, ii:P42L4, ii:P49L9, ii:P52L3, ii:P53L1, ii:P54L2, ii:P55L1, ii:P57L6, ii:P58L2, ii:P61L1, ii:P62L8, ii:P68L2
+within ii:P63L2
+without ii:P19L11, ii:P49L4
+work--_rest ii:P5L5
+would ii:P29L1, ii:P49L10
+wounds ii:P4L1, ii:P6L1, ii:P8L3, ii:P9L3, ii:P46L16, ii:P52L8
+wright ii:P38L1
+x ii:P45L2, ii:P48L2, ii:P51L2, ii:P54L2
+year ii:P63L11
+years ii:P22L16
+yet ii:P37L9
+young ii:P22L13

@@ -1,0 +1,464 @@
+*are x:P9L1
+a x:P1L1, x:P3L3, x:P4L1, x:P5L2, x:P6L15, x:P8L1, x:P12L6, x:P14L4, x:P15L2, x:P16L4, x:P17L2
+able x:P14L1
+about x:P3L9, x:P13L2, x:P15L7
+above x:P13L8
+acquaintance x:P5L2
+act x:P13L1
+added x:P8L5
+addressing x:P5L1
+after x:P14L1
+again x:P11L5, x:P12L1, x:P17L4
+against x:P1L3
+agitated x:P13L4
+agreeably x:P3L8
+air x:P1L1
+all x:P5L4, x:P6L15, x:P7L4, x:P12L3, x:P14L3, x:P15L9, x:P16L1, x:P17L3
+alone x:P15L10
+always x:P6L8
+am x:P15L1, x:P17L1, 0:P1L2
+among x:P3L7
+an x:P5L2, x:P10L2
+anatole x:P1L2, x:P2L2, x:P3L2, x:P7L5, x:P12L1, x:P13L6
+anatole's x:P7L1
+and x:P1L2, x:P3L2, x:P4L1, x:P5L1, x:P6L2, x:P7L2, x:P8L4, x:P10L3, x:P11L2, x:P12L1, x:P13L2, x:P14L2, x:P15L5, x:P16L2, x:P17L1
+andrew x:P14L3, x:P17L6
+andrew's seven:P1L1, x:P17L1
+angry x:P11L1
+another x:P6L13
+answer x:P6L16
+any x:P6L13, x:P10L1
+anyone x:P1L3
+are x:P5L2
+arm x:P6L11, x:P13L2, x:P17L12
+arms x:P6L2
+as x:P3L3, x:P5L1, x:P6L14, x:P7L5, x:P8L6, x:P10L3, x:P11L5, x:P12L6, x:P13L5
+ask x:P17L2
+asked x:P4L1, x:P7L3, x:P11L1, x:P17L1
+asking x:P6L14
+at x:P3L2, x:P4L1, x:P5L4, x:P6L4, x:P7L2, x:P8L1, x:P13L9, x:P14L3, x:P16L1, x:P17L3
+away x:P6L10, x:P10L3
+awkward x:P7L1
+back x:P12L2
+ball x:P3L5
+bare x:P3L2, x:P6L2
+bare-legged x:P15L6
+barrier x:P6L8, x:P11L6
+be x:P5L3, x:P8L5, x:P16L3
+because x:P8L1
+bed x:P16L1
+been x:P6L13
+before x:P12L3
+behind x:P6L11, x:P10L5
+belonging x:P12L6
+below x:P13L3
+beside x:P3L3
+betrothed x:P12L5
+between x:P6L8, x:P11L6
+blushed x:P7L4
+boards x:P13L2, x:P15L7
+bold seven:P4L1, x:P17L12
+boldly x:P3L7
+bouquet x:P8L5
+box x:P1L1, x:P12L1
+bravo!"--there x:P15L9
+break x:P7L3
+brother x:P2L1
+brush x:P1L2
+but x:P3L10, x:P6L6, x:P8L2, x:P10L2, x:P12L4, x:P15L3, x:P17L6
+by x:P3L8, x:P6L3, x:P7L4, x:P15L10, x:P16L4
+called x:P13L6
+calm x:P15L8
+calmly x:P7L2
+came x:P1L1, x:P13L6
+can x:P17L6
+carriage x:P13L6
+caught x:P6L5
+cause x:P13L4
+ce x:P8L2
+certain x:P6L2
+chapter 0:P1L2
+cheerful x:P3L10
+clear x:P15L9
+clearly x:P14L1
+close x:P3L3, x:P10L5
+closer x:P6L13
+cold x:P1L1
+come x:P5L4, x:P6L9, x:P8L3
+confession x:P16L4
+confused x:P11L1
+conscience x:P15L12
+constrained x:P6L4
+contrary x:P3L10
+conversation x:P6L15, x:P17L11
+costume x:P5L2, x:P8L4
+could x:P11L2, x:P13L5, x:P15L1, x:P16L1
+countess x:P5L1, x:P8L4, x:P16L1
+country x:P12L5
+cried x:P15L8
+curtain x:P12L1
+dark x:P15L4
+dear x:P8L6
+devil x:P13L1
+did x:P6L9, x:P8L1, x:P10L1, x:P12L6, x:P17L2
+didn't x:P17L3
+disappeared x:P13L3
+distance x:P3L3
+do x:P5L1, x:P8L4
+doing x:P7L5, x:P11L5
+done x:P17L3
+door x:P1L2
+down x:P3L3, x:P4L2, x:P13L3, x:P14L3
+dropping x:P8L5
+duport x:P15L6
+during x:P1L1, x:P7L1
+eh x:P5L4
+either x:P15L3, x:P16L3
+elbow x:P13L8
+elegant x:P3L1
+encourage x:P7L5
+engaged x:P6L15
+enormous x:P15L5
+enraptured x:P6L3
+entered x:P1L2
+entr'acte x:P1L1
+ever x:P6L13
+everything x:P15L4
+exclamation x:P14L4
+eye x:P6L6
+eyes x:P2L1, x:P6L1, x:P7L2, x:P11L3, x:P13L9
+face x:P6L1, x:P15L2, x:P17L11
+fact x:P3L5
+fallen x:P4L2
+familiar x:P5L2
+father x:P6L14, x:P12L2
+father's x:P6L16
+feared x:P6L11
+feel x:P6L3
+feeling x:P15L12, x:P16L2
+felt x:P6L4, x:P7L4, x:P10L2, x:P11L5, x:P13L4, x:P15L4
+femmes,* x:P8L2
+first x:P8L1
+five x:P6L9
+fixedly x:P7L2
+flower x:P8L6
+flushed x:P13L8, x:P14L4, x:P15L2
+fool x:P17L2
+for x:P6L2, x:P15L2, x:P17L1
+former x:P17L9
+formidable x:P3L9
+found x:P12L3
+fourth x:P13L1
+frightened x:P6L7
+from x:P2L2, x:P6L1, x:P11L2, x:P13L2
+fun x:P5L3
+gave x:P14L4
+gay x:P12L1
+gazing x:P7L2, x:P11L5
+general x:P6L15
+gestures x:P15L7, x:P17L11
+getting x:P5L2
+give x:P8L6
+glad x:P6L17
+glittering x:P13L9
+gnawing x:P15L12
+god x:P15L1, x:P17L6
+going x:P12L3
+good x:P6L17
+good-natured x:P11L4
+good-natured.kuragin x:P3L11
+great x:P5L3
+had x:P3L4, x:P4L2, x:P6L8, x:P10L2, x:P14L1, x:P15L3, x:P17L9
+hand x:P8L4, x:P12L4
+hands x:P15L2
+handsome x:P3L3, x:P17L12
+happen x:P17L2
+happened x:P14L2, x:P15L3, x:P17L5
+happiness--ever x:P3L4
+has x:P17L5
+have x:P3L4, x:P16L1, x:P17L3
+having x:P6L17
+he x:P3L4, x:P5L1, x:P6L1, x:P7L3, x:P8L3, x:P10L1, x:P11L1, x:P13L2, x:P17L7, seven:P1L1, seven:P3L1, seven:P4L2
+head x:P3L1
+heard x:P10L4
+helene x:P2L1, x:P6L14, x:P15L8
+helene's x:P1L1
+help x:P13L5
+helped x:P13L7
+her x:P2L1, x:P3L1, x:P4L1, x:P5L1, x:P6L1, x:P7L2, x:P8L3, x:P10L5, x:P11L4, x:P12L2, x:P13L7, x:P14L2, x:P15L2, x:P16L2, x:P17L8
+here x:P17L7
+hers x:P6L6
+herself x:P6L8, x:P11L2, x:P12L3, x:P15L1, x:P16L5, x:P17L1
+hiding x:P15L2
+him x:P3L2, x:P6L4, x:P7L3, x:P11L6, x:P13L2, x:P15L1, x:P17L3
+himself x:P10L2
+his x:P3L10, x:P6L1, x:P8L4, x:P10L2, x:P11L3, x:P13L1
+home x:P14L1
+horrified x:P14L3, x:P16L3
+horror x:P11L6
+how x:P4L1, x:P6L9, x:P7L3, x:P11L1, x:P15L1
+i x:P8L1, x:P11L1, x:P15L1, x:P17L1, 0:P1L2
+i'm x:P6L17
+if x:P6L14, x:P10L3, x:P12L6
+illuminated x:P15L5
+imagination x:P17L10
+improper x:P7L5, x:P10L3
+in x:P3L5, x:P5L3, x:P6L15, x:P12L2, x:P13L1, x:P15L2, x:P16L1, x:P17L10
+incomprehensible x:P10L2, x:P15L10
+indeed x:P8L3
+instinct x:P17L8
+intention x:P10L3
+into x:P1L1, x:P6L6, x:P11L3
+introduce x:P2L1
+involuntarily x:P6L5
+irony x:P17L2
+is x:P11L1, x:P15L11, x:P17L5
+isn't x:P8L2, x:P17L7
+it x:P5L3, x:P6L9, x:P8L1, x:P11L1, x:P15L9, x:P16L3, x:P17L5
+jacket x:P15L6
+jolies x:P8L2
+jumped x:P15L6
+just x:P11L4
+karagins x:P5L4
+kept x:P6L14
+kiss x:P6L11
+knew x:P6L2, x:P16L2
+know x:P5L1, x:P6L9, x:P10L3, x:P17L4
+kuragin seven:P1L1, seven:P2L1, seven:P3L1, seven:P4L1, x:P3L6, x:P4L1, x:P10L5, x:P13L5, x:P17L11
+kurgin seven:P4L2
+lay x:P11L6
+lead x:P17L3
+leaving x:P13L6
+left x:P12L1
+les x:P8L2
+let x:P2L1, x:P15L1
+life x:P12L5
+like x:P8L1
+liked x:P7L3
+little x:P3L1
+long x:P3L4, x:P15L2
+look x:P6L4, x:P8L3, x:P11L2, x:P13L8
+lost x:P15L1
+loud x:P14L4
+love seven:P1L1, seven:P3L1, seven:P4L2, x:P17L1
+made x:P6L3, x:P8L1
+man x:P3L9, x:P6L10, x:P17L12
+mary x:P12L5
+me x:P2L1, x:P8L6, x:P17L3
+meant x:P6L15
+meet x:P5L4
+men x:P3L7, x:P6L9, x:P15L7
+might x:P6L11
+mind x:P12L6
+minutes x:P6L9
+modesty x:P6L8
+moment x:P17L7
+moments x:P7L1
+more x:P3L6, x:P10L1
+moscow x:P7L3
+most x:P3L10, x:P6L12
+much x:P3L6, x:P8L1
+music x:P15L7
+my x:P2L1
+naive x:P3L10
+naked x:P15L8
+naryshkins x:P3L5
+natasha x:P2L2, x:P3L1, x:P6L2, x:P7L2, x:P10L1, x:P12L2, x:P13L4, x:P14L1, x:P16L1, x:P17L7
+natural x:P12L4
+naturally x:P3L7
+nearness x:P6L10, x:P11L3, x:P15L8
+neck x:P6L2
+never x:P6L1, x:P17L4
+night x:P16L1
+no x:P3L9, x:P5L4, x:P6L16, x:P11L6, x:P17L3
+not x:P1L2, x:P6L4, x:P8L1, x:P10L1, x:P11L2, x:P12L6, x:P13L5, x:P16L3, x:P17L1
+now x:P8L2, x:P11L1, x:P12L2, x:P15L10
+o x:P15L1, x:P17L6
+obscure x:P15L5
+of x:P1L1, x:P3L6, x:P4L1, x:P6L8, x:P7L1, x:P11L4, x:P12L5, x:P13L1, x:P14L4, x:P15L9, x:P17L6
+officer x:P3L2
+old x:P5L2, x:P15L7, x:P16L1
+on x:P3L10, x:P4L2, x:P6L12, x:P12L3, x:P15L7, x:P17L3
+once x:P12L6
+one x:P6L13, x:P7L1
+only x:P13L3, x:P14L1, x:P16L1
+opened x:P1L2
+opera x:P14L4
+opinion x:P4L1
+oppressed x:P6L4
+other x:P6L8, x:P12L2, x:P15L4, x:P16L3, x:P17L1
+ought x:P5L3, x:P11L1
+out x:P8L4, x:P14L4
+over x:P3L2, x:P14L2, x:P17L10
+part x:P5L3, x:P13L3
+past x:P12L7
+penguin 0:P1L1
+performance x:P4L1
+perished x:P17L10
+plain x:P17L5
+pleasant x:P3L6, x:P5L4, x:P6L3, x:P8L1
+pledge x:P8L7
+potato 0:P1L1
+presence x:P6L3, x:P15L9
+prettiest x:P8L6
+pretty x:P3L1, x:P9L1
+previous x:P4L2, x:P12L4
+prince x:P14L2, x:P17L9
+princess x:P12L5
+prominent x:P7L2
+proud x:P15L8
+purity x:P17L9
+quack 0:P1L1
+quarters x:P3L3
+question x:P7L4
+quieted x:P17L7
+ran x:P14L4
+rapturously x:P15L8
+reached x:P14L1
+realize x:P15L3
+realizing x:P6L7
+really x:P5L4
+recur x:P12L6
+refrain x:P11L2
+remark x:P10L4
+remembering x:P14L2
+remote x:P12L6
+removed x:P6L1
+repent x:P17L6
+replied x:P17L2
+right x:P11L1
+room x:P14L5
+rose x:P12L1
+round x:P11L2, x:P13L8
+said x:P2L1, x:P5L1, x:P6L16, x:P8L3, x:P15L1
+sang x:P13L1
+sat x:P3L3, x:P14L3, x:P15L2
+saw x:P13L4, x:P17L11
+say x:P10L3
+saying x:P6L1, x:P10L1
+says 0:P1L1
+see x:P17L4
+seeing x:P3L6
+seemed x:P12L4, x:P15L4
+seize x:P6L11
+self-assurance x:P11L3
+semenova x:P4L2
+sensible x:P3L6
+serene x:P12L1
+severe x:P16L2
+shall x:P5L4, x:P17L4
+she x:P6L4, x:P7L3, x:P10L2, x:P11L1, x:P12L3, x:P13L4, x:P14L1, x:P15L1, x:P16L2, x:P17L1
+shifting x:P2L1
+should x:P6L6
+shoulder x:P3L2
+shoulders x:P6L5
+significantly x:P8L3
+silence x:P7L1
+simple x:P3L6, x:P15L10, x:P16L2
+since x:P3L4
+smile x:P3L10, x:P11L4, x:P15L8, x:P17L12
+smiled x:P3L2, x:P7L5, x:P11L4
+smiling x:P6L1, x:P13L9
+so x:P3L9, x:P6L6, x:P8L2, x:P10L5, x:P16L4, x:P17L5
+solve x:P16L4
+some x:P13L1, x:P17L7
+something x:P7L5
+sont x:P8L2
+sonya x:P16L2
+soon x:P10L4
+soothing x:P17L2
+sort x:P13L1
+spoiled x:P17L1
+spoke x:P6L12
+stage x:P4L2
+still x:P17L6
+stooping x:P1L2
+straight x:P11L3
+strangely x:P3L8
+struck x:P3L8
+submissive x:P12L2
+such x:P16L4
+suddenly x:P5L1, x:P14L2
+take x:P5L3
+talk x:P3L9
+talked x:P3L7
+talking x:P7L4
+tea x:P14L3
+tender x:P17L12
+tenderly x:P13L9
+tenderness x:P11L4
+terrible x:P15L5
+terribly x:P6L10
+terror x:P15L11
+text 0:P1L2
+than x:P3L7, x:P6L6, x:P10L1
+that x:P3L8, x:P6L2, x:P7L4, x:P8L2, x:P10L2, x:P11L6, x:P12L3, x:P13L3, x:P15L5, x:P16L2, x:P17L2
+the x:P1L1, x:P3L1, x:P4L1, x:P5L4, x:P6L12, x:P7L3, x:P8L3, x:P9L1, x:P11L3, x:P12L1, x:P13L1, x:P14L4, x:P15L6, x:P16L1, x:P17L9, 0:P1L1
+theater x:P13L6, x:P15L5
+their x:P13L6
+them x:P13L6
+there x:P3L8, x:P6L7, x:P8L6, x:P10L5, x:P13L1, x:P15L5, x:P17L5
+these x:P7L1
+they x:P6L12, x:P13L5
+things x:P6L12
+think x:P14L1
+this x:P3L4, x:P6L1, x:P8L6, x:P13L5, x:P15L11, x:P17L8
+though x:P7L5, x:P17L8
+thought x:P15L12
+thoughts x:P12L5
+till x:P13L2
+time x:P6L17, x:P7L4, x:P15L2
+tinsel-decorated x:P15L6
+to x:P1L2, x:P2L1, x:P3L4, x:P5L3, x:P6L10, x:P7L2, x:P8L3, x:P10L3, x:P11L1, x:P12L2, x:P13L6, x:P14L1, x:P15L1, x:P16L1, x:P17L2
+told x:P3L4, x:P4L1, x:P16L1, x:P17L4
+tormented x:P13L4
+torturing x:P16L4
+tournament x:P5L3, x:P8L4
+toward x:P3L1
+town x:P8L1
+tried x:P16L4
+true x:P17L8
+trying x:P1L2, x:P15L2
+turned x:P3L1, x:P6L10, x:P10L3, x:P13L8
+turning x:P6L14, x:P11L2
+unable x:P15L3
+under x:P13L2
+understand x:P10L1, x:P15L4, x:P16L3
+uneasily x:P2L2
+up x:P5L2, x:P13L6
+vanquished x:P11L4
+very x:P8L2
+views x:P16L3
+voice x:P8L5
+was x:P3L2, x:P6L2, x:P7L5, x:P10L1, x:P11L5, x:P12L3, x:P13L1, x:P14L1, x:P15L3, x:P16L2, x:P17L8
+watching x:P13L5
+waving x:P13L1
+we x:P5L2
+well x:P6L17
+well-remembered x:P3L5
+went x:P12L2, x:P17L10
+were x:P6L13, x:P7L2, x:P12L6, x:P13L2
+wet x:P15L7
+what x:P6L14, x:P8L1, x:P10L1, x:P14L2, x:P15L3, x:P16L4, x:P17L2
+when x:P6L4, x:P7L1, x:P17L12
+where x:P15L6
+which x:P3L5, x:P14L3
+whiff x:P1L1
+while x:P6L1
+who x:P3L2, x:P13L1
+whole x:P17L10
+whom x:P3L9, x:P13L5
+why x:P17L6
+will x:P5L3, x:P8L5, x:P17L4
+wished x:P3L4
+with x:P3L6, x:P6L15, x:P11L6, x:P13L9, x:P15L8, x:P16L2, x:P17L1
+withdrawn x:P13L2
+within x:P6L9
+women x:P3L7, x:P9L1
+words x:P10L2
+world x:P12L3
+would x:P16L3
+yet x:P6L3, x:P17L9
+you x:P2L1, x:P5L1, x:P8L5
+you'll x:P8L3
+young x:P3L1, x:P15L7

@@ -1,0 +1,1104 @@
+1858 i:P62L1
+1888--i i:P3L1
+abandoned i:P2L1
+abhorrent i:P1L1
+able i:P55L1
+about i:P95L1
+absolute i:P47L1
+absolutely i:P89L1, i:P110L1
+absorb i:P2L1
+accent i:P43L1
+accomplished i:P2L1
+account i:P2L1, i:P22L1, i:P33L1
+accustomed i:P58L1
+acquaintance i:P60L1
+across i:P4L1, i:P42L1
+actions i:P1L1
+active i:P12L1
+activity i:P2L1
+added i:P120L1
+address i:P21L1, i:P43L1, i:P44L1, i:P45L1, i:P116L1
+addressing i:P57L1
+adjusted i:P1L1, i:P42L1
+adler i:P1L1, i:P60L1, i:P98L1
+admirable i:P1L1
+admirably i:P1L1
+admit i:P1L1
+adopted i:P61L1
+adventuress i:P60L1
+advise i:P55L1
+afternoon i:P120L1
+again i:P3L1, i:P7L1, i:P10L1
+against i:P3L1, i:P34L1
+agent i:P50L1, i:P54L1, i:P58L1
+agitation i:P56L1
+ago i:P10L1, i:P60L1
+akin i:P1L1, i:P42L1
+all i:P1L1, i:P2L1, i:P22L1, i:P27L1, i:P31L1, i:P33L1, i:P61L1, i:P107L1
+almost i:P12L1
+alone i:P45L1
+aloud i:P20L1
+also i:P53L1
+alternating i:P2L1
+always i:P1L1, i:P3L1, i:P13L1
+am i:P13L1, i:P33L1, i:P37L1, i:P56L1, i:P58L1, i:P81L1, i:P95L1, i:P101L1
+ambition i:P2L1
+amiss i:P22L1
+among i:P2L1
+an i:P4L1, i:P12L1, i:P14L1, i:P22L1, i:P27L1, i:P47L1, i:P52L1, i:P58L1, i:P78L1, i:P97L1
+and i:P1L1, i:P2L1, i:P3L1, i:P4L1, i:P5L1, i:P7L1, i:P9L1, i:P10L1, i:P11L1, i:P12L1, i:P13L1, i:P14L1, i:P20L1, i:P21L1, i:P22L1, i:P25L1, i:P26L1, i:P28L1, i:P31L1, i:P33L1, i:P34L1, i:P35L1, i:P37L1, i:P39L1, i:P40L1, i:P42L1, i:P43L1, i:P44L1, i:P45L1, i:P46L1, i:P49L1, i:P50L1, i:P52L1, i:P53L1, i:P54L1, i:P56L1, i:P57L1, i:P58L1, i:P61L1, i:P62L1, i:P83L1, i:P92L1, i:P98L1, i:P99L1, i:P102L1, i:P112L1, i:P113L1, i:P114L1, i:P115L1, i:P116L1, i:P120L1
+another i:P99L1
+answered i:P6L1, i:P14L1
+anxiety i:P107L1
+anything i:P46L1
+apiece i:P35L1
+apparent i:P54L1
+apparently i:P42L1
+appearance i:P42L1
+appeared i:P42L1
+appears i:P13L1
+are i:P13L1, i:P18L1, i:P20L1, i:P22L1, i:P31L1, i:P37L1, i:P52L1, i:P56L1, i:P60L1, i:P99L1, i:P100L1, i:P114L1
+armchair i:P4L1, i:P14L1, i:P39L1, i:P53L1
+around i:P2L1
+as i:P1L1, i:P2L1, i:P3L1, i:P10L1, i:P12L1, i:P13L1, i:P31L1, i:P34L1, i:P42L1, i:P43L1, i:P45L1, i:P54L1, i:P62L1, i:P97L1, i:P104L1, i:P108L1, i:P120L1
+asked i:P29L1, i:P43L1, i:P116L1
+associated i:P3L1
+astrakhan i:P42L1
+at i:P2L1, i:P3L1, i:P13L1, i:P22L1, i:P27L1, i:P31L1, i:P34L1, i:P42L1, i:P47L1, i:P50L1, i:P54L1, i:P61L1, i:P104L1, i:P105L1, i:P120L1
+atkinson i:P2L1
+attempt i:P56L1
+attempts i:P87L1
+attention i:P2L1, i:P39L1
+attitude i:P3L1
+attracted i:P2L1
+august i:P50L1
+authenticity i:P68L1
+authoritative i:P40L1
+avenue i:P117L1
+aware i:P51L1, i:P53L1, i:P57L1
+away i:P2L1
+back i:P46L1, i:P62L1
+bad i:P42L1, i:P78L1
+baffled i:P13L1
+bag i:P113L1
+baker i:P2L1, i:P3L1
+balanced i:P1L1
+bands i:P42L1
+barbaric i:P42L1
+be i:P1L1, i:P3L1, i:P12L1, i:P13L1, i:P20L1, i:P22L1, i:P26L1, i:P37L1, i:P42L1, i:P47L1, i:P50L1, i:P52L1, i:P55L1, i:P82L1, i:P84L1, i:P95L1, i:P103L1, i:P107L1, i:P120L1
+beauties i:P35L1
+beautiful i:P99L1
+became i:P62L1
+because i:P20L1, i:P103L1
+been i:P2L1, i:P3L1, i:P9L1, i:P10L1, i:P12L1, i:P20L1, i:P40L1, i:P42L1, i:P54L1, i:P87L1
+before i:P4L1, i:P24L1, i:P46L1, i:P57L1
+begin i:P47L1
+begins i:P24L1
+behind i:P3L1
+being i:P31L1
+believe i:P13L1
+bell i:P3L1, i:P34L1
+beryl i:P42L1
+best i:P39L1
+betrothal i:P103L1
+better i:P36L1, i:P55L1
+between i:P2L1, i:P61L1
+beyond i:P2L1
+binding i:P47L1
+biography i:P61L1
+bit i:P37L1
+black i:P12L1, i:P42L1
+blackmailing i:P68L1
+blanche i:P109L1
+blind i:P3L1
+blue i:P31L1, i:P42L1
+bohemia i:P31L1, i:P32L1, i:P52L1, i:P57L1
+bohemian i:P2L1, i:P33L1, i:P45L1
+books i:P2L1
+boot-slitting i:P12L1
+boots i:P42L1
+born i:P62L1
+boswell i:P37L1
+both i:P20L1, i:P46L1, i:P47L1, i:P77L1
+bought i:P26L1, i:P76L1, i:P84L1
+boy i:P31L1
+briefly i:P60L1
+brilliantly i:P3L1
+bring i:P97L1
+briony i:P117L1
+broad i:P47L1
+broad-brimmed i:P42L1
+brooch i:P42L1
+brothers i:P2L1
+brougham i:P35L1, i:P120L1
+brown i:P31L1, i:P42L1
+bulge i:P12L1
+burglars i:P87L1
+buried i:P2L1
+burned i:P10L1
+business i:P58L1
+but i:P1L1, i:P4L1, i:P10L1, i:P14L1, i:P24L1, i:P38L1, i:P46L1, i:P58L1, i:P63L1, i:P81L1, i:P91L1, i:P94L1, i:P99L1
+by i:P2L1, i:P12L1, i:P20L1, i:P33L1, i:P34L1, i:P35L1, i:P42L1, i:P46L1, i:P47L1, i:P50L1
+cabinet i:P118L1
+call i:P22L1, i:P43L1, i:P120L1
+called i:P50L1
+calves i:P42L1
+came i:P10L1, i:P20L1
+can i:P22L1, i:P58L1
+can't i:P10L1
+capital i:P24L1
+carefully i:P25L1
+careless i:P9L1
+carelessly i:P12L1
+carlsbad i:P31L1
+carried i:P42L1
+carte i:P109L1
+case i:P2L1, i:P4L1, i:P35L1, i:P55L1, i:P61L1
+cases i:P44L1
+cassel-felstein i:P57L1
+caught i:P46L1
+caused i:P12L1
+centuries i:P10L1
+certainly i:P10L1, i:P105L1
+certificates i:P66L1
+chair i:P46L1, i:P56L1
+chamber i:P3L1, i:P22L1
+chamois i:P113L1
+changed i:P10L1
+character i:P42L1
+chat i:P120L1
+cheekbones i:P42L1
+chest i:P3L1, i:P42L1
+chin i:P42L1
+chronicle i:P20L1
+chuckled i:P11L1
+cigarette i:P14L1, i:P31L1
+cigars i:P4L1
+circumstances i:P52L1
+civil i:P3L1
+clasped i:P3L1
+clear i:P14L1
+clearing i:P2L1
+client i:P38L1, i:P54L1
+cloak i:P42L1, i:P113L1
+closing i:P53L1
+clothes i:P10L1
+clotilde i:P97L1
+cloud i:P31L1
+clues i:P2L1
+clumsy i:P9L1
+co i:P31L1
+coat i:P42L1
+cocaine i:P2L1
+cold i:P1L1
+colleague i:P44L1
+come i:P41L1, i:P58L1
+comes i:P33L1, i:P39L1
+committed i:P78L1
+communicate i:P45L1
+companion i:P2L1
+companion's i:P26L1
+company i:P31L1
+complete i:P2L1
+completed i:P42L1
+compromise i:P52L1
+compromised i:P80L1
+compromising i:P62L1
+conceal i:P56L1
+concerning i:P61L1
+condescend i:P55L1
+conduct i:P97L1
+confess i:P50L1
+confide i:P58L1
+consisted i:P42L1
+construction i:P33L1
+consult i:P22L1, i:P59L1
+consulting i:P58L1
+continental i:P31L1
+continued i:P35L1, i:P50L1
+contraction i:P31L1
+contralto--hum i:P62L1
+corner i:P4L1
+could i:P13L1, i:P26L1, i:P33L1, i:P42L1, i:P58L1, i:P61L1
+count i:P45L1, i:P47L1, i:P105L1
+country i:P10L1
+country--in i:P31L1
+course i:P31L1, i:P104L1
+crack i:P1L1
+cried i:P56L1
+crime i:P2L1
+crown i:P26L1, i:P81L1
+crusted i:P12L1
+curb i:P34L1
+customary i:P31L1
+cuts i:P12L1
+daily i:P2L1
+dark i:P3L1
+data i:P24L1
+daughter i:P97L1
+day i:P103L1
+days i:P104L1
+dear i:P10L1, i:P78L1
+death i:P31L1
+deduce i:P9L1, i:P10L1, i:P24L1
+deduction i:P12L1, i:P13L1
+deep i:P42L1, i:P43L1
+deep-sea i:P61L1
+deepest i:P22L1
+deeply i:P2L1
+delicacy i:P52L1, i:P97L1
+delicate i:P1L1, i:P58L1
+delicately i:P2L1
+depicted i:P54L1
+desire i:P3L1
+desires i:P22L1
+desirous i:P62L1
+desperation i:P56L1
+did i:P7L1, i:P28L1
+difficult i:P61L1
+discover i:P33L1
+discretion i:P45L1
+distinction i:P14L1
+distracting i:P1L1
+disturbing i:P1L1
+diverted i:P87L1
+do i:P8L1, i:P9L1, i:P12L1, i:P13L1, i:P14L1, i:P22L1, i:P23L1, i:P24L1, i:P26L1, i:P29L1, i:P31L1, i:P33L1, i:P92L1, i:P99L1, i:P107L1
+docketing i:P61L1
+doctor i:P37L1, i:P39L1, i:P61L1
+does i:P92L1
+doing i:P58L1
+doings i:P2L1
+don't i:P19L1
+donna i:P62L1
+door i:P3L1, i:P40L1
+double i:P12L1
+double-breasted i:P42L1
+doubt i:P1L1, i:P30L1, i:P54L1, i:P60L1, i:P97L1
+doubts i:P33L1
+down i:P14L1, i:P31L1, i:P39L1, i:P42L1, i:P53L1, i:P56L1, i:P58L1, i:P120L1
+dr i:P44L1
+drawing i:P1L1
+dreadful i:P10L1
+dreams i:P3L1
+dress i:P42L1
+drifted i:P2L1
+drop i:P106L1
+drowsiness i:P2L1
+drug i:P2L1
+drug-created i:P3L1
+dryly i:P51L1
+dubious i:P1L1
+duke i:P57L1
+dull i:P12L1
+during i:P60L1
+e i:P28L1
+each i:P2L1, i:P13L1
+eagerly i:P3L1
+ease i:P13L1
+easily i:P13L1
+eclipses i:P1L1
+edges i:P12L1
+effusive i:P4L1
+eg i:P31L1
+eglonitz--here i:P31L1
+eglow i:P31L1
+egria i:P31L1
+eight i:P22L1
+either i:P21L1
+else i:P35L1
+emotion i:P1L1
+emotions i:P1L1
+employing i:P3L1
+employs i:P50L1
+end i:P47L1, i:P97L1
+endeavouring i:P26L1
+energetic i:P54L1
+energy i:P2L1
+england i:P42L1
+english i:P27L1
+enough i:P20L1, i:P44L1, i:P120L1
+entangled i:P62L1
+entered i:P42L1
+establishment i:P2L1
+europe i:P22L1, i:P52L1, i:P54L1
+european i:P47L1
+even i:P3L1
+ever i:P2L1
+every i:P2L1, i:P3L1, i:P52L1
+exactly i:P50L1
+exaggerated i:P22L1
+examined i:P25L1
+example i:P14L1
+excuse i:P50L1
+expenses i:P112L1
+experiences i:P20L1
+explain i:P13L1
+explained i:P13L1
+extended i:P42L1
+extending i:P42L1
+extraordinary i:P2L1, i:P3L1
+extreme i:P45L1
+eye i:P4L1
+eyes i:P1L1, i:P12L1, i:P13L1, i:P31L1, i:P53L1, i:P54L1, i:P59L1, i:P61L1
+face i:P33L1, i:P42L1, i:P56L1, i:P99L1
+factor i:P1L1
+facts i:P24L1, i:P60L1
+faculties i:P2L1
+fail i:P10L1, i:P68L1
+failed i:P83L1
+false i:P1L1
+familiar i:P60L1
+families i:P52L1
+family i:P2L1, i:P97L1
+fancy i:P7L1
+far i:P31L1
+fashion i:P4L1
+feet i:P42L1
+felt i:P1L1
+few i:P10L1
+fierce i:P2L1
+fifty i:P35L1
+figure i:P3L1, i:P54L1
+finally i:P2L1
+find i:P105L1
+finds i:P2L1
+finely i:P1L1
+fire i:P4L1
+firelight i:P12L1
+first i:P2L1
+fishes i:P61L1
+five i:P60L1, i:P87L1
+flame-coloured i:P42L1
+flaming i:P42L1
+follow i:P68L1
+followed i:P34L1
+following i:P2L1
+for i:P1L1, i:P2L1, i:P3L1, i:P14L1, i:P31L1, i:P42L1, i:P47L1, i:P58L1, i:P61L1, i:P68L1, i:P104L1, i:P112L1, i:P120L1
+forefinger i:P12L1
+forehead i:P58L1
+forgery i:P70L1
+form i:P2L1
+former i:P2L1
+formerly i:P3L1
+fortunate i:P104L1
+found i:P61L1
+frenchman i:P33L1
+frequently i:P14L1, i:P15L1
+friend i:P2L1, i:P44L1, i:P45L1
+from i:P1L1, i:P2L1, i:P3L1, i:P12L1, i:P14L1, i:P22L1, i:P24L1, i:P31L1, i:P33L1, i:P42L1, i:P43L1, i:P56L1, i:P58L1, i:P62L1, i:P113L1
+fronts i:P42L1
+fur i:P42L1
+furnish i:P61L1
+g i:P28L1, i:P31L1
+gasogene i:P4L1
+gazetteer i:P31L1
+gentleman i:P12L1, i:P22L1, i:P45L1, i:P46L1
+german i:P31L1, i:P33L1, i:P43L1
+german-speaking i:P31L1
+gesellschaft i:P31L1
+gesture i:P56L1
+getting i:P9L1, i:P62L1
+gibe i:P1L1
+gigantic i:P54L1
+girl i:P9L1
+give i:P13L1, i:P39L1, i:P111L1
+given i:P10L1
+glad i:P4L1
+glance i:P31L1
+glanced i:P54L1
+glancing i:P35L1
+glass-factories i:P31L1
+go i:P7L1, i:P36L1, i:P46L1
+go--none i:P99L1
+gold i:P114L1
+good i:P13L1, i:P20L1, i:P44L1, i:P120L1
+good-night i:P120L1
+gottsreich i:P57L1
+grand i:P57L1
+grating i:P34L1
+great i:P31L1, i:P52L1
+grit i:P1L1
+ground i:P56L1
+grow i:P52L1
+guineas i:P35L1
+ha i:P31L1
+habit i:P3L1
+had i:P2L1, i:P3L1, i:P10L1, i:P12L1, i:P20L1, i:P36L1, i:P40L1, i:P42L1, i:P43L1, i:P54L1, i:P57L1, i:P61L1
+half i:P5L1, i:P26L1
+halfway i:P42L1
+hall i:P14L1
+hand i:P42L1, i:P58L1
+handed i:P115L1
+hands i:P3L1, i:P11L1
+hanging i:P42L1
+happiness i:P2L1
+hardly i:P4L1, i:P22L1, i:P42L1
+harness i:P7L1
+harsh i:P43L1
+has i:P1L1, i:P10L1, i:P12L1, i:P24L1, i:P52L1, i:P78L1, i:P87L1, i:P99L1, i:P100L1, i:P103L1
+hat i:P42L1
+have i:P1L1, i:P5L1, i:P7L1, i:P9L1, i:P10L1, i:P12L1, i:P14L1, i:P20L1, i:P22L1, i:P24L1, i:P33L1, i:P42L1, i:P44L1, i:P47L1, i:P50L1, i:P58L1, i:P80L1, i:P83L1, i:P87L1, i:P96L1, i:P104L1, i:P109L1, i:P111L1, i:P120L1
+he i:P1L1, i:P2L1, i:P3L1, i:P4L1, i:P5L1, i:P11L1, i:P12L1, i:P13L1, i:P14L1, i:P20L1, i:P31L1, i:P33L1, i:P34L1, i:P35L1, i:P39L1, i:P42L1, i:P43L1, i:P46L1, i:P47L1, i:P55L1, i:P56L1, i:P61L1, i:P90L1, i:P114L1, i:P116L1, i:P118L1, i:P120L1
+head i:P3L1
+hear i:P13L1
+heard i:P1L1, i:P2L1, i:P40L1, i:P96L1
+heavy i:P31L1, i:P40L1, i:P42L1, i:P113L1
+hebrew i:P61L1
+height i:P42L1
+help i:P13L1, i:P39L1, i:P44L1
+hence i:P12L1
+her i:P1L1, i:P10L1, i:P61L1, i:P62L1, i:P68L1, i:P87L1, i:P97L1, i:P99L1
+hercules i:P42L1
+here i:P33L1, i:P39L1
+hereditary i:P52L1, i:P57L1
+herself i:P97L1
+high i:P58L1
+high-power i:P1L1
+him i:P1L1, i:P3L1, i:P12L1, i:P39L1, i:P54L1, i:P115L1
+himself i:P1L1, i:P2L1, i:P11L1, i:P14L1, i:P53L1
+his i:P1L1, i:P2L1, i:P3L1, i:P4L1, i:P11L1, i:P12L1, i:P13L1, i:P30L1, i:P31L1, i:P33L1, i:P42L1, i:P47L1, i:P50L1, i:P53L1, i:P54L1, i:P56L1, i:P58L1, i:P59L1, i:P61L1, i:P113L1, i:P115L1
+history i:P47L1
+hold i:P27L1
+holland i:P2L1
+holmes i:P1L1, i:P2L1, i:P3L1, i:P10L1, i:P27L1, i:P29L1, i:P34L1, i:P36L1, i:P41L1, i:P44L1, i:P46L1, i:P48L1, i:P51L1, i:P53L1, i:P54L1, i:P57L1, i:P59L1, i:P61L1, i:P62L1, i:P90L1, i:P104L1, i:P115L1, i:P118L1
+home i:P10L1
+home-centred i:P2L1
+honour i:P44L1, i:P45L1
+hoofs i:P34L1
+hopeless i:P2L1
+horses i:P34L1
+hot i:P3L1
+hour i:P22L1
+house i:P52L1, i:P87L1
+houses i:P22L1
+how i:P3L1, i:P8L1, i:P9L1, i:P10L1, i:P16L1, i:P18L1, i:P19L1, i:P63L1, i:P68L1, i:P94L1, i:P106L1
+however i:P2L1
+hum i:P62L1
+hundred i:P35L1, i:P114L1
+hundreds i:P17L1
+hurled i:P56L1
+i i:P1L1, i:P2L1, i:P3L1, i:P4L1, i:P5L1, i:P6L1, i:P7L1, i:P9L1, i:P10L1, i:P12L1, i:P13L1, i:P19L1, i:P20L1, i:P23L1, i:P24L1, i:P25L1, i:P26L1, i:P28L1, i:P32L1, i:P33L1, i:P36L1, i:P37L1, i:P39L1, i:P43L1, i:P44L1, i:P45L1, i:P46L1, i:P47L1, i:P48L1, i:P49L1, i:P50L1, i:P51L1, i:P53L1, i:P55L1, i:P56L1, i:P57L1, i:P58L1, i:P60L1, i:P61L1, i:P62L1, i:P68L1, i:P79L1, i:P81L1, i:P95L1, i:P96L1, i:P99L1, i:P101L1, i:P104L1, i:P106L1, i:P107L1, i:P111L1, i:P120L1
+if i:P12L1, i:P22L1, i:P33L1, i:P35L1, i:P43L1, i:P45L1, i:P55L1, i:P68L1, i:P120L1
+imagine i:P10L1, i:P23L1
+imitate i:P26L1
+imitated i:P74L1
+immediately i:P40L1
+immense i:P2L1, i:P52L1
+impatiently i:P54L1
+imperial i:P62L1
+implicates i:P52L1
+importance i:P22L1, i:P45L1, i:P47L1, i:P104L1
+impression i:P42L1
+in i:P1L1, i:P2L1, i:P3L1, i:P4L1, i:P7L1, i:P10L1, i:P12L1, i:P20L1, i:P22L1, i:P31L1, i:P32L1, i:P35L1, i:P39L1, i:P40L1, i:P41L1, i:P42L1, i:P44L1, i:P53L1, i:P54L1, i:P56L1, i:P58L1, i:P61L1, i:P62L1, i:P77L1, i:P87L1, i:P104L1, i:P114L1
+inches i:P42L1
+incidents i:P3L1
+incisive i:P54L1
+incognito i:P58L1
+incorrigible i:P10L1
+indeed i:P7L1, i:P12L1, i:P23L1, i:P57L1, i:P78L1, i:P92L1
+index i:P61L1
+indicated i:P4L1
+indiscretion i:P78L1
+influence i:P47L1
+information i:P61L1
+insensibly i:P24L1
+inside i:P12L1
+instance i:P13L1
+instead i:P24L1
+instrument i:P1L1
+intended i:P7L1
+interested i:P20L1
+interesting i:P37L1
+interests i:P2L1
+into i:P1L1, i:P7L1, i:P12L1, i:P14L1, i:P28L1, i:P46L1, i:P104L1
+introduce i:P1L1
+introspective i:P4L1
+intrusions i:P1L1
+iodoform i:P12L1
+irene i:P1L1, i:P60L1, i:P98L1
+is i:P1L1, i:P10L1, i:P12L1, i:P14L1, i:P20L1, i:P23L1, i:P24L1, i:P26L1, i:P27L1, i:P31L1, i:P33L1, i:P35L1, i:P44L1, i:P45L1, i:P46L1, i:P47L1, i:P50L1, i:P60L1, i:P62L1, i:P68L1, i:P69L1, i:P78L1, i:P90L1, i:P97L1, i:P104L1, i:P117L1
+it i:P1L1, i:P4L1, i:P9L1, i:P10L1, i:P12L1, i:P13L1, i:P20L1, i:P22L1, i:P23L1, i:P24L1, i:P25L1, i:P26L1, i:P27L1, i:P31L1, i:P33L1, i:P37L1, i:P42L1, i:P46L1, i:P47L1, i:P51L1, i:P56L1, i:P58L1, i:P61L1, i:P82L1, i:P84L1, i:P88L1, i:P90L1, i:P99L1, i:P100L1, i:P103L1, i:P113L1, i:P115L1, i:P118L1, i:P119L1
+its i:P31L1
+itself i:P12L1, i:P24L1
+jane i:P10L1
+jersey i:P62L1
+john's i:P117L1
+journey i:P3L1
+just i:P7L1, i:P12L1, i:P20L1, i:P50L1, i:P104L1
+keen i:P2L1, i:P3L1
+kindly i:P4L1, i:P61L1
+king i:P56L1, i:P57L1, i:P91L1, i:P97L1, i:P113L1
+kingdom i:P111L1
+kings i:P52L1
+knew i:P2L1, i:P3L1
+know i:P3L1, i:P8L1, i:P9L1, i:P19L1, i:P20L1, i:P97L1, i:P99L1, i:P106L1
+kramm i:P45L1, i:P105L1
+la i:P62L1
+laid i:P113L1
+langham i:P105L1
+languid i:P54L1
+large i:P28L1
+last i:P20L1
+late i:P1L1
+lately i:P2L1, i:P9L1
+laughed i:P90L1
+laughing i:P13L1
+lead i:P14L1
+leather i:P12L1, i:P113L1
+led i:P3L1
+left i:P12L1
+legal i:P66L1
+length i:P42L1
+lengths i:P99L1
+lengthy i:P60L1
+lenses i:P1L1
+less i:P42L1
+let i:P31L1, i:P62L1, i:P106L1
+letters i:P62L1, i:P68L1
+light i:P27L1
+lighting i:P14L1
+like i:P31L1, i:P120L1
+limbs i:P42L1
+line i:P106L1
+lined i:P42L1
+lip i:P42L1
+lit i:P3L1
+little i:P2L1, i:P7L1, i:P20L1, i:P35L1, i:P90L1, i:P120L1
+lived i:P10L1
+living i:P62L1
+loathed i:P2L1
+lodge i:P117L1
+lodgings i:P2L1
+london i:P12L1, i:P104L1
+london--quite i:P62L1
+long i:P11L1, i:P42L1
+look i:P61L1, i:P104L1
+looked i:P3L1, i:P4L1, i:P42L1, i:P43L1, i:P54L1
+lost i:P37L1
+lothman i:P97L1
+loud i:P40L1
+lounging i:P54L1
+lover i:P1L1
+lower i:P42L1
+luggage i:P87L1
+lying i:P20L1
+machine i:P1L1
+mad--insane i:P79L1
+made i:P32L1, i:P60L1, i:P87L1
+mademoiselle's i:P116L1
+majesty i:P55L1, i:P57L1, i:P62L1, i:P68L1, i:P78L1, i:P84L1, i:P104L1, i:P120L1
+make i:P29L1, i:P31L1
+maker i:P30L1
+malignant i:P12L1
+man i:P2L1, i:P26L1, i:P33L1, i:P42L1, i:P45L1, i:P54L1, i:P56L1
+manner i:P3L1, i:P4L1
+many i:P18L1, i:P19L1, i:P61L1
+march i:P3L1
+mark i:P12L1
+marked i:P43L1
+marriage i:P2L1, i:P64L1
+married i:P95L1
+marry i:P99L1
+mary i:P10L1
+mask i:P22L1, i:P33L1, i:P42L1, i:P50L1, i:P56L1
+master i:P2L1
+matter i:P22L1, i:P45L1, i:P47L1, i:P52L1, i:P58L1, i:P97L1, i:P120L1
+matters i:P22L1, i:P104L1
+may i:P20L1, i:P22L1, i:P39L1, i:P45L1, i:P46L1, i:P47L1, i:P50L1, i:P97L1
+me i:P3L1, i:P4L1, i:P7L1, i:P12L1, i:P13L1, i:P44L1, i:P45L1, i:P46L1, i:P50L1, i:P62L1, i:P91L1, i:P93L1, i:P105L1
+means i:P23L1
+medical i:P12L1
+member i:P12L1
+memory i:P1L1
+men i:P61L1, i:P99L1
+men's i:P1L1
+mental i:P1L1
+mention i:P1L1
+merely i:P2L1
+mess i:P10L1
+might i:P1L1, i:P52L1
+mind i:P1L1, i:P3L1, i:P39L1, i:P99L1
+miss i:P37L1
+mission i:P2L1
+mistake i:P24L1
+mistaken i:P33L1
+moment i:P22L1, i:P42L1
+monday i:P103L1
+money i:P35L1, i:P108L1
+monogram i:P30L1
+monograph i:P61L1
+mood i:P3L1
+more i:P1L1, i:P7L1, i:P58L1, i:P59L1
+most i:P1L1, i:P9L1, i:P45L1, i:P54L1, i:P99L1
+motives i:P1L1
+much i:P10L1, i:P45L1, i:P47L1
+mud i:P12L1
+murder i:P2L1
+murmured i:P53L1, i:P57L1, i:P61L1
+must i:P3L1, i:P12L1, i:P47L1, i:P82L1, i:P84L1
+my i:P2L1, i:P3L1, i:P10L1, i:P12L1, i:P13L1, i:P20L1, i:P26L1, i:P31L1, i:P37L1, i:P43L1, i:P44L1, i:P46L1, i:P50L1, i:P58L1, i:P61L1, i:P71L1, i:P73L1, i:P75L1, i:P87L1, i:P97L1, i:P111L1
+myself i:P13L1, i:P50L1, i:P58L1
+mysteries i:P2L1
+mystery i:P23L1
+name i:P1L1, i:P30L1, i:P60L1, i:P61L1, i:P105L1
+nature i:P1L1, i:P2L1
+neck i:P42L1
+nervous i:P11L1
+never i:P1L1, i:P39L1
+new i:P3L1, i:P62L1
+news i:P120L1
+next i:P103L1
+nice i:P35L1
+night--it i:P3L1
+nitrate i:P12L1
+no i:P24L1, i:P30L1, i:P47L1, i:P54L1, i:P60L1, i:P66L1, i:P87L1, i:P88L1, i:P99L1
+nobleman i:P45L1
+none i:P46L1, i:P65L1, i:P67L1, i:P89L1
+not i:P1L1, i:P4L1, i:P7L1, i:P12L1, i:P13L1, i:P14L1, i:P20L1, i:P22L1, i:P26L1, i:P27L1, i:P31L1, i:P33L1, i:P37L1, i:P45L1, i:P47L1, i:P50L1, i:P57L1, i:P58L1, i:P61L1, i:P85L1, i:P99L1, i:P100L1
+note i:P21L1, i:P24L1, i:P33L1, i:P43L1, i:P118L1
+note-book i:P115L1
+note-paper i:P71L1
+notepaper i:P20L1
+notes i:P114L1
+nothing i:P35L1
+notice i:P10L1
+numerous i:P31L1
+o'clock i:P22L1, i:P120L1
+observation i:P2L1
+observe i:P7L1, i:P14L1
+observed i:P20L1
+observer--excellent i:P1L1
+observing i:P1L1
+obstinacy i:P42L1
+obviously i:P12L1
+occasionally i:P44L1
+occupied i:P2L1
+odessa i:P2L1
+of i:P1L1, i:P2L1, i:P3L1, i:P4L1, i:P12L1, i:P13L1, i:P17L1, i:P20L1, i:P22L1, i:P24L1, i:P28L1, i:P29L1, i:P30L1, i:P31L1, i:P33L1, i:P34L1, i:P35L1, i:P42L1, i:P43L1, i:P45L1, i:P47L1, i:P51L1, i:P52L1, i:P53L1, i:P54L1, i:P56L1, i:P57L1, i:P58L1, i:P60L1, i:P61L1, i:P62L1, i:P88L1, i:P97L1, i:P99L1, i:P104L1, i:P105L1, i:P111L1, i:P115L1, i:P118L1, i:P120L1
+official i:P2L1
+often i:P16L1
+oh i:P78L1, i:P104L1
+old i:P2L1
+on i:P3L1, i:P5L1, i:P10L1, i:P12L1, i:P61L1, i:P103L1, i:P113L1
+once i:P50L1, i:P58L1, i:P59L1, i:P61L1, i:P87L1
+one i:P1L1, i:P3L1, i:P20L1, i:P22L1, i:P24L1, i:P43L1, i:P52L1, i:P91L1, i:P104L1, i:P111L1, i:P118L1
+only i:P33L1, i:P81L1
+open i:P20L1
+opening i:P61L1
+opera i:P62L1
+operatic i:P62L1
+opulence i:P42L1
+or i:P1L1, i:P20L1, i:P21L1, i:P30L1, i:P33L1, i:P46L1, i:P61L1, i:P66L1, i:P68L1, i:P104L1
+order i:P12L1
+ormstein i:P52L1, i:P57L1
+other i:P1L1, i:P2L1, i:P43L1, i:P68L1, i:P118L1
+our i:P2L1, i:P31L1, i:P33L1, i:P50L1, i:P54L1, i:P58L1
+out i:P2L1, i:P3L1, i:P10L1, i:P12L1, i:P35L1
+outside i:P40L1
+over i:P4L1, i:P20L1, i:P42L1, i:P58L1, i:P120L1
+own i:P1L1, i:P2L1, i:P3L1, i:P50L1, i:P58L1, i:P73L1
+paced i:P56L1
+pacing i:P3L1
+packet i:P26L1
+pair i:P35L1
+paper i:P25L1, i:P26L1, i:P27L1, i:P28L1, i:P32L1, i:P33L1
+paper-mills i:P31L1
+papers i:P66L1
+papier i:P31L1
+paragraphs i:P61L1
+parallel i:P12L1
+part i:P3L1, i:P42L1
+particularly i:P1L1, i:P12L1
+pass i:P3L1
+passage i:P40L1
+passed i:P3L1
+passing i:P58L1
+passions i:P1L1
+past i:P42L1
+patient i:P3L1
+paused i:P40L1
+pay i:P84L1, i:P87L1
+peculiar i:P33L1
+peculiar--that i:P27L1
+peculiarly i:P26L1
+perfect i:P1L1
+person i:P50L1, i:P58L1, i:P61L1, i:P62L1, i:P68L1
+photograph i:P75L1, i:P77L1, i:P92L1, i:P99L1, i:P111L1, i:P118L1
+pink-tinted i:P20L1
+pity i:P37L1
+placed i:P1L1
+plainly i:P52L1
+point i:P20L1
+police i:P2L1
+pooh i:P70L1
+position i:P1L1
+post i:P20L1
+pounds i:P5L1, i:P114L1
+power i:P58L1
+powers i:P2L1, i:P3L1
+practice i:P3L1, i:P7L1, i:P12L1
+prague i:P58L1
+pray i:P44L1, i:P59L1, i:P107L1
+precaution i:P52L1
+precise i:P1L1
+precisely i:P33L1, i:P63L1
+predominates i:P1L1
+prefer i:P45L1
+prefers i:P33L1
+present i:P47L1, i:P104L1, i:P112L1
+press i:P2L1
+presumably i:P26L1
+pretty i:P90L1
+prima i:P62L1
+prince i:P81L1
+principles i:P97L1
+private i:P71L1
+problem i:P3L1, i:P90L1
+problems i:P20L1
+process i:P13L1
+processes i:P26L1
+proclaimed i:P103L1
+produce i:P68L1
+profession i:P12L1
+progress i:P106L1
+promise i:P48L1
+promises i:P37L1
+pronounce i:P12L1
+propose i:P92L1
+prove i:P68L1
+provinces i:P111L1
+publicly i:P103L1
+pull i:P34L1
+purpose i:P58L1
+purposes i:P68L1
+pushed i:P42L1, i:P46L1
+put i:P5L1
+putting i:P58L1
+quarter i:P22L1
+quarters i:P22L1, i:P33L1
+quench i:P52L1
+question i:P118L1
+questionable i:P1L1
+quite i:P14L1, i:P20L1, i:P90L1
+rabbi i:P61L1
+raised i:P42L1
+rang i:P3L1
+ransacked i:P87L1
+rather i:P30L1, i:P99L1
+read i:P20L1
+readers i:P2L1
+reasoner i:P1L1, i:P54L1
+reasoning i:P1L1, i:P13L1
+reasons i:P13L1
+receipt i:P115L1
+received i:P22L1, i:P33L1
+recent i:P22L1
+recovered i:P82L1
+reigning i:P2L1, i:P52L1
+remained i:P2L1
+remains i:P33L1
+remarkable i:P31L1
+remarked i:P5L1, i:P13L1, i:P23L1, i:P26L1, i:P55L1
+remove i:P12L1
+reopened i:P54L1
+reproachfully i:P91L1
+resolute i:P99L1
+resolution i:P42L1
+resolve i:P33L1
+result i:P87L1
+results i:P1L1
+retired i:P62L1
+returned i:P3L1, i:P91L1
+returning i:P3L1
+rich i:P42L1
+richness i:P42L1
+ridiculously i:P13L1
+right i:P12L1, i:P56L1
+rise i:P2L1
+risen i:P3L1
+rolled i:P120L1
+room i:P3L1, i:P14L1, i:P56L1
+rooms i:P3L1, i:P12L1
+rose i:P46L1
+round i:P12L1
+royal i:P22L1, i:P120L1
+rubbed i:P11L1
+ruin i:P93L1
+russian i:P33L1
+safely i:P22L1
+said i:P10L1, i:P12L1, i:P20L1, i:P22L1, i:P27L1, i:P32L1, i:P35L1, i:P41L1, i:P44L1, i:P46L1, i:P47L1, i:P48L1, i:P51L1, i:P58L1, i:P59L1, i:P62L1, i:P90L1, i:P103L1, i:P104L1, i:P114L1, i:P118L1
+sandwiched i:P61L1
+save i:P1L1
+saw i:P3L1, i:P5L1, i:P28L1
+saxe-meningen i:P97L1
+say i:P46L1, i:P47L1
+scala i:P62L1
+scandal i:P52L1
+scandinavia i:P97L1
+scarlet i:P3L1
+scene i:P31L1
+scent i:P3L1
+scored i:P12L1
+scraped i:P12L1
+scribbled i:P115L1
+seat i:P44L1
+second i:P97L1
+secrecy i:P47L1
+secret i:P64L1
+secreted i:P12L1
+secured i:P42L1
+see i:P3L1, i:P4L1, i:P9L1, i:P10L1, i:P12L1, i:P14L1, i:P62L1
+seen i:P1L1, i:P2L1, i:P14L1, i:P20L1
+seized i:P3L1
+seldom i:P1L1, i:P4L1
+sell i:P85L1
+send i:P99L1, i:P103L1
+sensitive i:P1L1
+sent i:P31L1, i:P100L1
+sentence--'this i:P33L1
+serious i:P91L1
+seriously i:P52L1, i:P80L1
+serpentine i:P117L1
+servant i:P9L1
+services i:P22L1
+settling i:P53L1
+seven i:P5L1, i:P6L1, i:P114L1
+seventeen i:P20L1
+sex i:P1L1
+shadow i:P97L1
+shall i:P106L1, i:P107L1, i:P120L1
+shared i:P2L1
+sharp i:P34L1
+she i:P1L1, i:P10L1, i:P68L1, i:P85L1, i:P87L1, i:P92L1, i:P97L1, i:P99L1, i:P100L1, i:P103L1
+sheet i:P20L1, i:P115L1
+shelves i:P31L1
+sherlock i:P1L1
+shoe i:P12L1
+should i:P7L1, i:P45L1, i:P55L1, i:P56L1, i:P68L1, i:P99L1, i:P120L1
+shoulders i:P42L1, i:P47L1
+show i:P12L1
+showing i:P33L1
+shown i:P3L1, i:P22L1
+shrugged i:P47L1
+shutting i:P59L1
+side i:P12L1
+sigismond i:P57L1
+sign i:P88L1
+signature i:P21L1
+signs i:P2L1
+silhouette i:P3L1
+silk i:P42L1
+silver i:P12L1
+simple i:P13L1
+simplicity i:P12L1
+since i:P5L1, i:P20L1
+single i:P42L1
+singular i:P2L1, i:P4L1
+sitting i:P58L1
+six i:P12L1, i:P42L1
+slashed i:P42L1
+slavey i:P12L1
+sleeves i:P42L1
+slow i:P40L1
+slowly i:P54L1
+small i:P28L1, i:P31L1
+smelling i:P12L1
+sneer i:P1L1
+so i:P2L1, i:P13L1, i:P14L1, i:P20L1, i:P28L1, i:P33L1, i:P39L1, i:P58L1, i:P61L1, i:P62L1, i:P63L1, i:P96L1, i:P107L1
+society i:P2L1
+softer i:P1L1
+sole i:P12L1
+some i:P2L1, i:P3L1, i:P17L1, i:P54L1, i:P60L1, i:P62L1, i:P120L1
+someone i:P12L1
+soon i:P120L1
+soul i:P2L1, i:P97L1, i:P99L1
+sound i:P34L1, i:P35L1
+spare i:P3L1
+sparkled i:P31L1
+speak i:P52L1
+specimen i:P12L1
+spirit i:P4L1
+spoke i:P1L1, i:P34L1
+spoken i:P4L1, i:P57L1
+sprang i:P56L1
+st i:P117L1
+staff-commander i:P61L1
+stage--ha i:P62L1
+stairs i:P40L1
+stands i:P31L1
+state i:P55L1
+stay i:P37L1, i:P104L1
+steel i:P99L1
+step i:P40L1
+steps i:P14L1, i:P20L1
+stethoscope i:P12L1
+stiff i:P26L1
+still i:P2L1, i:P42L1
+stolen i:P72L1, i:P86L1
+stood i:P4L1
+story i:P3L1
+straight i:P42L1
+strange i:P50L1, i:P58L1
+street i:P2L1, i:P3L1, i:P120L1
+strict i:P97L1
+strikes i:P12L1
+strong i:P1L1, i:P26L1, i:P42L1
+strongly i:P43L1
+study i:P2L1, i:P3L1
+subject i:P61L1
+successfully i:P2L1
+successive i:P13L1
+such i:P1L1, i:P26L1, i:P47L1, i:P58L1
+sufficient i:P2L1
+suggested i:P42L1
+suggestive i:P42L1
+suit i:P24L1
+suits i:P5L1
+summons i:P2L1
+sunk i:P3L1
+sure i:P100L1, i:P101L1
+surprise i:P54L1
+swiftly i:P3L1
+system i:P61L1
+t i:P28L1, i:P31L1
+table i:P20L1, i:P113L1
+take i:P1L1, i:P22L1, i:P44L1
+taken i:P52L1
+tall i:P3L1
+tap i:P40L1
+taste i:P42L1
+tell i:P7L1, i:P12L1, i:P111L1
+temperament i:P1L1
+texture i:P28L1
+than i:P1L1, i:P42L1, i:P99L1
+that i:P1L1, i:P5L1, i:P7L1, i:P9L1, i:P10L1, i:P12L1, i:P13L1, i:P20L1, i:P22L1, i:P23L1, i:P29L1, i:P31L1, i:P33L1, i:P36L1, i:P39L1, i:P42L1, i:P43L1, i:P45L1, i:P47L1, i:P50L1, i:P53L1, i:P57L1, i:P58L1, i:P61L1, i:P78L1, i:P99L1, i:P100L1, i:P103L1, i:P104L1, i:P111L1, i:P120L1
+the i:P1L1, i:P2L1, i:P3L1, i:P4L1, i:P12L1, i:P13L1, i:P14L1, i:P20L1, i:P21L1, i:P22L1, i:P24L1, i:P25L1, i:P26L1, i:P27L1, i:P28L1, i:P30L1, i:P31L1, i:P32L1, i:P33L1, i:P34L1, i:P35L1, i:P40L1, i:P42L1, i:P43L1, i:P44L1, i:P45L1, i:P46L1, i:P47L1, i:P50L1, i:P52L1, i:P54L1, i:P56L1, i:P58L1, i:P60L1, i:P61L1, i:P62L1, i:P69L1, i:P77L1, i:P91L1, i:P92L1, i:P97L1, i:P99L1, i:P103L1, i:P104L1, i:P105L1, i:P111L1, i:P113L1, i:P118L1, i:P120L1
+their i:P3L1, i:P68L1
+them i:P99L1
+then i:P4L1, i:P8L1, i:P18L1, i:P22L1, i:P40L1, i:P47L1, i:P56L1, i:P59L1, i:P68L1, i:P81L1, i:P86L1, i:P104L1, i:P106L1, i:P108L1, i:P120L1
+theories i:P24L1
+theorise i:P24L1
+there i:P1L1, i:P10L1, i:P18L1, i:P20L1, i:P22L1, i:P34L1, i:P35L1, i:P40L1, i:P64L1, i:P69L1, i:P87L1, i:P99L1, i:P114L1
+there's i:P35L1
+therefore i:P33L1
+these i:P2L1, i:P20L1, i:P60L1
+they i:P1L1, i:P12L1
+thick i:P20L1, i:P42L1
+thing i:P13L1
+things i:P1L1, i:P61L1
+think i:P4L1, i:P5L1, i:P36L1
+thirty i:P81L1
+this i:P10L1, i:P14L1, i:P20L1, i:P22L1, i:P23L1, i:P33L1, i:P35L1, i:P37L1, i:P44L1, i:P45L1, i:P46L1, i:P50L1, i:P61L1, i:P62L1, i:P68L1, i:P120L1
+those i:P2L1, i:P62L1
+though i:P13L1
+thought i:P7L1
+threatens i:P99L1
+three i:P104L1, i:P114L1, i:P120L1
+threw i:P4L1, i:P20L1
+through i:P3L1
+throw i:P1L1
+throwing i:P14L1
+thrown i:P42L1
+thursday i:P10L1
+time i:P2L1, i:P47L1
+times i:P17L1
+title i:P50L1
+to i:P1L1, i:P2L1, i:P3L1, i:P4L1, i:P7L1, i:P10L1, i:P11L1, i:P12L1, i:P13L1, i:P14L1, i:P20L1, i:P22L1, i:P24L1, i:P26L1, i:P27L1, i:P33L1, i:P37L1, i:P42L1, i:P43L1, i:P44L1, i:P45L1, i:P46L1, i:P47L1, i:P50L1, i:P52L1, i:P54L1, i:P55L1, i:P56L1, i:P58L1, i:P60L1, i:P61L1, i:P68L1, i:P91L1, i:P92L1, i:P93L1, i:P95L1, i:P97L1, i:P99L1, i:P104L1, i:P106L1, i:P108L1, i:P111L1, i:P115L1, i:P120L1
+to-morrow i:P120L1
+to-night i:P22L1
+together i:P11L1
+told i:P3L1, i:P43L1
+too i:P10L1, i:P47L1
+took i:P31L1, i:P113L1, i:P118L1
+top-hat i:P12L1, i:P42L1
+tore i:P56L1
+tragedy i:P2L1
+trained i:P1L1
+travelled i:P87L1
+trepoff i:P2L1
+tried i:P83L1
+trifle i:P7L1, i:P20L1
+trimmed i:P42L1
+trincomalee i:P2L1
+triumphant i:P31L1
+trust i:P22L1, i:P45L1, i:P120L1
+twentieth i:P3L1
+twice i:P3L1, i:P87L1
+twist i:P24L1
+uncertain i:P43L1
+uncontrollable i:P56L1
+uncourteous i:P33L1
+under i:P1L1, i:P26L1, i:P105L1, i:P113L1
+understand i:P45L1, i:P58L1, i:P62L1
+unknown i:P50L1
+until i:P13L1
+up i:P1L1, i:P2L1, i:P3L1, i:P12L1, i:P14L1, i:P20L1, i:P22L1, i:P25L1, i:P27L1, i:P31L1, i:P33L1, i:P40L1, i:P42L1, i:P47L1, i:P56L1, i:P61L1, i:P115L1
+us i:P2L1, i:P31L1, i:P39L1, i:P43L1
+vague i:P2L1
+veil i:P1L1
+verbs i:P33L1
+very i:P9L1, i:P12L1, i:P22L1, i:P27L1, i:P42L1, i:P78L1, i:P91L1, i:P92L1, i:P97L1, i:P104L1
+vile i:P12L1
+visit i:P60L1
+visitor i:P22L1, i:P50L1, i:P54L1, i:P58L1
+vizard i:P42L1
+voice i:P43L1
+volume i:P31L1
+von i:P45L1, i:P57L1, i:P97L1, i:P105L1
+walk i:P10L1
+walks i:P12L1
+wallenstein i:P31L1
+want i:P39L1
+wanted i:P33L1
+warsaw i:P60L1
+warsaw--yes i:P62L1
+was i:P1L1, i:P2L1, i:P3L1, i:P4L1, i:P21L1, i:P25L1, i:P26L1, i:P32L1, i:P34L1, i:P40L1, i:P42L1, i:P51L1, i:P53L1, i:P57L1, i:P58L1, i:P61L1, i:P64L1, i:P79L1, i:P81L1, i:P103L1, i:P118L1, i:P119L1
+watson i:P5L1, i:P7L1, i:P35L1, i:P44L1, i:P120L1
+waved i:P4L1
+way i:P3L1, i:P20L1
+waylaid i:P87L1
+we i:P22L1, i:P31L1, i:P33L1, i:P77L1, i:P83L1, i:P87L1, i:P104L1, i:P106L1, i:P120L1
+wear i:P22L1, i:P33L1
+weather i:P5L1, i:P12L1
+weight i:P47L1
+well i:P3L1, i:P17L1, i:P26L1, i:P60L1
+were i:P1L1, i:P2L1, i:P3L1, i:P42L1, i:P77L1
+wet i:P9L1
+what i:P23L1, i:P24L1, i:P29L1, i:P31L1, i:P33L1, i:P52L1, i:P92L1
+wheels i:P34L1, i:P120L1
+when i:P3L1, i:P13L1, i:P87L1, i:P103L1
+where i:P12L1, i:P37L1
+which i:P1L1, i:P2L1, i:P3L1, i:P13L1, i:P14L1, i:P20L1, i:P22L1, i:P25L1, i:P31L1, i:P40L1, i:P42L1, i:P43L1, i:P46L1, i:P50L1, i:P61L1, i:P99L1
+while i:P2L1, i:P42L1
+whistled i:P34L1
+white i:P58L1
+who i:P2L1, i:P3L1, i:P12L1, i:P22L1, i:P26L1, i:P33L1, i:P42L1, i:P44L1, i:P50L1, i:P54L1, i:P61L1
+whole i:P1L1, i:P2L1, i:P42L1
+whom i:P44L1, i:P45L1
+wilhelm i:P57L1
+will i:P22L1, i:P47L1, i:P50L1, i:P85L1, i:P99L1, i:P103L1, i:P104L1, i:P105L1, i:P120L1
+window i:P35L1
+wishes i:P50L1
+with i:P1L1, i:P2L1, i:P3L1, i:P4L1, i:P12L1, i:P13L1, i:P22L1, i:P28L1, i:P31L1, i:P42L1, i:P43L1, i:P45L1, i:P54L1, i:P56L1, i:P62L1, i:P92L1, i:P104L1, i:P120L1
+without i:P21L1, i:P37L1, i:P58L1, i:P61L1
+woman i:P1L1, i:P99L1
+women i:P99L1
+wood i:P117L1
+wooing i:P3L1
+word i:P4L1, i:P27L1
+wore i:P42L1
+work i:P3L1, i:P10L1
+world i:P1L1
+would i:P1L1, i:P10L1, i:P37L1, i:P42L1, i:P43L1, i:P55L1, i:P97L1, i:P99L1, i:P103L1, i:P111L1
+woven i:P28L1
+wrist i:P46L1
+written i:P25L1, i:P33L1, i:P61L1, i:P69L1
+wrote i:P26L1, i:P33L1, i:P62L1
+yawn i:P104L1
+year i:P47L1, i:P60L1, i:P61L1, i:P62L1
+yes i:P35L1
+yet i:P1L1, i:P13L1, i:P20L1, i:P24L1, i:P58L1, i:P100L1, i:P104L1
+you i:P5L1, i:P7L1, i:P8L1, i:P9L1, i:P10L1, i:P12L1, i:P13L1, i:P14L1, i:P20L1, i:P22L1, i:P23L1, i:P24L1, i:P29L1, i:P31L1, i:P33L1, i:P37L1, i:P43L1, i:P45L1, i:P46L1, i:P47L1, i:P50L1, i:P55L1, i:P56L1, i:P58L1, i:P60L1, i:P80L1, i:P97L1, i:P99L1, i:P100L1, i:P105L1, i:P106L1, i:P109L1, i:P111L1, i:P120L1
+young i:P62L1, i:P68L1, i:P81L1
+your i:P9L1, i:P12L1, i:P13L1, i:P22L1, i:P38L1, i:P39L1, i:P45L1, i:P55L1, i:P57L1, i:P62L1, i:P68L1, i:P78L1, i:P80L1, i:P84L1, i:P104L1, i:P120L1
+yours i:P13L1
